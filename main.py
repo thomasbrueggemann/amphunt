@@ -4,6 +4,7 @@ import re
 import json
 from tqdm import tqdm
 import os
+import csv
 
 base_url = "https://tonehunt.org"
 page = 0
@@ -32,20 +33,23 @@ else:
     models = []
 
 try:
-    progress_bar = tqdm(detail_links, desc="Scraping models", unit="link")
+    progress_bar = tqdm(detail_links, desc="Scraping pages", unit="pages")
     for link in progress_bar:
 
         id = link.split("/")[-1]
 
         if any(m["id"] == id for m in models):
-            continue
+            continue   
 
         url = f"{base_url}{link}"
         response = requests.get(url)
         soup = BeautifulSoup(response.content, "html.parser")
         
         model = {
-            "id": id
+            "id": id,
+            "url": url,
+            "favs": 0,
+            "downloads": 0
         }
 
         make_and_model_h5 = soup.find("h5", string="Make and model")
@@ -56,11 +60,13 @@ try:
 
         form = soup.find("form", action="/favorites/add")
         if form:
-            model["favs"] = int(form.text)
+            favs_text = re.sub(r'\D', '', form.text)
+            model["favs"] = int(favs_text)
 
             buttom = form.find_next_sibling("button")
             if buttom:
-                model["downloads"] = int(buttom.text)
+                downloads_text = re.sub(r'\D', '', buttom.text)
+                model["downloads"] = int(downloads_text)
 
         models.append(model)
 
@@ -69,4 +75,9 @@ except Exception as e:
 
 finally:
     with open("models.json", "w") as json_file:
-        json.dump(models, json_file)
+        json.dump(models, json_file, indent=4)
+
+    with open("models.csv", "w", newline="") as csv_file:
+        writer = csv.DictWriter(csv_file, fieldnames=["id", "model", "favs", "downloads", "url"], delimiter=";")
+        writer.writeheader()
+        writer.writerows(models)
