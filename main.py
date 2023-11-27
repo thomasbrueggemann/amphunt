@@ -78,6 +78,6 @@ finally:
         json.dump(models, json_file, indent=4)
 
     with open("models.csv", "w", newline="") as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=["id", "model", "favs", "downloads", "url"], delimiter=";")
+        writer = csv.DictWriter(csv_file, fieldnames=["id", "model", "favs", "downloads", "url"])
         writer.writeheader()
         writer.writerows(models)
