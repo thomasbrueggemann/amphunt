@@ -25,59 +25,45 @@ while has_more_pages:
     page += 1
     print(f"Page {page} scraped, {len(new_links)} links found, {len(detail_links)} total...")
 
-models_filepath = "models.json"
-if os.path.exists(models_filepath):
-    with open("models.json", "r") as json_file:
-        models = json.load(json_file)
-else:
-    models = []
+models = []
 
-try:
-    progress_bar = tqdm(detail_links, desc="Scraping pages", unit="pages")
-    for link in progress_bar:
+progress_bar = tqdm(detail_links, desc="Scraping pages", unit="pages")
+for link in progress_bar:
 
-        id = link.split("/")[-1]
+    id = link.split("/")[-1]
+    url = f"{base_url}{link}"
+    response = requests.get(url)
+    soup = BeautifulSoup(response.content, "html.parser")
+    
+    model = {
+        "id": id,
+        "url": url,
+        "favs": 0,
+        "downloads": 0
+    }
 
-        if any(m["id"] == id for m in models):
-            continue   
+    make_and_model_h5 = soup.find("h5", string="Make and model")
+    if make_and_model_h5:
+        model_h4 = make_and_model_h5.find_next_sibling("h4")
+        if model_h4:
+            model["model"] = model_h4.text
 
-        url = f"{base_url}{link}"
-        response = requests.get(url)
-        soup = BeautifulSoup(response.content, "html.parser")
-        
-        model = {
-            "id": id,
-            "url": url,
-            "favs": 0,
-            "downloads": 0
-        }
+    form = soup.find("form", action="/favorites/add")
+    if form:
+        favs_text = re.sub(r'\D', '', form.text)
+        model["favs"] = int(favs_text)
 
-        make_and_model_h5 = soup.find("h5", string="Make and model")
-        if make_and_model_h5:
-            model_h4 = make_and_model_h5.find_next_sibling("h4")
-            if model_h4:
-                model["model"] = model_h4.text
+        buttom = form.find_next_sibling("button")
+        if buttom:
+            downloads_text = re.sub(r'\D', '', buttom.text)
+            model["downloads"] = int(downloads_text)
 
-        form = soup.find("form", action="/favorites/add")
-        if form:
-            favs_text = re.sub(r'\D', '', form.text)
-            model["favs"] = int(favs_text)
+    models.append(model)
 
-            buttom = form.find_next_sibling("button")
-            if buttom:
-                downloads_text = re.sub(r'\D', '', buttom.text)
-                model["downloads"] = int(downloads_text)
+with open("models.json", "w") as json_file:
+    json.dump(models, json_file, indent=4)
 
-        models.append(model)
-
-except Exception as e:
-    print(e)
-
-finally:
-    with open("models.json", "w") as json_file:
-        json.dump(models, json_file, indent=4)
-
-    with open("models.csv", "w", newline="") as csv_file:
-        writer = csv.DictWriter(csv_file, fieldnames=["id", "model", "favs", "downloads", "url"])
-        writer.writeheader()
-        writer.writerows(models)
+with open("models.csv", "w", newline="") as csv_file:
+    writer = csv.DictWriter(csv_file, fieldnames=["id", "model", "favs", "downloads", "url"])
+    writer.writeheader()
+    writer.writerows(models)
