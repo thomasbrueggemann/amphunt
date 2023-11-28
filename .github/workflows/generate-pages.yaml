@@ -1,5 +1,5 @@
 
-name: Generate
+name: generate-pages
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  scrape:
+  generate-pages:
     runs-on: ubuntu-latest
 
     steps:
