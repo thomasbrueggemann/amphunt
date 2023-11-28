@@ -8,15 +8,16 @@ def slugify(text):
     text = re.sub(r"[\s_]+", "-", text)
     return text
 
-def render_brand_page(tpl, brand, brand_models):
+def render_brand_page(brand, brand_models):
     id = slugify(brand)
 
     brand_models.sort(key=lambda x: x.get("downloads", 0), reverse=True)
 
-    result = chevron.render(tpl, {
-        'brand': brand,
-        'models': brand_models
-    })
+    with open('detail.mustache', 'r') as f:
+        result = chevron.render(f, {
+            'brand': brand,
+            'models': brand_models
+        })
 
     with open(f'docs/{id}.html', 'w') as f:
         f.write(result)
@@ -36,6 +37,5 @@ with open('docs/index.html', 'w') as f:
     f.write(result)
 
 # generate detail pages
-with open('detail.mustache', 'r') as f:
-    for brand, models in data.items():
-        render_brand_page(f, brand, models)
+for brand, models in data.items():
+    render_brand_page(brand, models)
