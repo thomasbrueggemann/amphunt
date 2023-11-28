@@ -1,49 +1,49 @@
 import json
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.cluster import KMeans
+from fuzzywuzzy import fuzz
+from tqdm import tqdm
 
 with open("models.json", "r") as file:
     models = json.load(file)
 
-# Split the "model" property and get the first component
-model_names = [model["model"].split()[0] for model in models]
+with open("brands.json", "r") as file:
+    brands = json.load(file)
 
-print(set(model_names))
+with tqdm(total=len(models), desc="Processing models") as pbar:
+    for model in models:
+        model_name = model["model"]
+        for brand in brands:
+            similarity_ratio = fuzz.token_set_ratio(model_name, brand)
+            if similarity_ratio >= 80:  # Adjust the threshold as needed
 
-# Calculate the amount of unique first components, which might correlate the brand names
-unique_component_estimator = len(set(model_names))
+                if not "brands" in model:
+                    model["brands"] = []
 
-# Extract the model names
-model_names = [model["model"] for model in models]
+                model["brands"].append(brand)
 
-# Vectorize the model names
-vectorizer = TfidfVectorizer()
-X = vectorizer.fit_transform(model_names)
+        pbar.update(1)
 
-# Perform clustering
-print(f"Clustering with {unique_component_estimator} clusters")
-kmeans = KMeans(n_clusters=unique_component_estimator)  # Change the number of clusters as needed
-kmeans.fit(X)
+count = sum("brands" not in model for model in models)
+print(f"{count} models without brands")
+print()
 
-# Get the cluster labels
-cluster_labels = kmeans.labels_
+with open("model_brands.json", "w") as file:
+    json.dump(models, file, indent=4)
 
-# Print the clusters
-clustered_models = {}
-for i in range(len(models)):
-    cluster_label = int(cluster_labels[i])
-    
-    if cluster_label not in clustered_models:
-        clustered_models[cluster_label] = []
-    
-    clustered_models[cluster_label].append(models[i])
+brands_dict = {}
 
-# Write clustered_models to a JSON file
-with open("clustered_models.json", "w") as file:
-    json.dump(clustered_models, file, indent=4)
+for model in models:
+    if "brands" in model:
+        for brand in model["brands"]:
+            if brand not in brands_dict:
+                brands_dict[brand] = []
+            
+            brands_dict[brand].append(model)
 
+sorted_brands = sorted(brands_dict, key=lambda x: len(brands_dict[x]), reverse=True)
+for brand in sorted_brands:
+    count = len(brands_dict[brand])
+    print(f"{brand}: {count}")
 
-
-
-
+with open("brand_models.json", "w") as file:
+    json.dump(brands_dict, file, indent=4)
 
