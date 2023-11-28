@@ -8,6 +8,8 @@ with open("models.json", "r") as file:
 # Split the "model" property and get the first component
 model_names = [model["model"].split()[0] for model in models]
 
+print(set(model_names))
+
 # Calculate the amount of unique first components, which might correlate the brand names
 unique_component_estimator = len(set(model_names))
 
