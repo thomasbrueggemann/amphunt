@@ -328,7 +328,7 @@
             "downloads": 93,
             "model": "Engl, Marshall, Peavey",
             "brands": [
-                "Engl",
+                "ENGL",
                 "Marshall",
                 "Peavey"
             ]
@@ -637,6 +637,7 @@
             "downloads": 287,
             "model": "Marshall JCM800 2203kk Kerry King Signature",
             "brands": [
+                "King",
                 "Marshall"
             ]
         },
@@ -858,11 +859,7 @@
             "downloads": 91,
             "model": "Marshall Origin 50 modded by Coven Amplification",
             "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Marshall",
-                "Tatoo Amplification"
+                "Marshall"
             ]
         },
         {
@@ -1200,7 +1197,7 @@
                 "Behringer",
                 "Peavey",
                 "Way Huge",
-                "Wren & Cuff"
+                "Wren Cuff"
             ]
         },
         {
@@ -1241,7 +1238,7 @@
             "model": "Wren And Cuff Tall Font, Peavey Ultra 60w",
             "brands": [
                 "Peavey",
-                "Wren & Cuff"
+                "Wren Cuff"
             ]
         },
         {
@@ -1372,7 +1369,7 @@
             "downloads": 93,
             "model": "Engl, Marshall, Peavey",
             "brands": [
-                "Engl",
+                "ENGL",
                 "Marshall",
                 "Peavey"
             ]
@@ -1486,6 +1483,7 @@
             "downloads": 32,
             "model": "Peavey Valve King Vk100",
             "brands": [
+                "King",
                 "Peavey"
             ]
         },
@@ -1496,6 +1494,7 @@
             "downloads": 32,
             "model": "Peavey Valve King Vk100",
             "brands": [
+                "King",
                 "Peavey"
             ]
         },
@@ -1517,6 +1516,7 @@
             "downloads": 52,
             "model": "Peavey Valve King Vk100",
             "brands": [
+                "King",
                 "Peavey"
             ]
         },
@@ -1527,6 +1527,7 @@
             "downloads": 42,
             "model": "Peavey Valve King Vk100",
             "brands": [
+                "King",
                 "Peavey"
             ]
         },
@@ -1537,6 +1538,7 @@
             "downloads": 40,
             "model": "Peavey Valve King Vk100",
             "brands": [
+                "King",
                 "Peavey"
             ]
         },
@@ -1547,6 +1549,7 @@
             "downloads": 68,
             "model": "Peavey Valve King Vk100",
             "brands": [
+                "King",
                 "Peavey"
             ]
         },
@@ -1649,7 +1652,7 @@
             "downloads": 107,
             "model": "Peavey rockmaster/engl e530",
             "brands": [
-                "Engl",
+                "ENGL",
                 "Peavey"
             ]
         },
@@ -1981,6 +1984,208 @@
             ]
         }
     ],
+    "King": [
+        {
+            "id": "83c9acfc-d32b-431e-b683-233b897fb6b5",
+            "url": "https://tonehunt.org/2dor/83c9acfc-d32b-431e-b683-233b897fb6b5",
+            "model": "Salvation Audio Unnamed, Ceriatone King Kong 100W",
+            "favs": 12,
+            "downloads": 35,
+            "brands": [
+                "King",
+                "M-Audio"
+            ]
+        },
+        {
+            "id": "f79ce97e-777b-4b5d-ae46-2c28a45ca2de",
+            "url": "https://tonehunt.org/2dor/f79ce97e-777b-4b5d-ae46-2c28a45ca2de",
+            "model": "Ceriatone King Kong 100W",
+            "favs": 10,
+            "downloads": 40,
+            "brands": [
+                "King"
+            ]
+        },
+        {
+            "id": "03e857b8-ad70-4f47-9662-385ecd6f45d5",
+            "url": "https://tonehunt.org/2dor/03e857b8-ad70-4f47-9662-385ecd6f45d5",
+            "model": "Salvation Audio Unnamed, MXR M77, Ceriatone King Kong 100W",
+            "favs": 9,
+            "downloads": 24,
+            "brands": [
+                "King",
+                "M-Audio",
+                "MXR"
+            ]
+        },
+        {
+            "id": "f9b40b87-2096-4db8-b8c4-544d0e9d8984",
+            "url": "https://tonehunt.org/2dor/f9b40b87-2096-4db8-b8c4-544d0e9d8984",
+            "model": "Ceriatone King Kong 100W",
+            "favs": 13,
+            "downloads": 43,
+            "brands": [
+                "King"
+            ]
+        },
+        {
+            "id": "d614d3cf-03c3-4d80-b16e-04f7e753bdea",
+            "url": "https://tonehunt.org/2dor/d614d3cf-03c3-4d80-b16e-04f7e753bdea",
+            "model": "Ceriatone King Kong 100W",
+            "favs": 14,
+            "downloads": 33,
+            "brands": [
+                "King"
+            ]
+        },
+        {
+            "id": "b114de4f-0d11-4e31-a940-f42cfd4130d9",
+            "url": "https://tonehunt.org/lucenstuff/b114de4f-0d11-4e31-a940-f42cfd4130d9",
+            "favs": 2,
+            "downloads": 9,
+            "model": "Seymour Duncanc - King Tone Generator",
+            "brands": [
+                "King"
+            ]
+        },
+        {
+            "id": "6071eaeb-5455-4ce0-90ca-e9ab7427dc89",
+            "url": "https://tonehunt.org/hardlock/6071eaeb-5455-4ce0-90ca-e9ab7427dc89",
+            "favs": 18,
+            "downloads": 64,
+            "model": "Tone King Imperial Mk 11",
+            "brands": [
+                "King"
+            ]
+        },
+        {
+            "id": "21ec7bdd-3e50-4819-9304-77bbd95178ff",
+            "url": "https://tonehunt.org/hardlock/21ec7bdd-3e50-4819-9304-77bbd95178ff",
+            "favs": 20,
+            "downloads": 59,
+            "model": "Tone King Imperial 20TH Anniversary",
+            "brands": [
+                "King"
+            ]
+        },
+        {
+            "id": "fa898fe4-265c-4304-86ae-1879664e8d8a",
+            "url": "https://tonehunt.org/d_Vincent_b/fa898fe4-265c-4304-86ae-1879664e8d8a",
+            "favs": 17,
+            "downloads": 51,
+            "model": "Ceriatone King Kong",
+            "brands": [
+                "King"
+            ]
+        },
+        {
+            "id": "a2471ff2-066b-4b83-8d11-47bb840309f4",
+            "url": "https://tonehunt.org/ReedDunn/a2471ff2-066b-4b83-8d11-47bb840309f4",
+            "favs": 9,
+            "downloads": 32,
+            "model": "Peavey Valve King Vk100",
+            "brands": [
+                "King",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "350b5cd5-591a-456e-b9ac-11ab9382420f",
+            "url": "https://tonehunt.org/ReedDunn/350b5cd5-591a-456e-b9ac-11ab9382420f",
+            "favs": 8,
+            "downloads": 32,
+            "model": "Peavey Valve King Vk100",
+            "brands": [
+                "King",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "45a5ef21-5072-4c3c-9d67-befd54c50623",
+            "url": "https://tonehunt.org/ReedDunn/45a5ef21-5072-4c3c-9d67-befd54c50623",
+            "favs": 14,
+            "downloads": 52,
+            "model": "Peavey Valve King Vk100",
+            "brands": [
+                "King",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "02984d30-3691-4e95-9084-7d3386e8bb7f",
+            "url": "https://tonehunt.org/ReedDunn/02984d30-3691-4e95-9084-7d3386e8bb7f",
+            "favs": 11,
+            "downloads": 42,
+            "model": "Peavey Valve King Vk100",
+            "brands": [
+                "King",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "6b5d99f9-9310-443a-bccb-51eed05b5078",
+            "url": "https://tonehunt.org/ReedDunn/6b5d99f9-9310-443a-bccb-51eed05b5078",
+            "favs": 12,
+            "downloads": 40,
+            "model": "Peavey Valve King Vk100",
+            "brands": [
+                "King",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "500a0def-d959-4a90-bb4c-d380a6a273b0",
+            "url": "https://tonehunt.org/ReedDunn/500a0def-d959-4a90-bb4c-d380a6a273b0",
+            "favs": 18,
+            "downloads": 68,
+            "model": "Peavey Valve King Vk100",
+            "brands": [
+                "King",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "9390c280-42fb-458f-ae21-d40e2ee06ebc",
+            "url": "https://tonehunt.org/amalgamaudio/9390c280-42fb-458f-ae21-d40e2ee06ebc",
+            "favs": 90,
+            "downloads": 401,
+            "model": "Tone King Imperial MKII",
+            "brands": [
+                "King"
+            ]
+        },
+        {
+            "id": "102229cb-25d1-4151-80fc-8b6e6b3e86a8",
+            "url": "https://tonehunt.org/OliRossow/102229cb-25d1-4151-80fc-8b6e6b3e86a8",
+            "favs": 71,
+            "downloads": 287,
+            "model": "Marshall JCM800 2203kk Kerry King Signature",
+            "brands": [
+                "King",
+                "Marshall"
+            ]
+        },
+        {
+            "id": "d49f1284-801c-47fb-bc3c-897a3e233c24",
+            "url": "https://tonehunt.org/fabionet/d49f1284-801c-47fb-bc3c-897a3e233c24",
+            "favs": 8,
+            "downloads": 77,
+            "model": "My Kerry King preset",
+            "brands": [
+                "King"
+            ]
+        },
+        {
+            "id": "b91a6f35-ed23-44ca-af72-cdfe7fdff647",
+            "url": "https://tonehunt.org/georgeb/b91a6f35-ed23-44ca-af72-cdfe7fdff647",
+            "favs": 11,
+            "downloads": 81,
+            "model": "Ceriatone King Kong",
+            "brands": [
+                "King"
+            ]
+        }
+    ],
     "M-Audio": [
         {
             "id": "83c9acfc-d32b-431e-b683-233b897fb6b5",
@@ -1989,6 +2194,7 @@
             "favs": 12,
             "downloads": 35,
             "brands": [
+                "King",
                 "M-Audio"
             ]
         },
@@ -1999,6 +2205,7 @@
             "favs": 9,
             "downloads": 24,
             "brands": [
+                "King",
                 "M-Audio",
                 "MXR"
             ]
@@ -2030,9 +2237,6 @@
             "downloads": 17,
             "model": "Custom Audio",
             "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
                 "M-Audio"
             ]
         },
@@ -2043,9 +2247,6 @@
             "downloads": 16,
             "model": "Custom Audio",
             "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
                 "M-Audio"
             ]
         },
@@ -2076,9 +2277,6 @@
             "downloads": 21,
             "model": "Custom Audio",
             "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
                 "M-Audio"
             ]
         },
@@ -2089,9 +2287,6 @@
             "downloads": 21,
             "model": "Custom Audio",
             "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
                 "M-Audio"
             ]
         },
@@ -2102,9 +2297,6 @@
             "downloads": 22,
             "model": "Custom Audio",
             "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
                 "M-Audio"
             ]
         },
@@ -2125,9 +2317,6 @@
             "downloads": 29,
             "model": "Custom Audio",
             "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
                 "M-Audio"
             ]
         },
@@ -2138,9 +2327,6 @@
             "downloads": 27,
             "model": "Custom Audio",
             "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
                 "M-Audio"
             ]
         },
@@ -2152,7 +2338,8 @@
             "model": "Walrus Audio ACS1 VOX AC30",
             "brands": [
                 "M-Audio",
-                "Vox"
+                "Vox",
+                "Walrus"
             ]
         }
     ],
@@ -2533,7 +2720,7 @@
                 "Behringer",
                 "Peavey",
                 "Way Huge",
-                "Wren & Cuff"
+                "Wren Cuff"
             ]
         },
         {
@@ -3051,7 +3238,7 @@
                 "Behringer",
                 "Peavey",
                 "Way Huge",
-                "Wren & Cuff"
+                "Wren Cuff"
             ]
         },
         {
@@ -3079,7 +3266,7 @@
             ]
         }
     ],
-    "Wren & Cuff": [
+    "Wren Cuff": [
         {
             "id": "7307a9ec-544b-4323-b437-efcf1f0eb88b",
             "url": "https://tonehunt.org/helgab/7307a9ec-544b-4323-b437-efcf1f0eb88b",
@@ -3090,7 +3277,7 @@
                 "Behringer",
                 "Peavey",
                 "Way Huge",
-                "Wren & Cuff"
+                "Wren Cuff"
             ]
         },
         {
@@ -3101,7 +3288,7 @@
             "model": "Wren And Cuff Tall Font, Peavey Ultra 60w",
             "brands": [
                 "Peavey",
-                "Wren & Cuff"
+                "Wren Cuff"
             ]
         }
     ],
@@ -3584,7 +3771,8 @@
             "downloads": 91,
             "model": "Mesa Boogie Lone Star Special",
             "brands": [
-                "Mesa/Boogie"
+                "Mesa/Boogie",
+                "Star"
             ]
         },
         {
@@ -3605,7 +3793,8 @@
             "model": "Wizard, Diezel , Driftwood, ESH, Mesa Boogie, Masotti",
             "brands": [
                 "Diezel",
-                "Mesa/Boogie"
+                "Mesa/Boogie",
+                "Wizard"
             ]
         },
         {
@@ -4232,7 +4421,7 @@
             "model": "Synergy Soldano SLO, ENGL Ironball, Ibanez TS9, Pepers Pedals Dirty Tree",
             "brands": [
                 "Dirty",
-                "Engl",
+                "ENGL",
                 "Ibanez",
                 "Soldano",
                 "Synergy"
@@ -4581,7 +4770,8 @@
             "downloads": 63,
             "model": "Fender",
             "brands": [
-                "Fender Custom Shop Series",
+                "Fender Shop",
+                "Fender Shop Series",
                 "Fender\u00ae"
             ]
         },
@@ -4769,7 +4959,7 @@
             ]
         }
     ],
-    "Crate": [
+    "65": [
         {
             "id": "214b4561-0716-4f21-847c-99e7619df246",
             "url": "https://tonehunt.org/markswarbrick/214b4561-0716-4f21-847c-99e7619df246",
@@ -4777,6 +4967,7 @@
             "favs": 7,
             "downloads": 15,
             "brands": [
+                "65",
                 "Crate"
             ]
         },
@@ -4787,6 +4978,31 @@
             "downloads": 9,
             "model": "Crate GX-65",
             "brands": [
+                "65",
+                "Crate"
+            ]
+        }
+    ],
+    "Crate": [
+        {
+            "id": "214b4561-0716-4f21-847c-99e7619df246",
+            "url": "https://tonehunt.org/markswarbrick/214b4561-0716-4f21-847c-99e7619df246",
+            "model": "Crate GX-65",
+            "favs": 7,
+            "downloads": 15,
+            "brands": [
+                "65",
+                "Crate"
+            ]
+        },
+        {
+            "id": "18a4b7c0-f744-4eaf-adcc-a53575fdca83",
+            "url": "https://tonehunt.org/markswarbrick/18a4b7c0-f744-4eaf-adcc-a53575fdca83",
+            "favs": 4,
+            "downloads": 9,
+            "model": "Crate GX-65",
+            "brands": [
+                "65",
                 "Crate"
             ]
         },
@@ -4870,6 +5086,7 @@
             "favs": 9,
             "downloads": 24,
             "brands": [
+                "King",
                 "M-Audio",
                 "MXR"
             ]
@@ -5246,14 +5463,14 @@
             "model": "Synergy Soldano SLO, ENGL Ironball, Ibanez TS9, Pepers Pedals Dirty Tree",
             "brands": [
                 "Dirty",
-                "Engl",
+                "ENGL",
                 "Ibanez",
                 "Soldano",
                 "Synergy"
             ]
         }
     ],
-    "Engl": [
+    "ENGL": [
         {
             "id": "c5670d47-9275-4e49-b0a0-164b994b98da",
             "url": "https://tonehunt.org/tr00_kvlt/c5670d47-9275-4e49-b0a0-164b994b98da",
@@ -5261,7 +5478,7 @@
             "downloads": 39,
             "model": "ENGL Fireball 60 (E625)",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5271,7 +5488,7 @@
             "downloads": 25,
             "model": "ENGL Gigmaster 15",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5281,7 +5498,7 @@
             "downloads": 125,
             "model": "Engl Fireball 25 E633",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5291,7 +5508,8 @@
             "downloads": 162,
             "model": "ENGL Savage 120 MK II",
             "brands": [
-                "Engl"
+                "ENGL",
+                "Savage"
             ]
         },
         {
@@ -5301,7 +5519,7 @@
             "downloads": 71,
             "model": "ENGL Fireball",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5311,7 +5529,7 @@
             "downloads": 64,
             "model": "ENGL Ironball SE E606",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5321,7 +5539,7 @@
             "downloads": 69,
             "model": "ENGL Fireball 100",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5331,7 +5549,7 @@
             "downloads": 93,
             "model": "Engl, Marshall, Peavey",
             "brands": [
-                "Engl",
+                "ENGL",
                 "Marshall",
                 "Peavey"
             ]
@@ -5343,7 +5561,7 @@
             "downloads": 207,
             "model": "ENGL Fireball",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5353,7 +5571,7 @@
             "downloads": 356,
             "model": "Engl - Ritchie Blackmore Signature",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5363,7 +5581,7 @@
             "downloads": 64,
             "model": "Engl E530 High Gain, Clean and Overdrive",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5373,7 +5591,7 @@
             "downloads": 70,
             "model": "ENGL E530, HM300, EYEMASTER",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5383,7 +5601,8 @@
             "downloads": 228,
             "model": "Engl Savage 120 mk I",
             "brands": [
-                "Engl"
+                "ENGL",
+                "Savage"
             ]
         },
         {
@@ -5393,7 +5612,7 @@
             "downloads": 141,
             "model": "ENGL Powerball II",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5403,7 +5622,7 @@
             "downloads": 107,
             "model": "Peavey rockmaster/engl e530",
             "brands": [
-                "Engl",
+                "ENGL",
                 "Peavey"
             ]
         },
@@ -5414,7 +5633,7 @@
             "downloads": 86,
             "model": "evh5153 engl preamp tube and others",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5424,7 +5643,7 @@
             "downloads": 60,
             "model": "Evh5153 engl preamp tube & others",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5434,7 +5653,7 @@
             "downloads": 292,
             "model": "ENGL E606SE",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5444,7 +5663,7 @@
             "downloads": 86,
             "model": "ENGL E530",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5454,7 +5673,7 @@
             "downloads": 76,
             "model": "ENGL E530",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5465,7 +5684,7 @@
             "model": "Synergy Soldano SLO, ENGL Ironball, Ibanez TS9, Pepers Pedals Dirty Tree",
             "brands": [
                 "Dirty",
-                "Engl",
+                "ENGL",
                 "Ibanez",
                 "Soldano",
                 "Synergy"
@@ -5479,7 +5698,7 @@
             "model": "ENGL Ironball, Ibanez TS9, Pepers Pedals Dirty Tree, Suhr Shiba Drive",
             "brands": [
                 "Dirty",
-                "Engl",
+                "ENGL",
                 "Ibanez",
                 "Suhr"
             ]
@@ -5491,7 +5710,7 @@
             "downloads": 81,
             "model": "ENGL E530 with 840/50",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5501,7 +5720,7 @@
             "downloads": 77,
             "model": "ENGL SE E670",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5511,7 +5730,7 @@
             "downloads": 90,
             "model": "ENGL Powerball E645 MK 1",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5521,7 +5740,7 @@
             "downloads": 190,
             "model": "ENGL Powerball II",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5531,7 +5750,7 @@
             "downloads": 99,
             "model": "ENGL Powerball II ",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5541,7 +5760,7 @@
             "downloads": 118,
             "model": "Engl Invader 100 V1",
             "brands": [
-                "Engl"
+                "ENGL"
             ]
         },
         {
@@ -5551,7 +5770,8 @@
             "downloads": 149,
             "model": "Engl Savage 120 MKI",
             "brands": [
-                "Engl"
+                "ENGL",
+                "Savage"
             ]
         }
     ],
@@ -5726,7 +5946,8 @@
             "model": "Wizard, Diezel , Driftwood, ESH, Mesa Boogie, Masotti",
             "brands": [
                 "Diezel",
-                "Mesa/Boogie"
+                "Mesa/Boogie",
+                "Wizard"
             ]
         },
         {
@@ -6026,7 +6247,8 @@
             "model": "Walrus Audio ACS1 VOX AC30",
             "brands": [
                 "M-Audio",
-                "Vox"
+                "Vox",
+                "Walrus"
             ]
         },
         {
@@ -6057,98 +6279,6 @@
             "model": "VOX AC15",
             "brands": [
                 "Vox"
-            ]
-        }
-    ],
-    "Tone": [
-        {
-            "id": "b114de4f-0d11-4e31-a940-f42cfd4130d9",
-            "url": "https://tonehunt.org/lucenstuff/b114de4f-0d11-4e31-a940-f42cfd4130d9",
-            "favs": 2,
-            "downloads": 9,
-            "model": "Seymour Duncanc - King Tone Generator",
-            "brands": [
-                "Tone",
-                "Tone King"
-            ]
-        },
-        {
-            "id": "6071eaeb-5455-4ce0-90ca-e9ab7427dc89",
-            "url": "https://tonehunt.org/hardlock/6071eaeb-5455-4ce0-90ca-e9ab7427dc89",
-            "favs": 18,
-            "downloads": 64,
-            "model": "Tone King Imperial Mk 11",
-            "brands": [
-                "Tone",
-                "Tone King"
-            ]
-        },
-        {
-            "id": "21ec7bdd-3e50-4819-9304-77bbd95178ff",
-            "url": "https://tonehunt.org/hardlock/21ec7bdd-3e50-4819-9304-77bbd95178ff",
-            "favs": 20,
-            "downloads": 59,
-            "model": "Tone King Imperial 20TH Anniversary",
-            "brands": [
-                "Tone",
-                "Tone King"
-            ]
-        },
-        {
-            "id": "9390c280-42fb-458f-ae21-d40e2ee06ebc",
-            "url": "https://tonehunt.org/amalgamaudio/9390c280-42fb-458f-ae21-d40e2ee06ebc",
-            "favs": 90,
-            "downloads": 401,
-            "model": "Tone King Imperial MKII",
-            "brands": [
-                "Tone",
-                "Tone King"
-            ]
-        }
-    ],
-    "Tone King": [
-        {
-            "id": "b114de4f-0d11-4e31-a940-f42cfd4130d9",
-            "url": "https://tonehunt.org/lucenstuff/b114de4f-0d11-4e31-a940-f42cfd4130d9",
-            "favs": 2,
-            "downloads": 9,
-            "model": "Seymour Duncanc - King Tone Generator",
-            "brands": [
-                "Tone",
-                "Tone King"
-            ]
-        },
-        {
-            "id": "6071eaeb-5455-4ce0-90ca-e9ab7427dc89",
-            "url": "https://tonehunt.org/hardlock/6071eaeb-5455-4ce0-90ca-e9ab7427dc89",
-            "favs": 18,
-            "downloads": 64,
-            "model": "Tone King Imperial Mk 11",
-            "brands": [
-                "Tone",
-                "Tone King"
-            ]
-        },
-        {
-            "id": "21ec7bdd-3e50-4819-9304-77bbd95178ff",
-            "url": "https://tonehunt.org/hardlock/21ec7bdd-3e50-4819-9304-77bbd95178ff",
-            "favs": 20,
-            "downloads": 59,
-            "model": "Tone King Imperial 20TH Anniversary",
-            "brands": [
-                "Tone",
-                "Tone King"
-            ]
-        },
-        {
-            "id": "9390c280-42fb-458f-ae21-d40e2ee06ebc",
-            "url": "https://tonehunt.org/amalgamaudio/9390c280-42fb-458f-ae21-d40e2ee06ebc",
-            "favs": 90,
-            "downloads": 401,
-            "model": "Tone King Imperial MKII",
-            "brands": [
-                "Tone",
-                "Tone King"
             ]
         }
     ],
@@ -6392,285 +6522,6 @@
             "model": "Bogner Ecstasy 101B",
             "brands": [
                 "Bogner"
-            ]
-        }
-    ],
-    "Bumbox Custom Audio": [
-        {
-            "id": "8024993d-4847-4fc4-b6be-9c591eb7fc44",
-            "url": "https://tonehunt.org/akka_5/8024993d-4847-4fc4-b6be-9c591eb7fc44",
-            "favs": 5,
-            "downloads": 17,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "9679c757-b76e-4d0e-95a5-2909c9236c69",
-            "url": "https://tonehunt.org/akka_5/9679c757-b76e-4d0e-95a5-2909c9236c69",
-            "favs": 5,
-            "downloads": 16,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "e0af4e4c-f17a-4e86-8047-45e5649e65a6",
-            "url": "https://tonehunt.org/akka_5/e0af4e4c-f17a-4e86-8047-45e5649e65a6",
-            "favs": 5,
-            "downloads": 21,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "5d2fed79-3901-4588-9847-f0a27c7911e1",
-            "url": "https://tonehunt.org/akka_5/5d2fed79-3901-4588-9847-f0a27c7911e1",
-            "favs": 5,
-            "downloads": 21,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "f1d4a793-ac67-4a67-b1e0-a90575f82485",
-            "url": "https://tonehunt.org/akka_5/f1d4a793-ac67-4a67-b1e0-a90575f82485",
-            "favs": 5,
-            "downloads": 22,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "6ec467ff-7003-4081-a4b9-280ba80dd1b4",
-            "url": "https://tonehunt.org/akka_5/6ec467ff-7003-4081-a4b9-280ba80dd1b4",
-            "favs": 9,
-            "downloads": 29,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "73928f08-cdaa-47c3-84eb-f492f6bd830b",
-            "url": "https://tonehunt.org/akka_5/73928f08-cdaa-47c3-84eb-f492f6bd830b",
-            "favs": 9,
-            "downloads": 27,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        }
-    ],
-    "CAE (Custom Audio Electronics)": [
-        {
-            "id": "8024993d-4847-4fc4-b6be-9c591eb7fc44",
-            "url": "https://tonehunt.org/akka_5/8024993d-4847-4fc4-b6be-9c591eb7fc44",
-            "favs": 5,
-            "downloads": 17,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "9679c757-b76e-4d0e-95a5-2909c9236c69",
-            "url": "https://tonehunt.org/akka_5/9679c757-b76e-4d0e-95a5-2909c9236c69",
-            "favs": 5,
-            "downloads": 16,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "e0af4e4c-f17a-4e86-8047-45e5649e65a6",
-            "url": "https://tonehunt.org/akka_5/e0af4e4c-f17a-4e86-8047-45e5649e65a6",
-            "favs": 5,
-            "downloads": 21,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "5d2fed79-3901-4588-9847-f0a27c7911e1",
-            "url": "https://tonehunt.org/akka_5/5d2fed79-3901-4588-9847-f0a27c7911e1",
-            "favs": 5,
-            "downloads": 21,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "f1d4a793-ac67-4a67-b1e0-a90575f82485",
-            "url": "https://tonehunt.org/akka_5/f1d4a793-ac67-4a67-b1e0-a90575f82485",
-            "favs": 5,
-            "downloads": 22,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "6ec467ff-7003-4081-a4b9-280ba80dd1b4",
-            "url": "https://tonehunt.org/akka_5/6ec467ff-7003-4081-a4b9-280ba80dd1b4",
-            "favs": 9,
-            "downloads": 29,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "73928f08-cdaa-47c3-84eb-f492f6bd830b",
-            "url": "https://tonehunt.org/akka_5/73928f08-cdaa-47c3-84eb-f492f6bd830b",
-            "favs": 9,
-            "downloads": 27,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        }
-    ],
-    "Custom Audio Amplifiers": [
-        {
-            "id": "8024993d-4847-4fc4-b6be-9c591eb7fc44",
-            "url": "https://tonehunt.org/akka_5/8024993d-4847-4fc4-b6be-9c591eb7fc44",
-            "favs": 5,
-            "downloads": 17,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "9679c757-b76e-4d0e-95a5-2909c9236c69",
-            "url": "https://tonehunt.org/akka_5/9679c757-b76e-4d0e-95a5-2909c9236c69",
-            "favs": 5,
-            "downloads": 16,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "e0af4e4c-f17a-4e86-8047-45e5649e65a6",
-            "url": "https://tonehunt.org/akka_5/e0af4e4c-f17a-4e86-8047-45e5649e65a6",
-            "favs": 5,
-            "downloads": 21,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "5d2fed79-3901-4588-9847-f0a27c7911e1",
-            "url": "https://tonehunt.org/akka_5/5d2fed79-3901-4588-9847-f0a27c7911e1",
-            "favs": 5,
-            "downloads": 21,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "f1d4a793-ac67-4a67-b1e0-a90575f82485",
-            "url": "https://tonehunt.org/akka_5/f1d4a793-ac67-4a67-b1e0-a90575f82485",
-            "favs": 5,
-            "downloads": 22,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "6ec467ff-7003-4081-a4b9-280ba80dd1b4",
-            "url": "https://tonehunt.org/akka_5/6ec467ff-7003-4081-a4b9-280ba80dd1b4",
-            "favs": 9,
-            "downloads": 29,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
-            ]
-        },
-        {
-            "id": "73928f08-cdaa-47c3-84eb-f492f6bd830b",
-            "url": "https://tonehunt.org/akka_5/73928f08-cdaa-47c3-84eb-f492f6bd830b",
-            "favs": 9,
-            "downloads": 27,
-            "model": "Custom Audio",
-            "brands": [
-                "Bumbox Custom Audio",
-                "CAE (Custom Audio Electronics)",
-                "Custom Audio Amplifiers",
-                "M-Audio"
             ]
         }
     ],
@@ -7080,7 +6931,7 @@
             "model": "Synergy Soldano SLO, ENGL Ironball, Ibanez TS9, Pepers Pedals Dirty Tree",
             "brands": [
                 "Dirty",
-                "Engl",
+                "ENGL",
                 "Ibanez",
                 "Soldano",
                 "Synergy"
@@ -7094,7 +6945,7 @@
             "model": "ENGL Ironball, Ibanez TS9, Pepers Pedals Dirty Tree, Suhr Shiba Drive",
             "brands": [
                 "Dirty",
-                "Engl",
+                "ENGL",
                 "Ibanez",
                 "Suhr"
             ]
@@ -7164,6 +7015,40 @@
             ]
         }
     ],
+    "Benson": [
+        {
+            "id": "d5616cb8-1736-4ca0-b3fe-3e6737ddaa0c",
+            "url": "https://tonehunt.org/amalgamaudio/d5616cb8-1736-4ca0-b3fe-3e6737ddaa0c",
+            "favs": 35,
+            "downloads": 109,
+            "model": "Benson Chimera 2022",
+            "brands": [
+                "Benson"
+            ]
+        }
+    ],
+    "Koch": [
+        {
+            "id": "36ad6917-01d1-4837-aee3-81741bede2be",
+            "url": "https://tonehunt.org/dertag/36ad6917-01d1-4837-aee3-81741bede2be",
+            "favs": 6,
+            "downloads": 31,
+            "model": "Koch Powertone II EL34",
+            "brands": [
+                "Koch"
+            ]
+        },
+        {
+            "id": "6eb7c502-7ea5-44f7-84cb-63ce9c36e110",
+            "url": "https://tonehunt.org/dertag/6eb7c502-7ea5-44f7-84cb-63ce9c36e110",
+            "favs": 12,
+            "downloads": 43,
+            "model": "Koch Powertone II EL34",
+            "brands": [
+                "Koch"
+            ]
+        }
+    ],
     "KSR": [
         {
             "id": "b46532ea-c23b-4819-8a2e-0c9461968f46",
@@ -7196,6 +7081,19 @@
             ]
         }
     ],
+    "Koch Electronics": [
+        {
+            "id": "70c90409-e047-49fa-9f9d-1d236eab7142",
+            "url": "https://tonehunt.org/FanaFranky/70c90409-e047-49fa-9f9d-1d236eab7142",
+            "favs": 5,
+            "downloads": 22,
+            "model": "SWR WorkingPro 700 + TC Electronics Spectracomp",
+            "brands": [
+                "Koch Electronics",
+                "THD Electronics"
+            ]
+        }
+    ],
     "THD Electronics": [
         {
             "id": "70c90409-e047-49fa-9f9d-1d236eab7142",
@@ -7204,6 +7102,7 @@
             "downloads": 22,
             "model": "SWR WorkingPro 700 + TC Electronics Spectracomp",
             "brands": [
+                "Koch Electronics",
                 "THD Electronics"
             ]
         }
@@ -7578,6 +7477,41 @@
             ]
         }
     ],
+    "Savage": [
+        {
+            "id": "4a04b32d-4003-4904-99ac-727449d0ff02",
+            "url": "https://tonehunt.org/PrimalNerd/4a04b32d-4003-4904-99ac-727449d0ff02",
+            "favs": 49,
+            "downloads": 162,
+            "model": "ENGL Savage 120 MK II",
+            "brands": [
+                "ENGL",
+                "Savage"
+            ]
+        },
+        {
+            "id": "06a6b098-371f-4a01-ab50-ce918d1b018d",
+            "url": "https://tonehunt.org/PetrC/06a6b098-371f-4a01-ab50-ce918d1b018d",
+            "favs": 65,
+            "downloads": 228,
+            "model": "Engl Savage 120 mk I",
+            "brands": [
+                "ENGL",
+                "Savage"
+            ]
+        },
+        {
+            "id": "00103f7d-e3c0-4f5e-a525-82f0c47ce154",
+            "url": "https://tonehunt.org/servusjon/00103f7d-e3c0-4f5e-a525-82f0c47ce154",
+            "favs": 27,
+            "downloads": 149,
+            "model": "Engl Savage 120 MKI",
+            "brands": [
+                "ENGL",
+                "Savage"
+            ]
+        }
+    ],
     "Fortin": [
         {
             "id": "2fed96ae-83c7-4f5d-b83f-8041e6fd3f79",
@@ -7893,138 +7827,6 @@
             ]
         }
     ],
-    "Caroline Guitar Company": [
-        {
-            "id": "afec06b4-154e-4255-b354-b617f1b0c139",
-            "url": "https://tonehunt.org/Ricardo_Quirino/afec06b4-154e-4255-b354-b617f1b0c139",
-            "favs": 11,
-            "downloads": 39,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        },
-        {
-            "id": "fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "url": "https://tonehunt.org/Ricardo_Quirino/fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "favs": 8,
-            "downloads": 27,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        }
-    ],
-    "Frederic Custom Guitar Amplifiers": [
-        {
-            "id": "afec06b4-154e-4255-b354-b617f1b0c139",
-            "url": "https://tonehunt.org/Ricardo_Quirino/afec06b4-154e-4255-b354-b617f1b0c139",
-            "favs": 11,
-            "downloads": 39,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        },
-        {
-            "id": "fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "url": "https://tonehunt.org/Ricardo_Quirino/fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "favs": 8,
-            "downloads": 27,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        }
-    ],
-    "Gravity Guitar Picks": [
-        {
-            "id": "afec06b4-154e-4255-b354-b617f1b0c139",
-            "url": "https://tonehunt.org/Ricardo_Quirino/afec06b4-154e-4255-b354-b617f1b0c139",
-            "favs": 11,
-            "downloads": 39,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        },
-        {
-            "id": "fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "url": "https://tonehunt.org/Ricardo_Quirino/fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "favs": 8,
-            "downloads": 27,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        }
-    ],
     "Guitar-Guard": [
         {
             "id": "afec06b4-154e-4255-b354-b617f1b0c139",
@@ -8033,18 +7835,7 @@
             "downloads": 39,
             "model": "GUITAR ML ",
             "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
+                "Guitar-Guard"
             ]
         },
         {
@@ -8054,370 +7845,7 @@
             "downloads": 27,
             "model": "GUITAR ML ",
             "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        }
-    ],
-    "Heritage Guitar": [
-        {
-            "id": "afec06b4-154e-4255-b354-b617f1b0c139",
-            "url": "https://tonehunt.org/Ricardo_Quirino/afec06b4-154e-4255-b354-b617f1b0c139",
-            "favs": 11,
-            "downloads": 39,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        },
-        {
-            "id": "fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "url": "https://tonehunt.org/Ricardo_Quirino/fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "favs": 8,
-            "downloads": 27,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        }
-    ],
-    "Highwood Guitar Parts": [
-        {
-            "id": "afec06b4-154e-4255-b354-b617f1b0c139",
-            "url": "https://tonehunt.org/Ricardo_Quirino/afec06b4-154e-4255-b354-b617f1b0c139",
-            "favs": 11,
-            "downloads": 39,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        },
-        {
-            "id": "fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "url": "https://tonehunt.org/Ricardo_Quirino/fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "favs": 8,
-            "downloads": 27,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        }
-    ],
-    "Koch Guitar Electronics": [
-        {
-            "id": "afec06b4-154e-4255-b354-b617f1b0c139",
-            "url": "https://tonehunt.org/Ricardo_Quirino/afec06b4-154e-4255-b354-b617f1b0c139",
-            "favs": 11,
-            "downloads": 39,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        },
-        {
-            "id": "fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "url": "https://tonehunt.org/Ricardo_Quirino/fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "favs": 8,
-            "downloads": 27,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        }
-    ],
-    "Line 6 Guitar Amps": [
-        {
-            "id": "afec06b4-154e-4255-b354-b617f1b0c139",
-            "url": "https://tonehunt.org/Ricardo_Quirino/afec06b4-154e-4255-b354-b617f1b0c139",
-            "favs": 11,
-            "downloads": 39,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        },
-        {
-            "id": "fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "url": "https://tonehunt.org/Ricardo_Quirino/fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "favs": 8,
-            "downloads": 27,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        }
-    ],
-    "Rhino Guitar amps": [
-        {
-            "id": "afec06b4-154e-4255-b354-b617f1b0c139",
-            "url": "https://tonehunt.org/Ricardo_Quirino/afec06b4-154e-4255-b354-b617f1b0c139",
-            "favs": 11,
-            "downloads": 39,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        },
-        {
-            "id": "fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "url": "https://tonehunt.org/Ricardo_Quirino/fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "favs": 8,
-            "downloads": 27,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        }
-    ],
-    "Stefan Grossman's Guitar Works": [
-        {
-            "id": "afec06b4-154e-4255-b354-b617f1b0c139",
-            "url": "https://tonehunt.org/Ricardo_Quirino/afec06b4-154e-4255-b354-b617f1b0c139",
-            "favs": 11,
-            "downloads": 39,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        },
-        {
-            "id": "fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "url": "https://tonehunt.org/Ricardo_Quirino/fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "favs": 8,
-            "downloads": 27,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        }
-    ],
-    "The Guitar Hanger": [
-        {
-            "id": "afec06b4-154e-4255-b354-b617f1b0c139",
-            "url": "https://tonehunt.org/Ricardo_Quirino/afec06b4-154e-4255-b354-b617f1b0c139",
-            "favs": 11,
-            "downloads": 39,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        },
-        {
-            "id": "fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "url": "https://tonehunt.org/Ricardo_Quirino/fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "favs": 8,
-            "downloads": 27,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        }
-    ],
-    "Traveler Guitar": [
-        {
-            "id": "afec06b4-154e-4255-b354-b617f1b0c139",
-            "url": "https://tonehunt.org/Ricardo_Quirino/afec06b4-154e-4255-b354-b617f1b0c139",
-            "favs": 11,
-            "downloads": 39,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
-            ]
-        },
-        {
-            "id": "fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "url": "https://tonehunt.org/Ricardo_Quirino/fca5e996-518a-4d3b-8105-ad95a4fee143",
-            "favs": 8,
-            "downloads": 27,
-            "model": "GUITAR ML ",
-            "brands": [
-                "Caroline Guitar Company",
-                "Frederic Custom Guitar Amplifiers",
-                "Gravity Guitar Picks",
-                "Guitar-Guard",
-                "Heritage Guitar",
-                "Highwood Guitar Parts",
-                "Koch Guitar Electronics",
-                "Line 6 Guitar Amps",
-                "Rhino Guitar amps",
-                "Stefan Grossman's Guitar Works",
-                "The Guitar Hanger",
-                "Traveler Guitar"
+                "Guitar-Guard"
             ]
         }
     ],
@@ -8472,7 +7900,7 @@
             "model": "Synergy Soldano SLO, ENGL Ironball, Ibanez TS9, Pepers Pedals Dirty Tree",
             "brands": [
                 "Dirty",
-                "Engl",
+                "ENGL",
                 "Ibanez",
                 "Soldano",
                 "Synergy"
@@ -8486,7 +7914,7 @@
             "model": "ENGL Ironball, Ibanez TS9, Pepers Pedals Dirty Tree, Suhr Shiba Drive",
             "brands": [
                 "Dirty",
-                "Engl",
+                "ENGL",
                 "Ibanez",
                 "Suhr"
             ]
@@ -8504,6 +7932,154 @@
             ]
         }
     ],
+    "Matchless": [
+        {
+            "id": "e6f85272-8423-4c89-845a-1419fd8cac01",
+            "url": "https://tonehunt.org/ToneJunkie/e6f85272-8423-4c89-845a-1419fd8cac01",
+            "favs": 57,
+            "downloads": 167,
+            "model": "Matchless Chief",
+            "brands": [
+                "Matchless"
+            ]
+        },
+        {
+            "id": "922dd736-4cb6-4e8f-b3a5-fb1f33035964",
+            "url": "https://tonehunt.org/unnus/922dd736-4cb6-4e8f-b3a5-fb1f33035964",
+            "favs": 32,
+            "downloads": 139,
+            "model": "Matchless Lightning 15",
+            "brands": [
+                "Matchless"
+            ]
+        }
+    ],
+    "Bad Cat": [
+        {
+            "id": "4d56520e-9025-43cc-9c4c-42dc28fa45a6",
+            "url": "https://tonehunt.org/ToneJunkie/4d56520e-9025-43cc-9c4c-42dc28fa45a6",
+            "favs": 46,
+            "downloads": 131,
+            "model": "Sampson Era Bad Cat Black Cat 30R",
+            "brands": [
+                "Bad Cat"
+            ]
+        },
+        {
+            "id": "1bd7b27a-6dcf-4dbc-af72-43ba8c5d98cf",
+            "url": "https://tonehunt.org/ToneJunkie/1bd7b27a-6dcf-4dbc-af72-43ba8c5d98cf",
+            "favs": 43,
+            "downloads": 117,
+            "model": "Sampson Era Bad Cat Black Cat 30R",
+            "brands": [
+                "Bad Cat"
+            ]
+        },
+        {
+            "id": "4a965b3e-a178-43e1-9b4b-31309ffcdf83",
+            "url": "https://tonehunt.org/ToneJunkie/4a965b3e-a178-43e1-9b4b-31309ffcdf83",
+            "favs": 49,
+            "downloads": 147,
+            "model": "Sampson Era Bad Cat Black Cat 30R",
+            "brands": [
+                "Bad Cat"
+            ]
+        },
+        {
+            "id": "16482c59-b73d-404c-97e3-9d612338e6a6",
+            "url": "https://tonehunt.org/MikhailKurochkin/16482c59-b73d-404c-97e3-9d612338e6a6",
+            "favs": 22,
+            "downloads": 74,
+            "model": "Bad Cat Cougar 50",
+            "brands": [
+                "Bad Cat"
+            ]
+        }
+    ],
+    "Victory": [
+        {
+            "id": "ba847cc3-ef6e-4728-8e06-9e937582f1d7",
+            "url": "https://tonehunt.org/FatYoshi3170/ba847cc3-ef6e-4728-8e06-9e937582f1d7",
+            "favs": 13,
+            "downloads": 49,
+            "model": "Victory Kraken",
+            "brands": [
+                "Victory"
+            ]
+        },
+        {
+            "id": "4d43af7a-26e0-491f-8d63-75f0dd4256e4",
+            "url": "https://tonehunt.org/narj/4d43af7a-26e0-491f-8d63-75f0dd4256e4",
+            "favs": 27,
+            "downloads": 81,
+            "model": "Victory The Countess V4 Preamp Pedal",
+            "brands": [
+                "Victory"
+            ]
+        },
+        {
+            "id": "eff78de6-0640-443e-8aa6-dbdd7b24b01b",
+            "url": "https://tonehunt.org/werners/eff78de6-0640-443e-8aa6-dbdd7b24b01b",
+            "favs": 16,
+            "downloads": 88,
+            "model": "Victory V40 Deluxe",
+            "brands": [
+                "Victory"
+            ]
+        },
+        {
+            "id": "a48b2cc6-a4f8-4dda-aacd-95c4cdd844b0",
+            "url": "https://tonehunt.org/werners/a48b2cc6-a4f8-4dda-aacd-95c4cdd844b0",
+            "favs": 36,
+            "downloads": 170,
+            "model": "Victory V40 Deluxe",
+            "brands": [
+                "Victory"
+            ]
+        }
+    ],
+    "City": [
+        {
+            "id": "08460bcb-c16e-4187-82e0-75d838921b65",
+            "url": "https://tonehunt.org/ArlingtonAudio/08460bcb-c16e-4187-82e0-75d838921b65",
+            "favs": 51,
+            "downloads": 189,
+            "model": "Jet City - JCA22H ",
+            "brands": [
+                "City"
+            ]
+        },
+        {
+            "id": "12029631-4be2-4cd6-9970-df38ca95339a",
+            "url": "https://tonehunt.org/MirrorProfiles/12029631-4be2-4cd6-9970-df38ca95339a",
+            "favs": 13,
+            "downloads": 52,
+            "model": "Jet City JCA 100HDM SLO 100 mods",
+            "brands": [
+                "City"
+            ]
+        },
+        {
+            "id": "e381ab3a-af26-43fd-b1af-a5163adc3909",
+            "url": "https://tonehunt.org/MikhailKurochkin/e381ab3a-af26-43fd-b1af-a5163adc3909",
+            "favs": 33,
+            "downloads": 123,
+            "model": "Sound City 50",
+            "brands": [
+                "City"
+            ]
+        },
+        {
+            "id": "99350875-5616-4b96-bb47-f3c161b0f720",
+            "url": "https://tonehunt.org/TimR/99350875-5616-4b96-bb47-f3c161b0f720",
+            "favs": 17,
+            "downloads": 102,
+            "model": "Jet City",
+            "brands": [
+                "City"
+            ]
+        }
+    ],
     "Revv": [
         {
             "id": "0ebdc426-77d2-437d-af0f-a8cce2386a71",
@@ -8516,6 +8092,19 @@
             ]
         }
     ],
+    "DST": [
+        {
+            "id": "7bc9c227-c124-44ee-958b-519964bd39cd",
+            "url": "https://tonehunt.org/deiv___/7bc9c227-c124-44ee-958b-519964bd39cd",
+            "favs": 15,
+            "downloads": 70,
+            "model": "DT ",
+            "brands": [
+                "DST",
+                "DTS"
+            ]
+        }
+    ],
     "DTS": [
         {
             "id": "7bc9c227-c124-44ee-958b-519964bd39cd",
@@ -8524,6 +8113,7 @@
             "downloads": 70,
             "model": "DT ",
             "brands": [
+                "DST",
                 "DTS"
             ]
         }
@@ -8697,6 +8287,19 @@
             ]
         }
     ],
+    "Star": [
+        {
+            "id": "1d5537d0-db7c-4488-99fb-6d3158395ad5",
+            "url": "https://tonehunt.org/sconverse/1d5537d0-db7c-4488-99fb-6d3158395ad5",
+            "favs": 27,
+            "downloads": 91,
+            "model": "Mesa Boogie Lone Star Special",
+            "brands": [
+                "Mesa/Boogie",
+                "Star"
+            ]
+        }
+    ],
     "Leslie": [
         {
             "id": "489b6667-2b0d-4ee5-9bd1-f993c80ced35",
@@ -8706,6 +8309,30 @@
             "model": "1962 Hammond C3 Pre/Leslie 122 Power Amp",
             "brands": [
                 "Leslie"
+            ]
+        }
+    ],
+    "Wizard": [
+        {
+            "id": "af3a4dda-7263-45b8-bece-2ddf2cfca408",
+            "url": "https://tonehunt.org/PetrC/af3a4dda-7263-45b8-bece-2ddf2cfca408",
+            "favs": 92,
+            "downloads": 292,
+            "model": "Wizard, Diezel , Driftwood, ESH, Mesa Boogie, Masotti",
+            "brands": [
+                "Diezel",
+                "Mesa/Boogie",
+                "Wizard"
+            ]
+        },
+        {
+            "id": "425f5e65-1a23-472c-a842-934df67922ec",
+            "url": "https://tonehunt.org/servusjon/425f5e65-1a23-472c-a842-934df67922ec",
+            "favs": 57,
+            "downloads": 210,
+            "model": "Wizard Modern Classic II",
+            "brands": [
+                "Wizard"
             ]
         }
     ],
@@ -8738,6 +8365,18 @@
             "model": "DV Mark Triple Six III",
             "brands": [
                 "DV Mark"
+            ]
+        }
+    ],
+    "Carr": [
+        {
+            "id": "41151a99-6faf-46d9-9dc0-72869a926a5e",
+            "url": "https://tonehunt.org/amalgamaudio/41151a99-6faf-46d9-9dc0-72869a926a5e",
+            "favs": 49,
+            "downloads": 184,
+            "model": "Carr Mercury V",
+            "brands": [
+                "Carr"
             ]
         }
     ],
@@ -8850,7 +8489,7 @@
             ]
         }
     ],
-    "Fender Custom Shop Series": [
+    "Fender Shop": [
         {
             "id": "a0ed131a-d8f6-4aee-a809-942b8cb46752",
             "url": "https://tonehunt.org/Simonbaughen/a0ed131a-d8f6-4aee-a809-942b8cb46752",
@@ -8858,7 +8497,22 @@
             "downloads": 63,
             "model": "Fender",
             "brands": [
-                "Fender Custom Shop Series",
+                "Fender Shop",
+                "Fender Shop Series",
+                "Fender\u00ae"
+            ]
+        }
+    ],
+    "Fender Shop Series": [
+        {
+            "id": "a0ed131a-d8f6-4aee-a809-942b8cb46752",
+            "url": "https://tonehunt.org/Simonbaughen/a0ed131a-d8f6-4aee-a809-942b8cb46752",
+            "favs": 14,
+            "downloads": 63,
+            "model": "Fender",
+            "brands": [
+                "Fender Shop",
+                "Fender Shop Series",
                 "Fender\u00ae"
             ]
         }
@@ -8876,7 +8530,7 @@
             ]
         }
     ],
-    "DigiTech": [
+    "Digitech": [
         {
             "id": "97530611-0eb6-4aeb-b64c-1d3c322da9e8",
             "url": "https://tonehunt.org/jeamn/97530611-0eb6-4aeb-b64c-1d3c322da9e8",
@@ -8884,227 +8538,7 @@
             "downloads": 56,
             "model": "Digitech GSP 2101",
             "brands": [
-                "DigiTech"
-            ]
-        }
-    ],
-    "Budda Amplification": [
-        {
-            "id": "854a6dc3-6575-4cd3-afe9-6590a89a4e22",
-            "url": "https://tonehunt.org/PetrC/854a6dc3-6575-4cd3-afe9-6590a89a4e22",
-            "favs": 34,
-            "downloads": 148,
-            "model": "ESH Amplification - Raptor III",
-            "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Tatoo Amplification"
-            ]
-        },
-        {
-            "id": "b168ae2b-d3e6-4431-8035-05a1f3862901",
-            "url": "https://tonehunt.org/Room89/b168ae2b-d3e6-4431-8035-05a1f3862901",
-            "favs": 11,
-            "downloads": 91,
-            "model": "Marshall Origin 50 modded by Coven Amplification",
-            "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Marshall",
-                "Tatoo Amplification"
-            ]
-        },
-        {
-            "id": "d0ed2146-efda-4421-ab1e-047cd190a97b",
-            "url": "https://tonehunt.org/emil.rohbe/d0ed2146-efda-4421-ab1e-047cd190a97b",
-            "favs": 24,
-            "downloads": 133,
-            "model": "Rohbe Amplification MKIV",
-            "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Tatoo Amplification"
-            ]
-        },
-        {
-            "id": "9c1a5359-bad9-4f7f-8efb-943018adf4b8",
-            "url": "https://tonehunt.org/emil.rohbe/9c1a5359-bad9-4f7f-8efb-943018adf4b8",
-            "favs": 23,
-            "downloads": 137,
-            "model": "Rohbe Amplification MKIV",
-            "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Tatoo Amplification"
-            ]
-        }
-    ],
-    "Clark Amplification": [
-        {
-            "id": "854a6dc3-6575-4cd3-afe9-6590a89a4e22",
-            "url": "https://tonehunt.org/PetrC/854a6dc3-6575-4cd3-afe9-6590a89a4e22",
-            "favs": 34,
-            "downloads": 148,
-            "model": "ESH Amplification - Raptor III",
-            "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Tatoo Amplification"
-            ]
-        },
-        {
-            "id": "b168ae2b-d3e6-4431-8035-05a1f3862901",
-            "url": "https://tonehunt.org/Room89/b168ae2b-d3e6-4431-8035-05a1f3862901",
-            "favs": 11,
-            "downloads": 91,
-            "model": "Marshall Origin 50 modded by Coven Amplification",
-            "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Marshall",
-                "Tatoo Amplification"
-            ]
-        },
-        {
-            "id": "d0ed2146-efda-4421-ab1e-047cd190a97b",
-            "url": "https://tonehunt.org/emil.rohbe/d0ed2146-efda-4421-ab1e-047cd190a97b",
-            "favs": 24,
-            "downloads": 133,
-            "model": "Rohbe Amplification MKIV",
-            "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Tatoo Amplification"
-            ]
-        },
-        {
-            "id": "9c1a5359-bad9-4f7f-8efb-943018adf4b8",
-            "url": "https://tonehunt.org/emil.rohbe/9c1a5359-bad9-4f7f-8efb-943018adf4b8",
-            "favs": 23,
-            "downloads": 137,
-            "model": "Rohbe Amplification MKIV",
-            "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Tatoo Amplification"
-            ]
-        }
-    ],
-    "King Amplification": [
-        {
-            "id": "854a6dc3-6575-4cd3-afe9-6590a89a4e22",
-            "url": "https://tonehunt.org/PetrC/854a6dc3-6575-4cd3-afe9-6590a89a4e22",
-            "favs": 34,
-            "downloads": 148,
-            "model": "ESH Amplification - Raptor III",
-            "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Tatoo Amplification"
-            ]
-        },
-        {
-            "id": "b168ae2b-d3e6-4431-8035-05a1f3862901",
-            "url": "https://tonehunt.org/Room89/b168ae2b-d3e6-4431-8035-05a1f3862901",
-            "favs": 11,
-            "downloads": 91,
-            "model": "Marshall Origin 50 modded by Coven Amplification",
-            "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Marshall",
-                "Tatoo Amplification"
-            ]
-        },
-        {
-            "id": "d0ed2146-efda-4421-ab1e-047cd190a97b",
-            "url": "https://tonehunt.org/emil.rohbe/d0ed2146-efda-4421-ab1e-047cd190a97b",
-            "favs": 24,
-            "downloads": 133,
-            "model": "Rohbe Amplification MKIV",
-            "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Tatoo Amplification"
-            ]
-        },
-        {
-            "id": "9c1a5359-bad9-4f7f-8efb-943018adf4b8",
-            "url": "https://tonehunt.org/emil.rohbe/9c1a5359-bad9-4f7f-8efb-943018adf4b8",
-            "favs": 23,
-            "downloads": 137,
-            "model": "Rohbe Amplification MKIV",
-            "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Tatoo Amplification"
-            ]
-        }
-    ],
-    "Tatoo Amplification": [
-        {
-            "id": "854a6dc3-6575-4cd3-afe9-6590a89a4e22",
-            "url": "https://tonehunt.org/PetrC/854a6dc3-6575-4cd3-afe9-6590a89a4e22",
-            "favs": 34,
-            "downloads": 148,
-            "model": "ESH Amplification - Raptor III",
-            "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Tatoo Amplification"
-            ]
-        },
-        {
-            "id": "b168ae2b-d3e6-4431-8035-05a1f3862901",
-            "url": "https://tonehunt.org/Room89/b168ae2b-d3e6-4431-8035-05a1f3862901",
-            "favs": 11,
-            "downloads": 91,
-            "model": "Marshall Origin 50 modded by Coven Amplification",
-            "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Marshall",
-                "Tatoo Amplification"
-            ]
-        },
-        {
-            "id": "d0ed2146-efda-4421-ab1e-047cd190a97b",
-            "url": "https://tonehunt.org/emil.rohbe/d0ed2146-efda-4421-ab1e-047cd190a97b",
-            "favs": 24,
-            "downloads": 133,
-            "model": "Rohbe Amplification MKIV",
-            "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Tatoo Amplification"
-            ]
-        },
-        {
-            "id": "9c1a5359-bad9-4f7f-8efb-943018adf4b8",
-            "url": "https://tonehunt.org/emil.rohbe/9c1a5359-bad9-4f7f-8efb-943018adf4b8",
-            "favs": 23,
-            "downloads": 137,
-            "model": "Rohbe Amplification MKIV",
-            "brands": [
-                "Budda Amplification",
-                "Clark Amplification",
-                "King Amplification",
-                "Tatoo Amplification"
+                "Digitech"
             ]
         }
     ],
@@ -9156,6 +8590,20 @@
             "brands": [
                 "Matamp",
                 "Orange"
+            ]
+        }
+    ],
+    "Walrus": [
+        {
+            "id": "ed27cd1c-e732-4822-824e-5e56aae161b9",
+            "url": "https://tonehunt.org/toalston/ed27cd1c-e732-4822-824e-5e56aae161b9",
+            "favs": 12,
+            "downloads": 89,
+            "model": "Walrus Audio ACS1 VOX AC30",
+            "brands": [
+                "M-Audio",
+                "Vox",
+                "Walrus"
             ]
         }
     ],
@@ -9238,7 +8686,7 @@
             "model": "ENGL Ironball, Ibanez TS9, Pepers Pedals Dirty Tree, Suhr Shiba Drive",
             "brands": [
                 "Dirty",
-                "Engl",
+                "ENGL",
                 "Ibanez",
                 "Suhr"
             ]

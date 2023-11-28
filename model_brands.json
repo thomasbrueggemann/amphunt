@@ -46,6 +46,7 @@
         "favs": 12,
         "downloads": 35,
         "brands": [
+            "King",
             "M-Audio"
         ]
     },
@@ -65,7 +66,10 @@
         "url": "https://tonehunt.org/2dor/f79ce97e-777b-4b5d-ae46-2c28a45ca2de",
         "model": "Ceriatone King Kong 100W",
         "favs": 10,
-        "downloads": 40
+        "downloads": 40,
+        "brands": [
+            "King"
+        ]
     },
     {
         "id": "7307a9ec-544b-4323-b437-efcf1f0eb88b",
@@ -77,7 +81,7 @@
             "Behringer",
             "Peavey",
             "Way Huge",
-            "Wren & Cuff"
+            "Wren Cuff"
         ]
     },
     {
@@ -231,6 +235,7 @@
         "favs": 7,
         "downloads": 15,
         "brands": [
+            "65",
             "Crate"
         ]
     },
@@ -281,6 +286,7 @@
         "favs": 9,
         "downloads": 24,
         "brands": [
+            "King",
             "M-Audio",
             "MXR"
         ]
@@ -311,7 +317,10 @@
         "url": "https://tonehunt.org/2dor/f9b40b87-2096-4db8-b8c4-544d0e9d8984",
         "model": "Ceriatone King Kong 100W",
         "favs": 13,
-        "downloads": 43
+        "downloads": 43,
+        "brands": [
+            "King"
+        ]
     },
     {
         "id": "1a3afdc4-6709-4fd5-b71c-3911877564e2",
@@ -342,7 +351,10 @@
         "url": "https://tonehunt.org/2dor/d614d3cf-03c3-4d80-b16e-04f7e753bdea",
         "model": "Ceriatone King Kong 100W",
         "favs": 14,
-        "downloads": 33
+        "downloads": 33,
+        "brands": [
+            "King"
+        ]
     },
     {
         "id": "3dac3fac-85f8-41ca-99cc-f674fbe582bb",
@@ -408,6 +420,7 @@
         "downloads": 9,
         "model": "Crate GX-65",
         "brands": [
+            "65",
             "Crate"
         ]
     },
@@ -458,7 +471,7 @@
         "downloads": 39,
         "model": "ENGL Fireball 60 (E625)",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -529,7 +542,7 @@
         "model": "Wren And Cuff Tall Font, Peavey Ultra 60w",
         "brands": [
             "Peavey",
-            "Wren & Cuff"
+            "Wren Cuff"
         ]
     },
     {
@@ -616,8 +629,7 @@
         "downloads": 9,
         "model": "Seymour Duncanc - King Tone Generator",
         "brands": [
-            "Tone",
-            "Tone King"
+            "King"
         ]
     },
     {
@@ -738,9 +750,6 @@
         "downloads": 17,
         "model": "Custom Audio",
         "brands": [
-            "Bumbox Custom Audio",
-            "CAE (Custom Audio Electronics)",
-            "Custom Audio Amplifiers",
             "M-Audio"
         ]
     },
@@ -751,9 +760,6 @@
         "downloads": 16,
         "model": "Custom Audio",
         "brands": [
-            "Bumbox Custom Audio",
-            "CAE (Custom Audio Electronics)",
-            "Custom Audio Amplifiers",
             "M-Audio"
         ]
     },
@@ -1074,7 +1080,7 @@
         "downloads": 25,
         "model": "ENGL Gigmaster 15",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -1233,8 +1239,7 @@
         "downloads": 64,
         "model": "Tone King Imperial Mk 11",
         "brands": [
-            "Tone",
-            "Tone King"
+            "King"
         ]
     },
     {
@@ -1244,8 +1249,7 @@
         "downloads": 59,
         "model": "Tone King Imperial 20TH Anniversary",
         "brands": [
-            "Tone",
-            "Tone King"
+            "King"
         ]
     },
     {
@@ -1564,14 +1568,20 @@
         "url": "https://tonehunt.org/amalgamaudio/d5616cb8-1736-4ca0-b3fe-3e6737ddaa0c",
         "favs": 35,
         "downloads": 109,
-        "model": "Benson Chimera 2022"
+        "model": "Benson Chimera 2022",
+        "brands": [
+            "Benson"
+        ]
     },
     {
         "id": "36ad6917-01d1-4837-aee3-81741bede2be",
         "url": "https://tonehunt.org/dertag/36ad6917-01d1-4837-aee3-81741bede2be",
         "favs": 6,
         "downloads": 31,
-        "model": "Koch Powertone II EL34"
+        "model": "Koch Powertone II EL34",
+        "brands": [
+            "Koch"
+        ]
     },
     {
         "id": "38167f34-40bc-4411-a08c-0fbf9ddab861",
@@ -1671,6 +1681,7 @@
         "downloads": 22,
         "model": "SWR WorkingPro 700 + TC Electronics Spectracomp",
         "brands": [
+            "Koch Electronics",
             "THD Electronics"
         ]
     },
@@ -1754,7 +1765,10 @@
         "url": "https://tonehunt.org/dertag/6eb7c502-7ea5-44f7-84cb-63ce9c36e110",
         "favs": 12,
         "downloads": 43,
-        "model": "Koch Powertone II EL34"
+        "model": "Koch Powertone II EL34",
+        "brands": [
+            "Koch"
+        ]
     },
     {
         "id": "7844a80e-35fd-4f3c-a8ab-b732b6d82816",
@@ -1996,7 +2010,10 @@
         "url": "https://tonehunt.org/d_Vincent_b/fa898fe4-265c-4304-86ae-1879664e8d8a",
         "favs": 17,
         "downloads": 51,
-        "model": "Ceriatone King Kong"
+        "model": "Ceriatone King Kong",
+        "brands": [
+            "King"
+        ]
     },
     {
         "id": "8d29a2db-ac9f-4553-9fbf-5371ca394f4c",
@@ -2120,9 +2137,6 @@
         "downloads": 21,
         "model": "Custom Audio",
         "brands": [
-            "Bumbox Custom Audio",
-            "CAE (Custom Audio Electronics)",
-            "Custom Audio Amplifiers",
             "M-Audio"
         ]
     },
@@ -2133,9 +2147,6 @@
         "downloads": 21,
         "model": "Custom Audio",
         "brands": [
-            "Bumbox Custom Audio",
-            "CAE (Custom Audio Electronics)",
-            "Custom Audio Amplifiers",
             "M-Audio"
         ]
     },
@@ -2146,9 +2157,6 @@
         "downloads": 22,
         "model": "Custom Audio",
         "brands": [
-            "Bumbox Custom Audio",
-            "CAE (Custom Audio Electronics)",
-            "Custom Audio Amplifiers",
             "M-Audio"
         ]
     },
@@ -2398,7 +2406,7 @@
         "downloads": 125,
         "model": "Engl Fireball 25 E633",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -2465,9 +2473,6 @@
         "downloads": 29,
         "model": "Custom Audio",
         "brands": [
-            "Bumbox Custom Audio",
-            "CAE (Custom Audio Electronics)",
-            "Custom Audio Amplifiers",
             "M-Audio"
         ]
     },
@@ -2478,9 +2483,6 @@
         "downloads": 27,
         "model": "Custom Audio",
         "brands": [
-            "Bumbox Custom Audio",
-            "CAE (Custom Audio Electronics)",
-            "Custom Audio Amplifiers",
             "M-Audio"
         ]
     },
@@ -2766,7 +2768,8 @@
         "downloads": 162,
         "model": "ENGL Savage 120 MK II",
         "brands": [
-            "Engl"
+            "ENGL",
+            "Savage"
         ]
     },
     {
@@ -2918,7 +2921,7 @@
         "downloads": 71,
         "model": "ENGL Fireball",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -3422,7 +3425,7 @@
         "downloads": 64,
         "model": "ENGL Ironball SE E606",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -3496,7 +3499,7 @@
         "downloads": 69,
         "model": "ENGL Fireball 100",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -3570,7 +3573,7 @@
         "downloads": 93,
         "model": "Engl, Marshall, Peavey",
         "brands": [
-            "Engl",
+            "ENGL",
             "Marshall",
             "Peavey"
         ]
@@ -3699,18 +3702,7 @@
         "downloads": 39,
         "model": "GUITAR ML ",
         "brands": [
-            "Caroline Guitar Company",
-            "Frederic Custom Guitar Amplifiers",
-            "Gravity Guitar Picks",
-            "Guitar-Guard",
-            "Heritage Guitar",
-            "Highwood Guitar Parts",
-            "Koch Guitar Electronics",
-            "Line 6 Guitar Amps",
-            "Rhino Guitar amps",
-            "Stefan Grossman's Guitar Works",
-            "The Guitar Hanger",
-            "Traveler Guitar"
+            "Guitar-Guard"
         ]
     },
     {
@@ -3794,7 +3786,7 @@
         "downloads": 207,
         "model": "ENGL Fireball",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -3902,28 +3894,40 @@
         "url": "https://tonehunt.org/ToneJunkie/e6f85272-8423-4c89-845a-1419fd8cac01",
         "favs": 57,
         "downloads": 167,
-        "model": "Matchless Chief"
+        "model": "Matchless Chief",
+        "brands": [
+            "Matchless"
+        ]
     },
     {
         "id": "4d56520e-9025-43cc-9c4c-42dc28fa45a6",
         "url": "https://tonehunt.org/ToneJunkie/4d56520e-9025-43cc-9c4c-42dc28fa45a6",
         "favs": 46,
         "downloads": 131,
-        "model": "Sampson Era Bad Cat Black Cat 30R"
+        "model": "Sampson Era Bad Cat Black Cat 30R",
+        "brands": [
+            "Bad Cat"
+        ]
     },
     {
         "id": "1bd7b27a-6dcf-4dbc-af72-43ba8c5d98cf",
         "url": "https://tonehunt.org/ToneJunkie/1bd7b27a-6dcf-4dbc-af72-43ba8c5d98cf",
         "favs": 43,
         "downloads": 117,
-        "model": "Sampson Era Bad Cat Black Cat 30R"
+        "model": "Sampson Era Bad Cat Black Cat 30R",
+        "brands": [
+            "Bad Cat"
+        ]
     },
     {
         "id": "4a965b3e-a178-43e1-9b4b-31309ffcdf83",
         "url": "https://tonehunt.org/ToneJunkie/4a965b3e-a178-43e1-9b4b-31309ffcdf83",
         "favs": 49,
         "downloads": 147,
-        "model": "Sampson Era Bad Cat Black Cat 30R"
+        "model": "Sampson Era Bad Cat Black Cat 30R",
+        "brands": [
+            "Bad Cat"
+        ]
     },
     {
         "id": "793f2c57-15f0-4280-acb4-14269f59e9bb",
@@ -3982,18 +3986,7 @@
         "downloads": 27,
         "model": "GUITAR ML ",
         "brands": [
-            "Caroline Guitar Company",
-            "Frederic Custom Guitar Amplifiers",
-            "Gravity Guitar Picks",
-            "Guitar-Guard",
-            "Heritage Guitar",
-            "Highwood Guitar Parts",
-            "Koch Guitar Electronics",
-            "Line 6 Guitar Amps",
-            "Rhino Guitar amps",
-            "Stefan Grossman's Guitar Works",
-            "The Guitar Hanger",
-            "Traveler Guitar"
+            "Guitar-Guard"
         ]
     },
     {
@@ -4219,7 +4212,10 @@
         "url": "https://tonehunt.org/FatYoshi3170/ba847cc3-ef6e-4728-8e06-9e937582f1d7",
         "favs": 13,
         "downloads": 49,
-        "model": "Victory Kraken"
+        "model": "Victory Kraken",
+        "brands": [
+            "Victory"
+        ]
     },
     {
         "id": "eddd2181-b3f9-4f9d-847d-36616b2e16ee",
@@ -4228,7 +4224,7 @@
         "downloads": 356,
         "model": "Engl - Ritchie Blackmore Signature",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -4236,7 +4232,10 @@
         "url": "https://tonehunt.org/ArlingtonAudio/08460bcb-c16e-4187-82e0-75d838921b65",
         "favs": 51,
         "downloads": 189,
-        "model": "Jet City - JCA22H "
+        "model": "Jet City - JCA22H ",
+        "brands": [
+            "City"
+        ]
     },
     {
         "id": "0d4761f5-4e91-484d-88a5-418cbe922da9",
@@ -4282,7 +4281,7 @@
         "downloads": 64,
         "model": "Engl E530 High Gain, Clean and Overdrive",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -4290,7 +4289,10 @@
         "url": "https://tonehunt.org/MikhailKurochkin/16482c59-b73d-404c-97e3-9d612338e6a6",
         "favs": 22,
         "downloads": 74,
-        "model": "Bad Cat Cougar 50"
+        "model": "Bad Cat Cougar 50",
+        "brands": [
+            "Bad Cat"
+        ]
     },
     {
         "id": "7aef2781-5c7b-4c6a-b5e6-d64621e87cce",
@@ -4391,7 +4393,10 @@
         "url": "https://tonehunt.org/narj/4d43af7a-26e0-491f-8d63-75f0dd4256e4",
         "favs": 27,
         "downloads": 81,
-        "model": "Victory The Countess V4 Preamp Pedal"
+        "model": "Victory The Countess V4 Preamp Pedal",
+        "brands": [
+            "Victory"
+        ]
     },
     {
         "id": "1038b59c-9305-405d-abd3-b7c33d3fcd61",
@@ -4450,6 +4455,7 @@
         "downloads": 70,
         "model": "DT ",
         "brands": [
+            "DST",
             "DTS"
         ]
     },
@@ -4678,7 +4684,10 @@
         "url": "https://tonehunt.org/MirrorProfiles/12029631-4be2-4cd6-9970-df38ca95339a",
         "favs": 13,
         "downloads": 52,
-        "model": "Jet City JCA 100HDM SLO 100 mods"
+        "model": "Jet City JCA 100HDM SLO 100 mods",
+        "brands": [
+            "City"
+        ]
     },
     {
         "id": "f8067ade-a7cc-41db-9a34-18763b0ad602",
@@ -4845,7 +4854,10 @@
         "url": "https://tonehunt.org/unnus/922dd736-4cb6-4e8f-b3a5-fb1f33035964",
         "favs": 32,
         "downloads": 139,
-        "model": "Matchless Lightning 15"
+        "model": "Matchless Lightning 15",
+        "brands": [
+            "Matchless"
+        ]
     },
     {
         "id": "d3d2c897-f321-49a7-b156-daef8efb94d4",
@@ -4904,6 +4916,7 @@
         "downloads": 32,
         "model": "Peavey Valve King Vk100",
         "brands": [
+            "King",
             "Peavey"
         ]
     },
@@ -4914,6 +4927,7 @@
         "downloads": 32,
         "model": "Peavey Valve King Vk100",
         "brands": [
+            "King",
             "Peavey"
         ]
     },
@@ -4951,7 +4965,8 @@
         "downloads": 91,
         "model": "Mesa Boogie Lone Star Special",
         "brands": [
-            "Mesa/Boogie"
+            "Mesa/Boogie",
+            "Star"
         ]
     },
     {
@@ -4971,7 +4986,7 @@
         "downloads": 70,
         "model": "ENGL E530, HM300, EYEMASTER",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -5020,7 +5035,8 @@
         "model": "Wizard, Diezel , Driftwood, ESH, Mesa Boogie, Masotti",
         "brands": [
             "Diezel",
-            "Mesa/Boogie"
+            "Mesa/Boogie",
+            "Wizard"
         ]
     },
     {
@@ -5040,6 +5056,7 @@
         "downloads": 52,
         "model": "Peavey Valve King Vk100",
         "brands": [
+            "King",
             "Peavey"
         ]
     },
@@ -5050,6 +5067,7 @@
         "downloads": 42,
         "model": "Peavey Valve King Vk100",
         "brands": [
+            "King",
             "Peavey"
         ]
     },
@@ -5060,6 +5078,7 @@
         "downloads": 40,
         "model": "Peavey Valve King Vk100",
         "brands": [
+            "King",
             "Peavey"
         ]
     },
@@ -5112,6 +5131,7 @@
         "downloads": 68,
         "model": "Peavey Valve King Vk100",
         "brands": [
+            "King",
             "Peavey"
         ]
     },
@@ -5340,8 +5360,7 @@
         "downloads": 401,
         "model": "Tone King Imperial MKII",
         "brands": [
-            "Tone",
-            "Tone King"
+            "King"
         ]
     },
     {
@@ -5389,7 +5408,10 @@
         "url": "https://tonehunt.org/amalgamaudio/41151a99-6faf-46d9-9dc0-72869a926a5e",
         "favs": 49,
         "downloads": 184,
-        "model": "Carr Mercury V"
+        "model": "Carr Mercury V",
+        "brands": [
+            "Carr"
+        ]
     },
     {
         "id": "7ce7448a-46d4-42d4-80f2-f0aacd3515a6",
@@ -5523,7 +5545,8 @@
         "downloads": 228,
         "model": "Engl Savage 120 mk I",
         "brands": [
-            "Engl"
+            "ENGL",
+            "Savage"
         ]
     },
     {
@@ -5677,7 +5700,7 @@
         "downloads": 141,
         "model": "ENGL Powerball II",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -5697,7 +5720,8 @@
         "downloads": 63,
         "model": "Fender",
         "brands": [
-            "Fender Custom Shop Series",
+            "Fender Shop",
+            "Fender Shop Series",
             "Fender\u00ae"
         ]
     },
@@ -5756,6 +5780,7 @@
         "downloads": 287,
         "model": "Marshall JCM800 2203kk Kerry King Signature",
         "brands": [
+            "King",
             "Marshall"
         ]
     },
@@ -5993,7 +6018,10 @@
         "url": "https://tonehunt.org/MikhailKurochkin/e381ab3a-af26-43fd-b1af-a5163adc3909",
         "favs": 33,
         "downloads": 123,
-        "model": "Sound City 50"
+        "model": "Sound City 50",
+        "brands": [
+            "City"
+        ]
     },
     {
         "id": "d953195c-86b2-4283-84c6-faee60320772",
@@ -6271,7 +6299,7 @@
         "downloads": 107,
         "model": "Peavey rockmaster/engl e530",
         "brands": [
-            "Engl",
+            "ENGL",
             "Peavey"
         ]
     },
@@ -6537,7 +6565,7 @@
         "downloads": 86,
         "model": "evh5153 engl preamp tube and others",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -6547,7 +6575,7 @@
         "downloads": 60,
         "model": "Evh5153 engl preamp tube & others",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -6608,7 +6636,7 @@
         "downloads": 56,
         "model": "Digitech GSP 2101",
         "brands": [
-            "DigiTech"
+            "Digitech"
         ]
     },
     {
@@ -6643,7 +6671,10 @@
         "url": "https://tonehunt.org/werners/eff78de6-0640-443e-8aa6-dbdd7b24b01b",
         "favs": 16,
         "downloads": 88,
-        "model": "Victory V40 Deluxe"
+        "model": "Victory V40 Deluxe",
+        "brands": [
+            "Victory"
+        ]
     },
     {
         "id": "96b6a339-8c8e-43d4-a476-20775ed995f5",
@@ -6700,13 +6731,7 @@
         "url": "https://tonehunt.org/PetrC/854a6dc3-6575-4cd3-afe9-6590a89a4e22",
         "favs": 34,
         "downloads": 148,
-        "model": "ESH Amplification - Raptor III",
-        "brands": [
-            "Budda Amplification",
-            "Clark Amplification",
-            "King Amplification",
-            "Tatoo Amplification"
-        ]
+        "model": "ESH Amplification - Raptor III"
     },
     {
         "id": "ab0ea3a9-9538-49b0-87e7-2add9add90f9",
@@ -6780,7 +6805,7 @@
         "downloads": 292,
         "model": "ENGL E606SE",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -6930,7 +6955,8 @@
         "model": "Walrus Audio ACS1 VOX AC30",
         "brands": [
             "M-Audio",
-            "Vox"
+            "Vox",
+            "Walrus"
         ]
     },
     {
@@ -6948,7 +6974,10 @@
         "url": "https://tonehunt.org/werners/a48b2cc6-a4f8-4dda-aacd-95c4cdd844b0",
         "favs": 36,
         "downloads": 170,
-        "model": "Victory V40 Deluxe"
+        "model": "Victory V40 Deluxe",
+        "brands": [
+            "Victory"
+        ]
     },
     {
         "id": "b4c001a6-53a8-4c5e-842e-86ef673f7f3e",
@@ -6967,7 +6996,7 @@
         "downloads": 86,
         "model": "ENGL E530",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -7242,11 +7271,7 @@
         "downloads": 91,
         "model": "Marshall Origin 50 modded by Coven Amplification",
         "brands": [
-            "Budda Amplification",
-            "Clark Amplification",
-            "King Amplification",
-            "Marshall",
-            "Tatoo Amplification"
+            "Marshall"
         ]
     },
     {
@@ -7256,7 +7281,7 @@
         "downloads": 76,
         "model": "ENGL E530",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -7416,26 +7441,14 @@
         "url": "https://tonehunt.org/emil.rohbe/d0ed2146-efda-4421-ab1e-047cd190a97b",
         "favs": 24,
         "downloads": 133,
-        "model": "Rohbe Amplification MKIV",
-        "brands": [
-            "Budda Amplification",
-            "Clark Amplification",
-            "King Amplification",
-            "Tatoo Amplification"
-        ]
+        "model": "Rohbe Amplification MKIV"
     },
     {
         "id": "9c1a5359-bad9-4f7f-8efb-943018adf4b8",
         "url": "https://tonehunt.org/emil.rohbe/9c1a5359-bad9-4f7f-8efb-943018adf4b8",
         "favs": 23,
         "downloads": 137,
-        "model": "Rohbe Amplification MKIV",
-        "brands": [
-            "Budda Amplification",
-            "Clark Amplification",
-            "King Amplification",
-            "Tatoo Amplification"
-        ]
+        "model": "Rohbe Amplification MKIV"
     },
     {
         "id": "ac910527-4fac-4222-aaad-907bb076f36e",
@@ -7625,7 +7638,10 @@
         "url": "https://tonehunt.org/fabionet/d49f1284-801c-47fb-bc3c-897a3e233c24",
         "favs": 8,
         "downloads": 77,
-        "model": "My Kerry King preset"
+        "model": "My Kerry King preset",
+        "brands": [
+            "King"
+        ]
     },
     {
         "id": "72a87876-d14c-4eca-b455-1e964a12d33a",
@@ -7672,7 +7688,7 @@
         "model": "Synergy Soldano SLO, ENGL Ironball, Ibanez TS9, Pepers Pedals Dirty Tree",
         "brands": [
             "Dirty",
-            "Engl",
+            "ENGL",
             "Ibanez",
             "Soldano",
             "Synergy"
@@ -7686,7 +7702,7 @@
         "model": "ENGL Ironball, Ibanez TS9, Pepers Pedals Dirty Tree, Suhr Shiba Drive",
         "brands": [
             "Dirty",
-            "Engl",
+            "ENGL",
             "Ibanez",
             "Suhr"
         ]
@@ -7735,7 +7751,7 @@
         "downloads": 81,
         "model": "ENGL E530 with 840/50",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -7745,7 +7761,7 @@
         "downloads": 77,
         "model": "ENGL SE E670",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -7887,7 +7903,7 @@
         "downloads": 90,
         "model": "ENGL Powerball E645 MK 1",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -8024,7 +8040,7 @@
         "downloads": 190,
         "model": "ENGL Powerball II",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -8217,7 +8233,10 @@
         "url": "https://tonehunt.org/TimR/99350875-5616-4b96-bb47-f3c161b0f720",
         "favs": 17,
         "downloads": 102,
-        "model": "Jet City"
+        "model": "Jet City",
+        "brands": [
+            "City"
+        ]
     },
     {
         "id": "535b2587-4b77-43eb-9360-1aa06fd34a56",
@@ -8294,7 +8313,7 @@
         "downloads": 99,
         "model": "ENGL Powerball II ",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -8434,7 +8453,10 @@
         "url": "https://tonehunt.org/georgeb/b91a6f35-ed23-44ca-af72-cdfe7fdff647",
         "favs": 11,
         "downloads": 81,
-        "model": "Ceriatone King Kong"
+        "model": "Ceriatone King Kong",
+        "brands": [
+            "King"
+        ]
     },
     {
         "id": "021f8a62-2240-4e70-bbfa-909e5a03b381",
@@ -8448,7 +8470,10 @@
         "url": "https://tonehunt.org/servusjon/425f5e65-1a23-472c-a842-934df67922ec",
         "favs": 57,
         "downloads": 210,
-        "model": "Wizard Modern Classic II"
+        "model": "Wizard Modern Classic II",
+        "brands": [
+            "Wizard"
+        ]
     },
     {
         "id": "23ec5b60-3503-4852-a7c9-1ddd483a782e",
@@ -8464,7 +8489,7 @@
         "downloads": 118,
         "model": "Engl Invader 100 V1",
         "brands": [
-            "Engl"
+            "ENGL"
         ]
     },
     {
@@ -8474,7 +8499,8 @@
         "downloads": 149,
         "model": "Engl Savage 120 MKI",
         "brands": [
-            "Engl"
+            "ENGL",
+            "Savage"
         ]
     },
     {
