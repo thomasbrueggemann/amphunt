@@ -1,5 +1,6 @@
 requests==2.31.0
 beautifulsoup4==4.12.2
 tqdm==4.66.1
-fuzzywuzzy==0.18.0 
-python-Levenshtein==0.23.0 
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.23.0
+chevron==0.14.0

@@ -1,0 +1,22 @@
+<html>
+<head>
+  <title>AmpHunt</title>
+  <style>
+    body {
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>AmpHunt</h1>
+
+  <a href="/">back</a>
+
+  <h2>{{brand}}</h2>
+  <ul>
+    {{#models}}
+      <li><a href='{{url}}'>{{model}}</a> (💾 {{downloads}} ⭐️ {{favs}})</li>
+    {{/models}}
+  </ul>
+</body>
+</html>

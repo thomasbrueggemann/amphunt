@@ -32,6 +32,10 @@ jobs:
       run: |
         python analyser.py
 
+    - name: Run pagegen.py
+      run: |
+        python pagegen.py
+
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
-          file_pattern: '*.json models.csv'
+          file_pattern: '*.json models.csv docs/*.html'
