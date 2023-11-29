@@ -19,8 +19,8 @@
   <div class="container">
     <h1 class="fs-1 mb-4 mt-4">Amp 🎸 Hunt</h1>
     <p class="text-secondary"><i>Last Updated: {{last_updated}}</i></p>
-    <h3 class="mb-4 mt-4">{{brand}}:</h3>
-    <table class="table table-bordered table-striped">
+    <h3 class="mb-4 mt-4">{{brand}}</h3>
+    <table class="table table-hover" style="text-align:left!important">
       <thead>
         <tr>
           <th scope="col">🔈 Model</th>
@@ -28,10 +28,10 @@
           <th scope="col">⭐️ Stars</th>
         </tr>
       </thead>
-      <tbody>
+      <tbody class="table-group-divider">
         {{#models}}
           <tr>
-            <td><a href='{{url}}' target='_blank'>{{model}}</a></td>
+            <td><a href='{{url}}' class='fs-5' target='_blank'>{{model}}</a><br /><span class='text-secondary'>{{title}}</span></td>
             <td>{{downloads}}</td>
             <td>{{favs}}</td>
           </tr>
