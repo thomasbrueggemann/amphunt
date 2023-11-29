@@ -2,8 +2,6 @@
 import requests
 import re
 import json
-import os
-import csv
 
 from tqdm import tqdm
 from bs4 import BeautifulSoup
@@ -33,6 +31,10 @@ progress_bar = tqdm(detail_links, desc="Scraping pages", unit="pages")
 for link in progress_bar:
 
     id = link.split("/")[-1]
+
+    if any(m["id"] == id for m in models):
+        continue    
+
     url = f"{base_url}{link}"
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "html.parser")
@@ -50,6 +52,13 @@ for link in progress_bar:
         if model_h4:
             model["model"] = model_h4.text
 
+    headers = soup.find_all("header")
+    for header in headers:
+        first_h3 = header.find("h3")
+        if first_h3:
+            model["title"] = first_h3.text
+            break
+
     form = soup.find("form", action="/favorites/add")
     if form:
         favs_text = re.sub(r'\D', '', form.text)
@@ -64,8 +73,3 @@ for link in progress_bar:
 
 with open("models.json", "w") as json_file:
     json.dump(models, json_file, indent=4)
-
-with open("models.csv", "w", newline="") as csv_file:
-    writer = csv.DictWriter(csv_file, fieldnames=["id", "model", "favs", "downloads", "url"])
-    writer.writeheader()
-    writer.writerows(models)

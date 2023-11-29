@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html>
+<html data-bs-theme="dark">
 <head>
   <meta charset="utf-8">
   <title>AmpHunt</title>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body {
@@ -16,11 +16,18 @@
   </style>
 </head>
 <body>
-  <h1>AmpHunt</h1>
-  <ul>
-    {{#brands}}
-      <li><a href='{{id}}.html'>{{brand}}</a> ({{count}})</li>
-    {{/brands}}
-  </ul>
+  <div class="container">
+    <h1 class="fs-1 mb-4 mt-4">Amp 🎸 Hunt</h1>
+    <p>Scraping and categorizing tonehunt.org amp models for NAM</p>
+    <p class="text-secondary"><i>Last Updated: {{last_updated}}</i></p>
+    <ul class="list-group">
+      {{#brands}}
+        <a href='{{id}}.html' class='list-group-item list-group-item-action p-3'>
+          <span class="fs-4">{{brand}}</span>
+          <span class="badge bg-primary rounded-pill">{{count}}</span>
+        </a>
+      {{/brands}}
+    </ul>
+  </div>
 </body>
 </html>

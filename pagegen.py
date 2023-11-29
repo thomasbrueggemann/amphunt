@@ -2,6 +2,7 @@
 import chevron
 import json
 import re
+import datetime
 
 def slugify(text):
     text = re.sub(r"[^\w\s-]", "", text.lower())
@@ -16,7 +17,8 @@ def render_brand_page(brand, brand_models):
     with open('detail.mustache', 'r') as f:
         result = chevron.render(f, {
             'brand': brand,
-            'models': brand_models
+            'models': brand_models,
+            'last_updated': datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M") + " UTC"
         })
 
     with open(f'docs/{id}.html', 'w') as f:
@@ -31,7 +33,10 @@ brands_list = [{'brand': key, 'id': slugify(key), 'count': value} for key, value
 
 # generate index page
 with open('index.mustache', 'r') as f:
-    result = chevron.render(f, {'brands': brands_list})
+    result = chevron.render(f, {
+        'brands': brands_list,
+        'last_updated': datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M") + " UTC"
+    })
 
 with open('docs/index.html', 'w') as f:
     f.write(result)
