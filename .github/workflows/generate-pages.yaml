@@ -38,4 +38,4 @@ jobs:
 
     - uses: stefanzweifel/git-auto-commit-action@v5
       with:
-          file_pattern: '*.json models.csv docs/*.html'
+          file_pattern: '*.json docs/*.html'
