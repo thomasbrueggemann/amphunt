@@ -1,9 +1,41 @@
 [
     {
+        "id": "94e902df-b41c-41db-b3ba-763eaa5a61aa",
+        "url": "https://tonehunt.org/2dor/94e902df-b41c-41db-b3ba-763eaa5a61aa",
+        "favs": 3,
+        "downloads": 13,
+        "model": "Ceriatone Chupacabra 50W",
+        "title": "Ceriatone Chupacabra 50W \"instant gratification\" revisited (16 dBu)"
+    },
+    {
+        "id": "bc72db3e-2c68-4509-a090-6c15b3965000",
+        "url": "https://tonehunt.org/industro/bc72db3e-2c68-4509-a090-6c15b3965000",
+        "favs": 1,
+        "downloads": 13,
+        "model": "Mark V",
+        "title": "2 Mesa Mark Vs/ No Boost"
+    },
+    {
+        "id": "c70e6c3d-553b-4d56-a437-afde69e13d14",
+        "url": "https://tonehunt.org/2dor/c70e6c3d-553b-4d56-a437-afde69e13d14",
+        "favs": 4,
+        "downloads": 26,
+        "model": "Ceriatone Chupacabra 50W, King Kong 100W",
+        "title": "Ceriatone Chupacabra preamp into Ceriatone  King Kong 100W poweramp (16 dBu)"
+    },
+    {
+        "id": "374895f8-e3e8-4759-a33a-5cdbfd44d965",
+        "url": "https://tonehunt.org/industro/374895f8-e3e8-4759-a33a-5cdbfd44d965",
+        "favs": 1,
+        "downloads": 17,
+        "model": "Soldano Slo",
+        "title": "2 Soldano 100/No Boost"
+    },
+    {
         "id": "f50ee7b6-f816-45c8-89af-6031e5e25e6e",
         "url": "https://tonehunt.org/industro/f50ee7b6-f816-45c8-89af-6031e5e25e6e",
-        "favs": 0,
-        "downloads": 6,
+        "favs": 1,
+        "downloads": 12,
         "model": "Dual Rectifier",
         "title": "2 Dual Rectifiers/No Boost"
     },
@@ -11,7 +43,7 @@
         "id": "a756eab7-6970-45aa-a311-35d640bf1f97",
         "url": "https://tonehunt.org/philvr/a756eab7-6970-45aa-a311-35d640bf1f97",
         "favs": 11,
-        "downloads": 31,
+        "downloads": 34,
         "model": "Fender Princeton",
         "title": "Fender '65 Princeton Reverb"
     },
@@ -26,64 +58,64 @@
     {
         "id": "914030dd-207b-4838-a4d3-90c524957208",
         "url": "https://tonehunt.org/SlamminMofo/914030dd-207b-4838-a4d3-90c524957208",
-        "favs": 6,
-        "downloads": 34,
+        "favs": 10,
+        "downloads": 47,
         "model": "Various Amplifier Brands",
         "title": "Slammin Poweramp Mega Pack"
     },
     {
         "id": "ddd19fa4-c4f7-49b3-8e17-f5feddd4a51d",
         "url": "https://tonehunt.org/SlamminMofo/ddd19fa4-c4f7-49b3-8e17-f5feddd4a51d",
-        "favs": 5,
-        "downloads": 31,
+        "favs": 7,
+        "downloads": 39,
         "model": "Soldano X88R",
         "title": "Soldano X88R Preamp"
     },
     {
         "id": "290d5cb7-922e-4f32-8d8d-5a76186a08bc",
         "url": "https://tonehunt.org/SlamminMofo/290d5cb7-922e-4f32-8d8d-5a76186a08bc",
-        "favs": 4,
-        "downloads": 27,
+        "favs": 5,
+        "downloads": 31,
         "model": "Folkesson MK VII Modded Marshall JMP 2203 ",
         "title": "Marshall JMP 2203 100W EL34 Poweramp"
     },
     {
         "id": "0092f308-8594-4f31-912c-1634d9d1320b",
         "url": "https://tonehunt.org/SlamminMofo/0092f308-8594-4f31-912c-1634d9d1320b",
-        "favs": 5,
-        "downloads": 28,
+        "favs": 6,
+        "downloads": 32,
         "model": "Friedman SS 100 V1",
         "title": "Friedman SS 100 EL34 Poweramp"
     },
     {
         "id": "4d93e995-fa44-42fa-bb0e-5a888007b0a3",
         "url": "https://tonehunt.org/SlamminMofo/4d93e995-fa44-42fa-bb0e-5a888007b0a3",
-        "favs": 5,
-        "downloads": 28,
+        "favs": 6,
+        "downloads": 32,
         "model": "ENGL SE Special Edition E670",
         "title": "ENGL SE E670 100W EL34 Poweramp"
     },
     {
         "id": "4d289ea9-3d88-4446-b587-bf98f5715836",
         "url": "https://tonehunt.org/SlamminMofo/4d289ea9-3d88-4446-b587-bf98f5715836",
-        "favs": 4,
-        "downloads": 26,
+        "favs": 5,
+        "downloads": 29,
         "model": "Bogner Goldfinger 45",
         "title": "Bogner Goldfinger 45 6V6 Poweramp"
     },
     {
         "id": "8bb7987a-3f7d-40f3-b8ed-60e3d25b2509",
         "url": "https://tonehunt.org/SlamminMofo/8bb7987a-3f7d-40f3-b8ed-60e3d25b2509",
-        "favs": 4,
-        "downloads": 23,
+        "favs": 5,
+        "downloads": 26,
         "model": "Amplified Nation Bombshell Overdrive 100W",
         "title": "Amplified Nation Bombshell Overdrive 100W 6L6GC Poweramp"
     },
     {
         "id": "80c13823-16fb-4ff2-94b3-0564582b5165",
         "url": "https://tonehunt.org/SlamminMofo/80c13823-16fb-4ff2-94b3-0564582b5165",
-        "favs": 4,
-        "downloads": 24,
+        "favs": 5,
+        "downloads": 27,
         "model": "Peavey Classic Series 120",
         "title": "Peavey Classic Series 120 6L6GC Poweramp"
     },
@@ -91,15 +123,15 @@
         "id": "7fa144a0-7450-4655-b547-139b345d682f",
         "url": "https://tonehunt.org/markswarbrick/7fa144a0-7450-4655-b547-139b345d682f",
         "favs": 3,
-        "downloads": 19,
+        "downloads": 20,
         "model": "GK Backline 600 Bass Amp",
         "title": "Gallien Krueger Backline 600 (Bass/Guitar Amp)"
     },
     {
         "id": "db638c0e-5819-4d7e-bf56-5cfecef526ef",
         "url": "https://tonehunt.org/LaRue/db638c0e-5819-4d7e-bf56-5cfecef526ef",
-        "favs": 6,
-        "downloads": 23,
+        "favs": 7,
+        "downloads": 24,
         "model": "Diezel VHX",
         "title": "Diezel VHX Ch4  - D.I "
     },
@@ -107,15 +139,15 @@
         "id": "d2a62b25-a21f-4cec-8119-146a9ad1f6df",
         "url": "https://tonehunt.org/gelbertoneaudio/d2a62b25-a21f-4cec-8119-146a9ad1f6df",
         "favs": 3,
-        "downloads": 30,
+        "downloads": 32,
         "model": "Marshall Plexi",
         "title": "Gelbertone MarshPlexi Boosted (NO CAB)"
     },
     {
         "id": "6d7e8623-98a5-4320-abbf-1de62b54817b",
         "url": "https://tonehunt.org/2dor/6d7e8623-98a5-4320-abbf-1de62b54817b",
-        "favs": 8,
-        "downloads": 52,
+        "favs": 9,
+        "downloads": 54,
         "model": "Ceriatone Chupacabra 50W",
         "title": "Ceriatone Chupacabra 50W with Legendary Tones \"Mr. Scary\" mod (Suhr RL, St. Rock React:IR) (16 dBu)"
     },
@@ -123,7 +155,7 @@
         "id": "47310d39-6082-4cf4-b05f-38880dff50fe",
         "url": "https://tonehunt.org/LaRue/47310d39-6082-4cf4-b05f-38880dff50fe",
         "favs": 16,
-        "downloads": 53,
+        "downloads": 55,
         "model": "Mesa Dual Rectifier Multiwatt",
         "title": "Mesa Dual Rectifier Multiwatt Blacked Out Edition - D.I - Fortin 33 - MESHUGGAH - "
     },
@@ -139,7 +171,7 @@
         "id": "49d6f069-ef34-4d97-b901-f631c40ee7cc",
         "url": "https://tonehunt.org/danielnguyen/49d6f069-ef34-4d97-b901-f631c40ee7cc",
         "favs": 15,
-        "downloads": 67,
+        "downloads": 68,
         "model": "Tone King Imperial MKII",
         "title": "Tone King Imperial MKII V2"
     },
@@ -147,7 +179,7 @@
         "id": "d9c53886-840a-40d9-8bfd-7b9a92a82680",
         "url": "https://tonehunt.org/SlamminMofo/d9c53886-840a-40d9-8bfd-7b9a92a82680",
         "favs": 9,
-        "downloads": 47,
+        "downloads": 50,
         "model": "Synergy Fr\u00eeedman BE DLX",
         "title": "Synergy BE DLX Preamp"
     },
@@ -155,7 +187,7 @@
         "id": "847e4d03-ee47-4c15-b562-0f70ba00dbe1",
         "url": "https://tonehunt.org/2dor/847e4d03-ee47-4c15-b562-0f70ba00dbe1",
         "favs": 11,
-        "downloads": 60,
+        "downloads": 61,
         "model": "Ceriatone Chupacabra 50W",
         "title": "Ceriatone Chupacabra 50W \"instant gratification\" (16 dBu)"
     },
@@ -163,7 +195,7 @@
         "id": "cd169fe7-c15b-493b-b5b9-0d86bcc7e5d5",
         "url": "https://tonehunt.org/2dor/cd169fe7-c15b-493b-b5b9-0d86bcc7e5d5",
         "favs": 10,
-        "downloads": 68,
+        "downloads": 69,
         "model": "Ceriatone Chupacabra 50W",
         "title": "Ceriatone Chupacabra 50W \"First Blood\" (Suhr RL, St. Rock React:IR) pack (16 dBu)"
     },
@@ -171,15 +203,15 @@
         "id": "680ff003-ad3f-4d62-80ab-f3f92b33203a",
         "url": "https://tonehunt.org/SlamminMofo/680ff003-ad3f-4d62-80ab-f3f92b33203a",
         "favs": 10,
-        "downloads": 52,
+        "downloads": 55,
         "model": "Synergy Vai",
         "title": "Synergy Vai Preamp"
     },
     {
         "id": "3989771e-2bb1-44d5-b1c6-f2bfe1105a81",
         "url": "https://tonehunt.org/danielnguyen/3989771e-2bb1-44d5-b1c6-f2bfe1105a81",
-        "favs": 15,
-        "downloads": 69,
+        "favs": 16,
+        "downloads": 70,
         "model": "Fender '62 Princeton Chris Stapleton Edition",
         "title": "Fender '62 Princeton Chris Stapleton Edition V2"
     },
@@ -187,7 +219,7 @@
         "id": "4e216642-f358-47b1-a895-a4a8402368bf",
         "url": "https://tonehunt.org/Raksha/4e216642-f358-47b1-a895-a4a8402368bf",
         "favs": 30,
-        "downloads": 105,
+        "downloads": 106,
         "model": "VOX AC30 CCH",
         "title": "VOX AC30"
     },
@@ -235,7 +267,7 @@
         "id": "0a3e875a-12c8-48d8-9361-d4018b4714b8",
         "url": "https://tonehunt.org/silver34324/0a3e875a-12c8-48d8-9361-d4018b4714b8",
         "favs": 4,
-        "downloads": 53,
+        "downloads": 54,
         "model": "Peavey 5150 II ",
         "title": "Peavey 5150 II "
     },
@@ -267,7 +299,7 @@
         "id": "b8320086-574d-4b8b-a6f4-dec931e50be6",
         "url": "https://tonehunt.org/brianbuckles/b8320086-574d-4b8b-a6f4-dec931e50be6",
         "favs": 6,
-        "downloads": 46,
+        "downloads": 47,
         "model": "Hybrit",
         "title": "Plexi Hybrit Mad Cat \ud83d\ude3c\ud83c\udfb8"
     },
@@ -315,7 +347,7 @@
         "id": "be876db7-51bc-41e9-9ab8-31fea3cbc360",
         "url": "https://tonehunt.org/Kosmicaudio/be876db7-51bc-41e9-9ab8-31fea3cbc360",
         "favs": 7,
-        "downloads": 52,
+        "downloads": 53,
         "model": "Fender Hot Rod Deluxe III",
         "title": "Fender Hot Rod Deluxe III - Normal Ch Pack"
     },
@@ -323,7 +355,7 @@
         "id": "17191ea0-9a21-48d6-bf33-eaf5e83d4ca7",
         "url": "https://tonehunt.org/erikgitarristen/17191ea0-9a21-48d6-bf33-eaf5e83d4ca7",
         "favs": 12,
-        "downloads": 80,
+        "downloads": 82,
         "model": "Clone of a Dumble ODS #102 with dumbleator",
         "title": "Dumble Overdrive Special #102 clone"
     },
@@ -347,7 +379,7 @@
         "id": "61774eb1-c1ac-40a1-8728-e339c804048f",
         "url": "https://tonehunt.org/danielnguyen/61774eb1-c1ac-40a1-8728-e339c804048f",
         "favs": 20,
-        "downloads": 99,
+        "downloads": 100,
         "model": "Two Rock Studio Signature",
         "title": "Two Rock Studio Signature (DI)"
     },
@@ -419,7 +451,7 @@
         "id": "0b72d1ff-01a3-466c-b44a-6818599ff2e2",
         "url": "https://tonehunt.org/Aurel/0b72d1ff-01a3-466c-b44a-6818599ff2e2",
         "favs": 18,
-        "downloads": 72,
+        "downloads": 73,
         "model": "Sunn BetaLead + ModelT",
         "title": "Sunn pack"
     },
@@ -467,7 +499,7 @@
         "id": "2b2598e9-771b-4495-a5b9-eb605e82c389",
         "url": "https://tonehunt.org/CoreToneCaptures/2b2598e9-771b-4495-a5b9-eb605e82c389",
         "favs": 16,
-        "downloads": 69,
+        "downloads": 70,
         "model": "Friedman BE100 Deluxe",
         "title": "FMAN100 BE 8 Dave DIR"
     },
@@ -483,7 +515,7 @@
         "id": "ce8561b7-6500-46f4-abcb-5f1356c27f34",
         "url": "https://tonehunt.org/PrimalNerd/ce8561b7-6500-46f4-abcb-5f1356c27f34",
         "favs": 16,
-        "downloads": 75,
+        "downloads": 76,
         "model": "Diezel VH2",
         "title": "Diezel VH2 Pack"
     },
@@ -491,7 +523,7 @@
         "id": "fd7b6387-b6d1-472d-a2c5-7da920704e46",
         "url": "https://tonehunt.org/overmort/fd7b6387-b6d1-472d-a2c5-7da920704e46",
         "favs": 12,
-        "downloads": 52,
+        "downloads": 53,
         "model": "E530",
         "title": "ENGL E530 Preamp"
     },
@@ -530,8 +562,8 @@
     {
         "id": "f1a8a96f-cebd-4f8e-858a-c14e195dd76e",
         "url": "https://tonehunt.org/danielnguyen/f1a8a96f-cebd-4f8e-858a-c14e195dd76e",
-        "favs": 41,
-        "downloads": 159,
+        "favs": 42,
+        "downloads": 160,
         "model": "Fender '62 Princeton Chris Stapleton Edition",
         "title": "Fender '62 Princeton Chris Stapleton Edition"
     },
@@ -595,7 +627,7 @@
         "id": "8f240aa4-99bc-4515-8817-fbba33bbdfe7",
         "url": "https://tonehunt.org/brianbuckles/8f240aa4-99bc-4515-8817-fbba33bbdfe7",
         "favs": 14,
-        "downloads": 115,
+        "downloads": 116,
         "model": "Marshall JCM800 2203",
         "title": "Marshall JCM800 MEGA PACK \ud83d\udcfb\ud83c\udfb8"
     },
@@ -651,7 +683,7 @@
         "id": "c0bdf9e7-b02e-4dd0-bb3f-6cbf155c3e6a",
         "url": "https://tonehunt.org/brianbuckles/c0bdf9e7-b02e-4dd0-bb3f-6cbf155c3e6a",
         "favs": 14,
-        "downloads": 78,
+        "downloads": 79,
         "model": "Marshall AFD100",
         "title": "Marshall AFD100 100W Head \ud83d\udc80\ud83d\ude0e\ud83c\udfa9"
     },
@@ -659,7 +691,7 @@
         "id": "d4fbeecc-fb5e-4d82-9e81-66b24f5aa50f",
         "url": "https://tonehunt.org/brianbuckles/d4fbeecc-fb5e-4d82-9e81-66b24f5aa50f",
         "favs": 19,
-        "downloads": 84,
+        "downloads": 85,
         "model": "REVV Generator 120 MK II",
         "title": "REVV Generator 120 MK II \ud83c\udfc1\ud83d\udc80"
     },
@@ -667,7 +699,7 @@
         "id": "662defa2-7e80-43de-9c7c-12851ae263dc",
         "url": "https://tonehunt.org/brianbuckles/662defa2-7e80-43de-9c7c-12851ae263dc",
         "favs": 22,
-        "downloads": 122,
+        "downloads": 123,
         "model": "Soldano SLO SP77 30W",
         "title": "Soldano MEGA PACK \ud83e\udd88"
     },
@@ -675,7 +707,7 @@
         "id": "274045cd-6fa9-4e9e-ab48-c952cb7e39d6",
         "url": "https://tonehunt.org/brianbuckles/274045cd-6fa9-4e9e-ab48-c952cb7e39d6",
         "favs": 23,
-        "downloads": 116,
+        "downloads": 117,
         "model": "Friedman BE-100",
         "title": "Friedman BE-100 100W Head \u2622\ufe0f\ud83c\udfb8\ud83c\udfb6"
     },
@@ -715,7 +747,7 @@
         "id": "3921e244-3570-4261-867e-47a61c99413a",
         "url": "https://tonehunt.org/CoreToneCaptures/3921e244-3570-4261-867e-47a61c99413a",
         "favs": 9,
-        "downloads": 53,
+        "downloads": 54,
         "model": "Mesa Boogie JP2C",
         "title": "JPIIC Crunch Chug DIR"
     },
@@ -723,7 +755,7 @@
         "id": "c9e502b5-0a82-4387-bd0d-f14e5d080bf7",
         "url": "https://tonehunt.org/obi-Juan/c9e502b5-0a82-4387-bd0d-f14e5d080bf7",
         "favs": 12,
-        "downloads": 52,
+        "downloads": 53,
         "model": "Mesa Boogie DC Ch2",
         "title": "Mesa Boogie DC-5 Channel 2 Pack (HD 96kHz)"
     },
@@ -731,7 +763,7 @@
         "id": "3d621396-a752-41df-b63c-eaa71cb24c95",
         "url": "https://tonehunt.org/honkkis/3d621396-a752-41df-b63c-eaa71cb24c95",
         "favs": 11,
-        "downloads": 55,
+        "downloads": 56,
         "model": "Mesa Dual Rectifier 3ch Solo",
         "title": "Mesa Dual Rectifier 6L6 Modern Orange 96kHz HD"
     },
@@ -747,7 +779,7 @@
         "id": "4ad12d38-76e4-42fd-a4ac-198489b197b0",
         "url": "https://tonehunt.org/honkkis/4ad12d38-76e4-42fd-a4ac-198489b197b0",
         "favs": 16,
-        "downloads": 91,
+        "downloads": 92,
         "model": "Mesa Dual Rectifier 3ch Solo",
         "title": "Mesa Dual Rectifier 6L6 Modern Red 96kHz HD"
     },
@@ -843,7 +875,7 @@
         "id": "4f23aa2a-e7f6-400c-aa3c-e15e85f70f2d",
         "url": "https://tonehunt.org/Magister/4f23aa2a-e7f6-400c-aa3c-e15e85f70f2d",
         "favs": 15,
-        "downloads": 77,
+        "downloads": 78,
         "model": "Marshall",
         "title": "Marshall JMP 1979"
     },
@@ -851,7 +883,7 @@
         "id": "24c29158-f5b1-4cc5-91a0-bf4614c64eb2",
         "url": "https://tonehunt.org/PrimalNerd/24c29158-f5b1-4cc5-91a0-bf4614c64eb2",
         "favs": 12,
-        "downloads": 59,
+        "downloads": 60,
         "model": "Darkglass Microtubes X Ultra Glockenklang DUO 2x10",
         "title": "Darkglass Microtubes X Ultra with Glockenklang DUO 2x10"
     },
@@ -867,7 +899,7 @@
         "id": "6ddbcd4d-9424-483b-8c5c-1edf14109051",
         "url": "https://tonehunt.org/ViciousAudio/6ddbcd4d-9424-483b-8c5c-1edf14109051",
         "favs": 5,
-        "downloads": 35,
+        "downloads": 36,
         "model": "Crab Amps Cali Clone",
         "title": "Cali Mid Gain"
     },
@@ -875,7 +907,7 @@
         "id": "1b8a471f-6012-4f8a-bf7e-2c717dc794fd",
         "url": "https://tonehunt.org/Kosmicaudio/1b8a471f-6012-4f8a-bf7e-2c717dc794fd",
         "favs": 10,
-        "downloads": 53,
+        "downloads": 54,
         "model": "Fender Hot Rod Deluxe III",
         "title": "Fender Hot Rod Deluxe III - Clean HD Model 96kHz"
     },
@@ -899,7 +931,7 @@
         "id": "788dabb7-0127-485a-862f-2cf54c370165",
         "url": "https://tonehunt.org/dylancaptures/788dabb7-0127-485a-862f-2cf54c370165",
         "favs": 8,
-        "downloads": 53,
+        "downloads": 54,
         "model": "Marshall ORIGIN20H",
         "title": "Marshall ORIGIN20H by DYLAN CAPTURES "
     },
@@ -907,7 +939,7 @@
         "id": "72a3c7df-04c9-4c88-a344-411926660b49",
         "url": "https://tonehunt.org/PrimalNerd/72a3c7df-04c9-4c88-a344-411926660b49",
         "favs": 35,
-        "downloads": 141,
+        "downloads": 142,
         "model": "Revv Generator 120 MKIII",
         "title": "Revv Generator 120 MKIII Pack"
     },
@@ -923,7 +955,7 @@
         "id": "1585a005-2af6-4d0c-b1b3-7f8fe5222048",
         "url": "https://tonehunt.org/bobforcha/1585a005-2af6-4d0c-b1b3-7f8fe5222048",
         "favs": 5,
-        "downloads": 32,
+        "downloads": 33,
         "model": "Mojotone TMB18 JCM800 Channel",
         "title": "TMB18 JCM800 Mostly Cranked"
     },
@@ -939,7 +971,7 @@
         "id": "921028d9-1156-4577-82f8-58fb6032cb1e",
         "url": "https://tonehunt.org/Ratchetstrap.Media/921028d9-1156-4577-82f8-58fb6032cb1e",
         "favs": 7,
-        "downloads": 51,
+        "downloads": 52,
         "model": "EVH 5150 III",
         "title": "EVH 5150 III Blue Pack"
     },
@@ -947,7 +979,7 @@
         "id": "ba8c6022-5a10-4a9a-83a6-57c80fab439f",
         "url": "https://tonehunt.org/Ratchetstrap.Media/ba8c6022-5a10-4a9a-83a6-57c80fab439f",
         "favs": 6,
-        "downloads": 45,
+        "downloads": 46,
         "model": "Marshall DLS20hr",
         "title": "Marshall DSL20 Ultra Gain Pack"
     },
@@ -1043,7 +1075,7 @@
         "id": "073b476d-0b76-4c84-a088-abc08ce603cc",
         "url": "https://tonehunt.org/thomasbrueggemann/073b476d-0b76-4c84-a088-abc08ce603cc",
         "favs": 16,
-        "downloads": 86,
+        "downloads": 87,
         "model": "Victory V30 The Countess",
         "title": "Victory V30 The Countess"
     },
@@ -1115,7 +1147,7 @@
         "id": "4051f382-c4f7-417e-bb14-1e1fe7eb52de",
         "url": "https://tonehunt.org/jesusalmartin/4051f382-c4f7-417e-bb14-1e1fe7eb52de",
         "favs": 8,
-        "downloads": 67,
+        "downloads": 68,
         "model": "Marshall 2525H Mini Silver Jubilee",
         "title": "Marshall 2525H Mini Silver Jubilee"
     },
@@ -1219,7 +1251,7 @@
         "id": "2f8c5737-dc2b-414c-8e6f-05d1ddaddceb",
         "url": "https://tonehunt.org/Ratchetstrap.Media/2f8c5737-dc2b-414c-8e6f-05d1ddaddceb",
         "favs": 14,
-        "downloads": 73,
+        "downloads": 75,
         "model": "Peavey 6505+",
         "title": "Peavey 6505+ Hi Gain Pack"
     },
@@ -1387,7 +1419,7 @@
         "id": "76326430-e698-4926-957c-b1a41dfb611f",
         "url": "https://tonehunt.org/Ideofunk/76326430-e698-4926-957c-b1a41dfb611f",
         "favs": 27,
-        "downloads": 155,
+        "downloads": 156,
         "model": "Marshall Super Lead 100",
         "title": "1972 Marshall Super Lead 100 Head DI"
     },
@@ -1419,7 +1451,7 @@
         "id": "884b6172-2279-40c6-a0d3-b34090ea83e5",
         "url": "https://tonehunt.org/ITTY/884b6172-2279-40c6-a0d3-b34090ea83e5",
         "favs": 16,
-        "downloads": 59,
+        "downloads": 60,
         "model": "Splawn Quickrod",
         "title": "Splawn Quickrod by the ITTY"
     },
@@ -1554,8 +1586,8 @@
     {
         "id": "cbea7893-8fea-4656-873b-4a9637a8d919",
         "url": "https://tonehunt.org/SlamminMofo/cbea7893-8fea-4656-873b-4a9637a8d919",
-        "favs": 19,
-        "downloads": 53,
+        "favs": 20,
+        "downloads": 56,
         "model": "Mesa/Boogie 2:90 Simul-Class",
         "title": "Mesa/Boogie 2:90 6L6WGC Poweramp"
     },
@@ -1563,7 +1595,7 @@
         "id": "8113e8eb-adcb-4561-a25b-51be2f82890f",
         "url": "https://tonehunt.org/SlamminMofo/8113e8eb-adcb-4561-a25b-51be2f82890f",
         "favs": 22,
-        "downloads": 72,
+        "downloads": 73,
         "model": "Fryette Powerstation PS-1 6L6 50W",
         "title": "Fryette Powerstation PS-1 6L6GC Poweramp"
     },
@@ -1675,7 +1707,7 @@
         "id": "987b793f-1a78-465d-b7ab-24389eb6f761",
         "url": "https://tonehunt.org/helgab/987b793f-1a78-465d-b7ab-24389eb6f761",
         "favs": 39,
-        "downloads": 121,
+        "downloads": 122,
         "model": "Peavey XXX",
         "title": "Peavey XXX - Thrash Attack Pack "
     },
@@ -1835,7 +1867,7 @@
         "id": "180b5d44-b37f-4b43-a76c-84e4f7accad8",
         "url": "https://tonehunt.org/SoothsayerAudio/180b5d44-b37f-4b43-a76c-84e4f7accad8",
         "favs": 25,
-        "downloads": 86,
+        "downloads": 87,
         "model": "Friedman Smallbox 50 Head",
         "title": "Friedman Smallbox 50 (Both Channels)"
     },
@@ -1867,7 +1899,7 @@
         "id": "96abca1a-2fe0-4ec3-a31c-7ceacc2db753",
         "url": "https://tonehunt.org/akka_5/96abca1a-2fe0-4ec3-a31c-7ceacc2db753",
         "favs": 9,
-        "downloads": 38,
+        "downloads": 39,
         "model": "Synergy",
         "title": "Dumble lead"
     },
@@ -1915,7 +1947,7 @@
         "id": "c78166f5-ea52-4408-8924-4dfcace15181",
         "url": "https://tonehunt.org/arsafes/c78166f5-ea52-4408-8924-4dfcace15181",
         "favs": 17,
-        "downloads": 69,
+        "downloads": 70,
         "model": "Soldano Hot Rod 50",
         "title": "Leon Todd's Soldano Hot Rod 50 (MORE)"
     },
@@ -1931,7 +1963,7 @@
         "id": "3c3d4f28-3fe1-403b-a3f3-763fd4185050",
         "url": "https://tonehunt.org/arsafes/3c3d4f28-3fe1-403b-a3f3-763fd4185050",
         "favs": 17,
-        "downloads": 56,
+        "downloads": 57,
         "model": "Soldano Hot Rod 50",
         "title": "Leon Todd's Soldano Hot Rod 50 (LESS)"
     },
@@ -1939,7 +1971,7 @@
         "id": "de42bf28-aa82-45c0-9da8-b6491e696820",
         "url": "https://tonehunt.org/arsafes/de42bf28-aa82-45c0-9da8-b6491e696820",
         "favs": 17,
-        "downloads": 60,
+        "downloads": 61,
         "model": "Soldano Hot Rod 50",
         "title": "Leon Todd's Soldano Hot Rod 50 (MID)"
     },
@@ -2179,7 +2211,7 @@
         "id": "d4cc40e2-677f-4f50-a989-affc3f3797f4",
         "url": "https://tonehunt.org/helgab/d4cc40e2-677f-4f50-a989-affc3f3797f4",
         "favs": 57,
-        "downloads": 189,
+        "downloads": 192,
         "model": "Peavey 5150 Block Letter",
         "title": "Peavey 5150 Block Letter (Original HotRod Pack)"
     },
@@ -2211,7 +2243,7 @@
         "id": "56733d62-5124-49c2-8b40-defc2e00d332",
         "url": "https://tonehunt.org/Raksha/56733d62-5124-49c2-8b40-defc2e00d332",
         "favs": 87,
-        "downloads": 279,
+        "downloads": 280,
         "model": "Ceriatone DC30",
         "title": "Matchless DC30 clone"
     },
@@ -2219,7 +2251,7 @@
         "id": "14967784-9d49-45da-8baf-c6d54980d7a9",
         "url": "https://tonehunt.org/OutmodedElectronics/14967784-9d49-45da-8baf-c6d54980d7a9",
         "favs": 15,
-        "downloads": 66,
+        "downloads": 67,
         "model": "Plexi 50W Clone",
         "title": "50W Plexi Circuit - Bass Spec & Lead Spec w/5000pF Bright Cap (11.5dBu)"
     },
@@ -2259,7 +2291,7 @@
         "id": "e391902c-39b8-4a97-be35-50be08a7a331",
         "url": "https://tonehunt.org/helgab/e391902c-39b8-4a97-be35-50be08a7a331",
         "favs": 24,
-        "downloads": 84,
+        "downloads": 85,
         "model": "Bugera 1960",
         "title": "Bugera 1960 (Purple Pexi Poser Pack)"
     },
@@ -2339,7 +2371,7 @@
         "id": "4d15c9b3-84aa-4e49-94d0-a2933ab55dd7",
         "url": "https://tonehunt.org/PippPriss/4d15c9b3-84aa-4e49-94d0-a2933ab55dd7",
         "favs": 24,
-        "downloads": 66,
+        "downloads": 67,
         "model": "Bugera 333",
         "title": "Bugera 333 / Peavey XXX clone - Boosted Goodiness"
     },
@@ -2403,7 +2435,7 @@
         "id": "787a32c2-8d6e-4a76-8e59-a88a2940bb80",
         "url": "https://tonehunt.org/drew_tnbd/787a32c2-8d6e-4a76-8e59-a88a2940bb80",
         "favs": 24,
-        "downloads": 80,
+        "downloads": 81,
         "model": "Marshall JVM410HJS",
         "title": "Marshall JVM410HJS (18dBu)"
     },
@@ -2651,7 +2683,7 @@
         "id": "044b968e-d3f8-4c5c-bba4-8ba1e65c3e58",
         "url": "https://tonehunt.org/akka_5/044b968e-d3f8-4c5c-bba4-8ba1e65c3e58",
         "favs": 10,
-        "downloads": 40,
+        "downloads": 41,
         "model": "Synergy",
         "title": "Plexi"
     },
@@ -2659,14 +2691,14 @@
         "id": "f556a78d-9fdc-4b63-8924-9062ac86cc8e",
         "url": "https://tonehunt.org/akka_5/f556a78d-9fdc-4b63-8924-9062ac86cc8e",
         "favs": 10,
-        "downloads": 47,
+        "downloads": 48,
         "model": "Synergy",
         "title": "Dumble OS"
     },
     {
         "id": "eead261f-df64-4503-bbe3-9bc2ef11b4c8",
         "url": "https://tonehunt.org/ArlingtonAudio/eead261f-df64-4503-bbe3-9bc2ef11b4c8",
-        "favs": 49,
+        "favs": 50,
         "downloads": 225,
         "model": "Gallien Krueger - RB800",
         "title": "Gallien Krueger - RB800 (0.7.0)"
@@ -2995,7 +3027,7 @@
         "id": "a09cfa55-0c03-4b88-a919-df16f85762cd",
         "url": "https://tonehunt.org/itaiifrach/a09cfa55-0c03-4b88-a919-df16f85762cd",
         "favs": 19,
-        "downloads": 72,
+        "downloads": 73,
         "model": "Marshall SLP Plexi 1993 ",
         "title": "ITAI IFRACH Marshall PLEXI SLP 1993 "
     },
@@ -3034,8 +3066,8 @@
     {
         "id": "04f6ab0b-0a1b-4570-a0ff-653e6c52809b",
         "url": "https://tonehunt.org/dogusaltin/04f6ab0b-0a1b-4570-a0ff-653e6c52809b",
-        "favs": 100,
-        "downloads": 345,
+        "favs": 101,
+        "downloads": 348,
         "model": "Mesa Boogie Mark IIC+ ",
         "title": "Mesa Boogie Mark IIC+ Essentials Pack PART 2"
     },
@@ -3059,7 +3091,7 @@
         "id": "50ea3573-a4b3-4a2e-94e9-75573082453b",
         "url": "https://tonehunt.org/Resington/50ea3573-a4b3-4a2e-94e9-75573082453b",
         "favs": 51,
-        "downloads": 174,
+        "downloads": 175,
         "model": "Engl Fireball 25 E633",
         "title": "Engl Fireball 25 Lead"
     },
@@ -3099,7 +3131,7 @@
         "id": "add8e90b-6501-44cf-87f2-c46163065e7e",
         "url": "https://tonehunt.org/dogusaltin/add8e90b-6501-44cf-87f2-c46163065e7e",
         "favs": 70,
-        "downloads": 255,
+        "downloads": 256,
         "model": "Diezel VH4",
         "title": "Diezel VH4 Essentials Rhythm Pack"
     },
@@ -3139,7 +3171,7 @@
         "id": "27d6deb7-4c40-4b64-af1f-681855e742ae",
         "url": "https://tonehunt.org/dogusaltin/27d6deb7-4c40-4b64-af1f-681855e742ae",
         "favs": 84,
-        "downloads": 274,
+        "downloads": 275,
         "model": "Mesa Boogie Mark IIC+ ",
         "title": "Mesa Boogie Mark IIC+ Essentials Pack"
     },
@@ -3290,7 +3322,7 @@
     {
         "id": "2cc535c9-c8d9-48c0-bb8c-8a88daf144a5",
         "url": "https://tonehunt.org/LaRue/2cc535c9-c8d9-48c0-bb8c-8a88daf144a5",
-        "favs": 27,
+        "favs": 28,
         "downloads": 88,
         "model": "Ampeg BA-210 V2",
         "title": "Ampeg BA-210 V2 D.I Bass Amp (15dBu)"
@@ -3299,7 +3331,7 @@
         "id": "182a2eec-2e4f-43f2-a791-d40e9dd98fbe",
         "url": "https://tonehunt.org/Jesco/182a2eec-2e4f-43f2-a791-d40e9dd98fbe",
         "favs": 49,
-        "downloads": 167,
+        "downloads": 169,
         "model": "Marshall JCM800 2203",
         "title": "Marshall JCM800 2203 - updated"
     },
@@ -3371,7 +3403,7 @@
         "id": "117c9590-96c0-4a02-aa5b-16573723f0e5",
         "url": "https://tonehunt.org/MODFather/117c9590-96c0-4a02-aa5b-16573723f0e5",
         "favs": 24,
-        "downloads": 86,
+        "downloads": 87,
         "model": "Fender Blues Deluxe Re-issue PR246",
         "title": "Fender Blues Deluxe Pack - Standard"
     },
@@ -3379,7 +3411,7 @@
         "id": "8f71e653-4086-458c-b65a-a7e825c8e537",
         "url": "https://tonehunt.org/MODFather/8f71e653-4086-458c-b65a-a7e825c8e537",
         "favs": 24,
-        "downloads": 81,
+        "downloads": 82,
         "model": "Marshal JVM 410H Head",
         "title": "Marshal JVM 410H Pack - Standard"
     },
@@ -3387,7 +3419,7 @@
         "id": "dcd31954-1704-469d-aa9c-a7541e3545d8",
         "url": "https://tonehunt.org/MODFather/dcd31954-1704-469d-aa9c-a7541e3545d8",
         "favs": 41,
-        "downloads": 112,
+        "downloads": 113,
         "model": " Fender Twin Reverb 68 Custom PR 186",
         "title": "Fender Twin Reverb Pack - Standard"
     },
@@ -3515,7 +3547,7 @@
         "id": "e0837490-497a-4293-86bf-bff5f16913c8",
         "url": "https://tonehunt.org/MODFather/e0837490-497a-4293-86bf-bff5f16913c8",
         "favs": 35,
-        "downloads": 127,
+        "downloads": 128,
         "model": "Marshall JVM Head",
         "title": "Marshal JVM 410H Pack - Nano"
     },
@@ -3563,7 +3595,7 @@
         "id": "b6dcd533-7b05-410c-bd3a-9fc9b953ec39",
         "url": "https://tonehunt.org/DrSmoothVibes/b6dcd533-7b05-410c-bd3a-9fc9b953ec39",
         "favs": 8,
-        "downloads": 35,
+        "downloads": 36,
         "model": "Atomic amplifirebox",
         "title": "Atomic amplifirebox plexi badass preset DI"
     },
@@ -3587,7 +3619,7 @@
         "id": "21fc3f25-62e6-4c4e-a6f3-5bec2beeca20",
         "url": "https://tonehunt.org/PetrC/21fc3f25-62e6-4c4e-a6f3-5bec2beeca20",
         "favs": 42,
-        "downloads": 150,
+        "downloads": 151,
         "model": "Driftwood Purple Nightmare  100W",
         "title": "Driftwood Purple Nightmare Higain (2 models)"
     },
@@ -3634,8 +3666,8 @@
     {
         "id": "b9a36985-c8be-44e9-8a01-9948087e05c9",
         "url": "https://tonehunt.org/obi-Juan/b9a36985-c8be-44e9-8a01-9948087e05c9",
-        "favs": 39,
-        "downloads": 117,
+        "favs": 40,
+        "downloads": 118,
         "model": "Marshall JCM 900 Channel A (1000 Epoch)",
         "title": "OB1 Marshall JCM 900 100 Watt Ch. A (1000 Epoch)"
     },
@@ -3667,7 +3699,7 @@
         "id": "3309a192-ba12-4e2c-b2f2-d5e8babdfdbe",
         "url": "https://tonehunt.org/ArlingtonAudio/3309a192-ba12-4e2c-b2f2-d5e8babdfdbe",
         "favs": 72,
-        "downloads": 299,
+        "downloads": 300,
         "model": "Framus - Cobra",
         "title": "Framus - Cobra (0.7.0) "
     },
@@ -3883,7 +3915,7 @@
         "id": "48513fb1-bf06-4c85-aa5d-2ab0834cf261",
         "url": "https://tonehunt.org/obi-Juan/48513fb1-bf06-4c85-aa5d-2ab0834cf261",
         "favs": 33,
-        "downloads": 109,
+        "downloads": 110,
         "model": "EVH 5150 50 Watt 6L6",
         "title": "EVH 5150 50 Watt 6L6 Red Channel Preamp & Poweramp"
     },
@@ -3955,7 +3987,7 @@
         "id": "bae17072-e5f0-4897-b25a-8d7c5aed97af",
         "url": "https://tonehunt.org/ArlingtonAudio/bae17072-e5f0-4897-b25a-8d7c5aed97af",
         "favs": 87,
-        "downloads": 361,
+        "downloads": 362,
         "model": "Peavey 5150",
         "title": "Peavey - 5150 II (0.5.2)"
     },
@@ -4043,7 +4075,7 @@
         "id": "f33011fc-b6f6-4f25-a092-7afb4335e3c0",
         "url": "https://tonehunt.org/Maher/f33011fc-b6f6-4f25-a092-7afb4335e3c0",
         "favs": 23,
-        "downloads": 85,
+        "downloads": 86,
         "model": "Marshall 2525H",
         "title": "Marshall Silver Jubilee 2525H-Crunch_v2"
     },
@@ -4083,7 +4115,7 @@
         "id": "4f12d336-2590-4fc9-98cf-23aa447b15c0",
         "url": "https://tonehunt.org/PetrC/4f12d336-2590-4fc9-98cf-23aa447b15c0",
         "favs": 53,
-        "downloads": 207,
+        "downloads": 208,
         "model": "Mesa Boogie Mark IV ver B",
         "title": "Mesa Boogie Mark IV pack"
     },
@@ -4131,7 +4163,7 @@
         "id": "0014513b-bcdd-4ded-b51b-48def693a794",
         "url": "https://tonehunt.org/FabDef/0014513b-bcdd-4ded-b51b-48def693a794",
         "favs": 78,
-        "downloads": 278,
+        "downloads": 281,
         "model": "ENGL Fireball",
         "title": "ENGL Fireball Pack"
     },
@@ -4427,7 +4459,7 @@
         "id": "0c7faf91-3229-44d5-98e3-74f15c80f4ff",
         "url": "https://tonehunt.org/Maher/0c7faf91-3229-44d5-98e3-74f15c80f4ff",
         "favs": 19,
-        "downloads": 89,
+        "downloads": 90,
         "model": "Silver Jubilee 2525H",
         "title": "Marshall Silver Jubilee 2525H 20W DI"
     },
@@ -4450,8 +4482,8 @@
     {
         "id": "eddd2181-b3f9-4f9d-847d-36616b2e16ee",
         "url": "https://tonehunt.org/ArlingtonAudio/eddd2181-b3f9-4f9d-847d-36616b2e16ee",
-        "favs": 114,
-        "downloads": 480,
+        "favs": 115,
+        "downloads": 483,
         "model": "Engl - Ritchie Blackmore Signature",
         "title": "Engl - Ritchie Blackmore Signature (0.5.2)"
     },
@@ -4459,7 +4491,7 @@
         "id": "08460bcb-c16e-4187-82e0-75d838921b65",
         "url": "https://tonehunt.org/ArlingtonAudio/08460bcb-c16e-4187-82e0-75d838921b65",
         "favs": 58,
-        "downloads": 239,
+        "downloads": 240,
         "model": "Jet City - JCA22H ",
         "title": "Jet City - JCA22H (0.5.2)"
     },
@@ -4531,7 +4563,7 @@
         "id": "27b5424f-e127-42b8-83ee-14d4902a5f5d",
         "url": "https://tonehunt.org/martinomma/27b5424f-e127-42b8-83ee-14d4902a5f5d",
         "favs": 40,
-        "downloads": 140,
+        "downloads": 141,
         "model": "Rg100es",
         "title": "Randall rg100es + Furman pq3 . Dimebag Darrel original tone . put OD in front and all is done !"
     },
@@ -4627,7 +4659,7 @@
         "id": "1e9434dd-4504-4290-8790-30e99a550a59",
         "url": "https://tonehunt.org/ArlingtonAudio/1e9434dd-4504-4290-8790-30e99a550a59",
         "favs": 65,
-        "downloads": 272,
+        "downloads": 273,
         "model": "Avalon VT737",
         "title": "Avalon VT737 for Bass Guitar (0.5.2)"
     },
@@ -4635,7 +4667,7 @@
         "id": "24c5f4e0-4139-4805-bfc7-8b946dfda6ef",
         "url": "https://tonehunt.org/ArlingtonAudio/24c5f4e0-4139-4805-bfc7-8b946dfda6ef",
         "favs": 53,
-        "downloads": 204,
+        "downloads": 205,
         "model": "Marshall Valvestate VS100",
         "title": "Marshall Valvestate + Contour Control IRs (0.5.2)"
     },
@@ -4802,8 +4834,8 @@
     {
         "id": "cc417d46-d6d0-4a9b-8142-506964981b2c",
         "url": "https://tonehunt.org/ArlingtonAudio/cc417d46-d6d0-4a9b-8142-506964981b2c",
-        "favs": 165,
-        "downloads": 728,
+        "favs": 166,
+        "downloads": 731,
         "model": "Peavey - 6505",
         "title": "Peavey - 6505 (0.5.2)"
     },
@@ -5003,7 +5035,7 @@
         "id": "0048fe94-6084-4d61-af39-b22a33f9baf7",
         "url": "https://tonehunt.org/PippPriss/0048fe94-6084-4d61-af39-b22a33f9baf7",
         "favs": 44,
-        "downloads": 169,
+        "downloads": 170,
         "model": "Bugera 6262 + various boosts",
         "title": "Bugera 6262 / 5150 II / 6505+ Rev2 - Boosted Goodiness"
     },
@@ -5051,7 +5083,7 @@
         "id": "7298511d-c0b4-49f1-9ec4-430eb8ac3a69",
         "url": "https://tonehunt.org/helgab/7298511d-c0b4-49f1-9ec4-430eb8ac3a69",
         "favs": 73,
-        "downloads": 253,
+        "downloads": 254,
         "model": "Peavey 5150, Peavey XXX, Peavey 6534+, Peavey 6505+, Peavey JSX, EVH 5150 III 50W 6L6",
         "title": "High Gain Paradise"
     },
@@ -5171,7 +5203,7 @@
         "id": "4475aa89-70cf-4c08-8cd4-f55b97ab6678",
         "url": "https://tonehunt.org/cosmiccrucible/4475aa89-70cf-4c08-8cd4-f55b97ab6678",
         "favs": 41,
-        "downloads": 155,
+        "downloads": 158,
         "model": "Various",
         "title": "Cosmic Crucible Punky Pack"
     },
@@ -5202,8 +5234,8 @@
     {
         "id": "1319d28a-82fb-4486-bbdc-f373e035c403",
         "url": "https://tonehunt.org/ArlingtonAudio/1319d28a-82fb-4486-bbdc-f373e035c403",
-        "favs": 243,
-        "downloads": 985,
+        "favs": 245,
+        "downloads": 991,
         "model": "Fender Bassman 50",
         "title": "Fender Bassman 50 (0.5.2)"
     },
@@ -5227,7 +5259,7 @@
         "id": "52eea2b5-2cd7-43f0-aae5-539aa6f22c3f",
         "url": "https://tonehunt.org/FabDef/52eea2b5-2cd7-43f0-aae5-539aa6f22c3f",
         "favs": 72,
-        "downloads": 261,
+        "downloads": 262,
         "model": "EVH 5150 III 100W",
         "title": "EVH 5150 III 100W PACK 2"
     },
@@ -5243,7 +5275,7 @@
         "id": "a374c6a2-016a-4ef1-b056-db4a45e5e52b",
         "url": "https://tonehunt.org/ArlingtonAudio/a374c6a2-016a-4ef1-b056-db4a45e5e52b",
         "favs": 191,
-        "downloads": 869,
+        "downloads": 875,
         "model": "Marshall JCM800 Zakk Wyle Signature",
         "title": "Marshall JCM800 Zakk Wyle Signature Edition (0.5.2)"
     },
@@ -5251,7 +5283,7 @@
         "id": "b2fae039-d79e-496b-9102-165eabd55473",
         "url": "https://tonehunt.org/blast77/b2fae039-d79e-496b-9102-165eabd55473",
         "favs": 104,
-        "downloads": 535,
+        "downloads": 537,
         "model": "Mesa Boogie Dual Rectifier, Orange Jim Root, Marshall JCM800, Diezel VH4",
         "title": "Extreme Metal Pack"
     },
@@ -5259,7 +5291,7 @@
         "id": "a6b2eaf6-8f49-4ae8-a6d6-94a55b373a05",
         "url": "https://tonehunt.org/ArlingtonAudio/a6b2eaf6-8f49-4ae8-a6d6-94a55b373a05",
         "favs": 98,
-        "downloads": 400,
+        "downloads": 401,
         "model": "Mesa Boogie Single Rectifier 50",
         "title": "Mesa Boogie Single Rectifier 50 (0.5.2)"
     },
@@ -5299,7 +5331,7 @@
         "id": "9390c280-42fb-458f-ae21-d40e2ee06ebc",
         "url": "https://tonehunt.org/amalgamaudio/9390c280-42fb-458f-ae21-d40e2ee06ebc",
         "favs": 103,
-        "downloads": 500,
+        "downloads": 501,
         "model": "Tone King Imperial MKII",
         "title": "Tone King Imperial RH Crunch BAL DI"
     },
@@ -5315,7 +5347,7 @@
         "id": "fb1aa5e8-7f9d-4f85-ac76-83ec3cc00916",
         "url": "https://tonehunt.org/OriGrino/fb1aa5e8-7f9d-4f85-ac76-83ec3cc00916",
         "favs": 47,
-        "downloads": 197,
+        "downloads": 198,
         "model": "Marshall JMP 2203 100w",
         "title": "Marshall 1978 JMP 2203 0.5.2"
     },
@@ -5323,7 +5355,7 @@
         "id": "8b0e4f78-2d45-4b5e-9d90-474905838143",
         "url": "https://tonehunt.org/FabDef/8b0e4f78-2d45-4b5e-9d90-474905838143",
         "favs": 39,
-        "downloads": 160,
+        "downloads": 161,
         "model": "Bugera 1960",
         "title": "BUGERA 1960 MESHUGGAH"
     },
@@ -5331,7 +5363,7 @@
         "id": "cc79f58e-73a4-44b7-9fee-018c1568ef08",
         "url": "https://tonehunt.org/servusjon/cc79f58e-73a4-44b7-9fee-018c1568ef08",
         "favs": 81,
-        "downloads": 381,
+        "downloads": 382,
         "model": "Orange Rockerverb ",
         "title": "Orange Rockerverb MK3 v2 (Canov+Arnold)"
     },
@@ -5371,7 +5403,7 @@
         "id": "96703e27-cb2b-4497-8576-1fc67ed60cb9",
         "url": "https://tonehunt.org/ArlingtonAudio/96703e27-cb2b-4497-8576-1fc67ed60cb9",
         "favs": 123,
-        "downloads": 604,
+        "downloads": 606,
         "model": "Orange Dual Terror",
         "title": "Orange Dual Terror (0.5.2)"
     },
@@ -5387,7 +5419,7 @@
         "id": "8cf66d24-cd79-4f63-ae47-e5c366dc9eb0",
         "url": "https://tonehunt.org/amalgamaudio/8cf66d24-cd79-4f63-ae47-e5c366dc9eb0",
         "favs": 67,
-        "downloads": 297,
+        "downloads": 298,
         "model": "Marshall JTM 45/100 1966 clone",
         "title": "Marshall JTM 45/100I Crunch BAL DI"
     },
@@ -5403,7 +5435,7 @@
         "id": "cfde5e8d-2939-4549-81a4-5d6da854de78",
         "url": "https://tonehunt.org/FabDef/cfde5e8d-2939-4549-81a4-5d6da854de78",
         "favs": 48,
-        "downloads": 166,
+        "downloads": 167,
         "model": "Peavey Triple XXX",
         "title": "PEAVEY TRIPLE XXX PACK"
     },
@@ -5435,7 +5467,7 @@
         "id": "06a6b098-371f-4a01-ab50-ce918d1b018d",
         "url": "https://tonehunt.org/PetrC/06a6b098-371f-4a01-ab50-ce918d1b018d",
         "favs": 69,
-        "downloads": 273,
+        "downloads": 274,
         "model": "Engl Savage 120 mk I",
         "title": "Engl Savage 120 mk I "
     },
@@ -5475,7 +5507,7 @@
         "id": "daf4e0ba-199e-4384-ac89-a3601dc2b4d9",
         "url": "https://tonehunt.org/amalgamaudio/daf4e0ba-199e-4384-ac89-a3601dc2b4d9",
         "favs": 77,
-        "downloads": 339,
+        "downloads": 340,
         "model": "Hiwatt DR504 Custom 50 1975",
         "title": "Hiwatt DR504 JU Crunch BAL DI"
     },
@@ -5491,7 +5523,7 @@
         "id": "38b94dac-a18b-4a75-812b-51a1c4f6eca6",
         "url": "https://tonehunt.org/FabDef/38b94dac-a18b-4a75-812b-51a1c4f6eca6",
         "favs": 52,
-        "downloads": 222,
+        "downloads": 223,
         "model": "PRS MT15",
         "title": "PRS MT15 PACK"
     },
@@ -5515,7 +5547,7 @@
         "id": "82a12c15-0692-46bf-a5dd-210e88bd7aae",
         "url": "https://tonehunt.org/PetrC/82a12c15-0692-46bf-a5dd-210e88bd7aae",
         "favs": 54,
-        "downloads": 214,
+        "downloads": 215,
         "model": "Driftwood Purple Nightmare  100W",
         "title": "Driftwood Purple Nightmare "
     },
@@ -5539,7 +5571,7 @@
         "id": "feac258f-26cb-488e-a0cd-fe7ded84a92e",
         "url": "https://tonehunt.org/GPSO/feac258f-26cb-488e-a0cd-fe7ded84a92e",
         "favs": 52,
-        "downloads": 277,
+        "downloads": 278,
         "model": "Marshall JCM 800 1959 100W",
         "title": "Marshall JCM 800 1959 100W Pack"
     },
@@ -5579,7 +5611,7 @@
         "id": "40f1f563-fd6e-442e-a016-99ebb805eb29",
         "url": "https://tonehunt.org/Drewhast/40f1f563-fd6e-442e-a016-99ebb805eb29",
         "favs": 36,
-        "downloads": 143,
+        "downloads": 144,
         "model": "EVH 5150 III Red Channel, Duality DX Green Overdrive",
         "title": "EVH 5150III Stealth Red Scooped with Duality Green"
     },
@@ -5587,7 +5619,7 @@
         "id": "0e0d895b-3ee6-4a14-8f85-c8b7605d48ae",
         "url": "https://tonehunt.org/Drewhast/0e0d895b-3ee6-4a14-8f85-c8b7605d48ae",
         "favs": 21,
-        "downloads": 106,
+        "downloads": 107,
         "model": "EVH 5150 III Stealth Blue Channel, Duality DX Green Overdrive",
         "title": "EVH 5150III Stealth Blue Scooped with Duality Green"
     },
@@ -5595,7 +5627,7 @@
         "id": "63bd79ca-ae16-4ee2-afef-66eca7076f9f",
         "url": "https://tonehunt.org/FabDef/63bd79ca-ae16-4ee2-afef-66eca7076f9f",
         "favs": 24,
-        "downloads": 103,
+        "downloads": 104,
         "model": "PEAVEY SUPREME XL",
         "title": "PEAVEY SUPREME XL channel ULTRA"
     },
@@ -5603,7 +5635,7 @@
         "id": "d64f79bb-409d-48ee-8c9f-c0daf0e7f3b0",
         "url": "https://tonehunt.org/Thumas/d64f79bb-409d-48ee-8c9f-c0daf0e7f3b0",
         "favs": 21,
-        "downloads": 94,
+        "downloads": 95,
         "model": "Peavy T-Max",
         "title": "Peavey T-Max Bass Amp"
     },
@@ -5611,7 +5643,7 @@
         "id": "102229cb-25d1-4151-80fc-8b6e6b3e86a8",
         "url": "https://tonehunt.org/OliRossow/102229cb-25d1-4151-80fc-8b6e6b3e86a8",
         "favs": 76,
-        "downloads": 340,
+        "downloads": 341,
         "model": "Marshall JCM800 2203kk Kerry King Signature",
         "title": "Marshall JCM800 2203kk Kerry King Signature"
     },
@@ -5619,7 +5651,7 @@
         "id": "2991bf4b-4c4c-4c12-b6ae-8c6e3b891aeb",
         "url": "https://tonehunt.org/amalgamaudio/2991bf4b-4c4c-4c12-b6ae-8c6e3b891aeb",
         "favs": 80,
-        "downloads": 399,
+        "downloads": 400,
         "model": "VOX AC30 Top Boost 1964",
         "title": "VOX AC30TB BR Crunch BAL DI"
     },
@@ -5627,7 +5659,7 @@
         "id": "97ebd07b-9a8a-4f73-8791-d22452c574a6",
         "url": "https://tonehunt.org/Ozzrocks/97ebd07b-9a8a-4f73-8791-d22452c574a6",
         "favs": 23,
-        "downloads": 102,
+        "downloads": 103,
         "model": "Mesa Boogie Triaxis",
         "title": "Ozz Triaxis Model Pack"
     },
@@ -5635,7 +5667,7 @@
         "id": "25d58ffb-8646-4618-9646-66e341820272",
         "url": "https://tonehunt.org/cosmiccrucible/25d58ffb-8646-4618-9646-66e341820272",
         "favs": 31,
-        "downloads": 154,
+        "downloads": 155,
         "model": "Marshall JCM2000 DSL50",
         "title": "Marshall JCM2000 DSL50 Textures"
     },
@@ -5643,7 +5675,7 @@
         "id": "c29aae12-46e2-409f-b56c-e5fc8f7a09df",
         "url": "https://tonehunt.org/cosmiccrucible/c29aae12-46e2-409f-b56c-e5fc8f7a09df",
         "favs": 47,
-        "downloads": 230,
+        "downloads": 232,
         "model": "Marshall JCM2000 DSL50",
         "title": "Marshall JCM2000 DSL50 Lead Channels Essentials"
     },
@@ -5651,7 +5683,7 @@
         "id": "30b83dcb-2964-41d6-91a7-2b70895c1596",
         "url": "https://tonehunt.org/cosmiccrucible/30b83dcb-2964-41d6-91a7-2b70895c1596",
         "favs": 50,
-        "downloads": 214,
+        "downloads": 215,
         "model": "Marshall JCM2000 DSL50",
         "title": "Marshall JCM2000 DSL50 Crunch Channel Essentials"
     },
@@ -5659,7 +5691,7 @@
         "id": "b3cb8ecb-ab40-4e6d-8c7b-0e58fb0b7df3",
         "url": "https://tonehunt.org/cosmiccrucible/b3cb8ecb-ab40-4e6d-8c7b-0e58fb0b7df3",
         "favs": 57,
-        "downloads": 239,
+        "downloads": 240,
         "model": "Marshall JCM2000 DSL50",
         "title": "Marshall JCM2000 DSL50 Clean Channel Essentials"
     },
@@ -5667,7 +5699,7 @@
         "id": "937331c6-f149-41bd-808c-398cf8a2407f",
         "url": "https://tonehunt.org/cosmiccrucible/937331c6-f149-41bd-808c-398cf8a2407f",
         "favs": 53,
-        "downloads": 229,
+        "downloads": 230,
         "model": "Peavey 6505",
         "title": "Peavey 6505 Rhythm Channel Essentials"
     },
@@ -5675,7 +5707,7 @@
         "id": "094e07d1-b526-4e89-941d-8c245840c16d",
         "url": "https://tonehunt.org/cosmiccrucible/094e07d1-b526-4e89-941d-8c245840c16d",
         "favs": 78,
-        "downloads": 344,
+        "downloads": 346,
         "model": "Mesa Boogie Dual Rectifier Rev F",
         "title": "Mesa Boogie Dual Rectifier RevF Red Essentials"
     },
@@ -5683,7 +5715,7 @@
         "id": "9157a276-0872-4f46-8417-f7b1250817d6",
         "url": "https://tonehunt.org/cosmiccrucible/9157a276-0872-4f46-8417-f7b1250817d6",
         "favs": 51,
-        "downloads": 220,
+        "downloads": 221,
         "model": "Mesa Boogie Dual Rectifier Rev F",
         "title": "Mesa Boogie Dual Rectifier RevF Orange Essentials"
     },
@@ -5691,7 +5723,7 @@
         "id": "52722ff8-6130-41ed-a2b7-d9b8179953a8",
         "url": "https://tonehunt.org/cosmiccrucible/52722ff8-6130-41ed-a2b7-d9b8179953a8",
         "favs": 49,
-        "downloads": 216,
+        "downloads": 217,
         "model": "Peavey 6505",
         "title": "Peavey 6505 Lead Channel Essentials"
     },
@@ -5699,7 +5731,7 @@
         "id": "c3a1f17c-ef7c-429b-9402-0c40a76622c1",
         "url": "https://tonehunt.org/northern_fox/c3a1f17c-ef7c-429b-9402-0c40a76622c1",
         "favs": 13,
-        "downloads": 72,
+        "downloads": 73,
         "model": "Rocktron Piranha + VHT 2/90/2",
         "title": "Rocktron Piranha + VHT 2/90/2 Load Box Comparison"
     },
@@ -5707,7 +5739,7 @@
         "id": "61e9d2a4-8c76-4a72-aee1-d29bd9b2ce95",
         "url": "https://tonehunt.org/servusjon/61e9d2a4-8c76-4a72-aee1-d29bd9b2ce95",
         "favs": 25,
-        "downloads": 145,
+        "downloads": 146,
         "model": "Marshall JCM 800",
         "title": "Marshall JCM 800 (Daniel He\u00df + Jon Arnold)"
     },
@@ -5715,7 +5747,7 @@
         "id": "0393e251-d1d7-41c0-b153-a07cd188f1a9",
         "url": "https://tonehunt.org/unnus/0393e251-d1d7-41c0-b153-a07cd188f1a9",
         "favs": 36,
-        "downloads": 163,
+        "downloads": 164,
         "model": "Marshall JCM2000",
         "title": "BMR - Marshall JCM2000 DSL100 Sweetspots"
     },
@@ -5723,7 +5755,7 @@
         "id": "c330f23a-0648-4ac2-ab7a-8cca2d16001b",
         "url": "https://tonehunt.org/PetrC/c330f23a-0648-4ac2-ab7a-8cca2d16001b",
         "favs": 41,
-        "downloads": 172,
+        "downloads": 173,
         "model": "Mesa Boogie Dual Rectifier rev. F",
         "title": "Dual Rectifier 2ch Rev. F + Fortin TS808"
     },
@@ -5731,7 +5763,7 @@
         "id": "bb076705-8a00-445b-882f-5999385129e3",
         "url": "https://tonehunt.org/FabDef/bb076705-8a00-445b-882f-5999385129e3",
         "favs": 13,
-        "downloads": 60,
+        "downloads": 61,
         "model": "Rocktron mAXE",
         "title": "ROCKTRON mAXE boosted"
     },
@@ -5739,7 +5771,7 @@
         "id": "c9c2b08b-c994-4f44-ae0a-82a752615e6a",
         "url": "https://tonehunt.org/FabDef/c9c2b08b-c994-4f44-ae0a-82a752615e6a",
         "favs": 15,
-        "downloads": 106,
+        "downloads": 107,
         "model": "MESA/BOOGIE Studio preamp",
         "title": "MESA/BOOGIE STUDIO PREAMP PACK"
     },
@@ -5747,7 +5779,7 @@
         "id": "3ab32ec9-cdf4-4bb5-8112-13e1f4cacb3a",
         "url": "https://tonehunt.org/FabDef/3ab32ec9-cdf4-4bb5-8112-13e1f4cacb3a",
         "favs": 16,
-        "downloads": 78,
+        "downloads": 79,
         "model": "Blackstar HT-dual pedal/Marshall JM-1",
         "title": "BLACKSTAR HT-DUAL"
     },
@@ -5755,7 +5787,7 @@
         "id": "b5f34f57-76b1-46a5-8cd1-761efb5977a9",
         "url": "https://tonehunt.org/FabDef/b5f34f57-76b1-46a5-8cd1-761efb5977a9",
         "favs": 22,
-        "downloads": 74,
+        "downloads": 75,
         "model": "Rocktron Gainiac V1",
         "title": "ROCKTRON GAINIAC Boosted"
     },
@@ -5763,7 +5795,7 @@
         "id": "4caf95fe-268b-4b94-818c-6d3902c74c61",
         "url": "https://tonehunt.org/amalgamaudio/4caf95fe-268b-4b94-818c-6d3902c74c61",
         "favs": 92,
-        "downloads": 433,
+        "downloads": 434,
         "model": "Marshall JTM50 1967",
         "title": "Marshall JTM50 I Crunch BAL DI"
     },
@@ -5811,7 +5843,7 @@
         "id": "d953195c-86b2-4283-84c6-faee60320772",
         "url": "https://tonehunt.org/ArlingtonAudio/d953195c-86b2-4283-84c6-faee60320772",
         "favs": 165,
-        "downloads": 782,
+        "downloads": 785,
         "model": "Mesa Boogie Single Rectifier 50",
         "title": "Mesa Boogie Single Rectifier 50 (0.5.1)"
     },
@@ -5819,7 +5851,7 @@
         "id": "fb939487-2d64-49ec-be8b-3983f3893a16",
         "url": "https://tonehunt.org/TimR/fb939487-2d64-49ec-be8b-3983f3893a16",
         "favs": 102,
-        "downloads": 497,
+        "downloads": 498,
         "model": "Fender Twin Reverb",
         "title": "Fender Twin Reverb - Breakup"
     },
@@ -5835,7 +5867,7 @@
         "id": "6b733633-7097-442b-9e5b-3b071dc426ca",
         "url": "https://tonehunt.org/erikgitarristen/6b733633-7097-442b-9e5b-3b071dc426ca",
         "favs": 48,
-        "downloads": 239,
+        "downloads": 240,
         "model": "amp sim clone Dumble ods #102",
         "title": "Dumble Overdrive Special #102 SELECT PACK"
     },
@@ -5939,7 +5971,7 @@
         "id": "19c5b6bc-8f99-4364-a00f-2a679ac96d2a",
         "url": "https://tonehunt.org/Alemarfra/19c5b6bc-8f99-4364-a00f-2a679ac96d2a",
         "favs": 21,
-        "downloads": 111,
+        "downloads": 112,
         "model": "Egnater Tweaker 15 plus Boss Ge7",
         "title": "EVH  (Van Halen) Brown sound"
     },
@@ -5963,7 +5995,7 @@
         "id": "c9b8d63b-0bcd-4fa1-b80b-7a77a8029a56",
         "url": "https://tonehunt.org/Alemarfra/c9b8d63b-0bcd-4fa1-b80b-7a77a8029a56",
         "favs": 12,
-        "downloads": 90,
+        "downloads": 91,
         "model": "Marshall JVM 410H OD1 Channel",
         "title": "Marshall JVM 410H OD1 Channel"
     },
@@ -5971,7 +6003,7 @@
         "id": "e1f1025c-1330-4c1b-bae2-9cbe2935da46",
         "url": "https://tonehunt.org/Alemarfra/e1f1025c-1330-4c1b-bae2-9cbe2935da46",
         "favs": 13,
-        "downloads": 80,
+        "downloads": 81,
         "model": "Marshall JVM 410 H Crunch channel",
         "title": "Marshall JVM 410 H Crunch channel"
     },
@@ -5979,7 +6011,7 @@
         "id": "d7b05d4d-0456-4e25-8b34-8ff32164a009",
         "url": "https://tonehunt.org/Alemarfra/d7b05d4d-0456-4e25-8b34-8ff32164a009",
         "favs": 15,
-        "downloads": 76,
+        "downloads": 77,
         "model": "Marshall JVM 410H Clean",
         "title": "Marshall JVM 410H Clean"
     },
@@ -6042,8 +6074,8 @@
     {
         "id": "1fea773c-0963-4d25-9de3-08d3171f8b58",
         "url": "https://tonehunt.org/emil.rohbe/1fea773c-0963-4d25-9de3-08d3171f8b58",
-        "favs": 253,
-        "downloads": 1215,
+        "favs": 254,
+        "downloads": 1220,
         "model": "Mesa Boogie JP-2C",
         "title": "Mesa Boogie JP-2C Pack!"
     },
@@ -6083,7 +6115,7 @@
         "id": "b2c4b514-73f3-4d34-9f59-814c2c92f0c4",
         "url": "https://tonehunt.org/FabDef/b2c4b514-73f3-4d34-9f59-814c2c92f0c4",
         "favs": 32,
-        "downloads": 133,
+        "downloads": 134,
         "model": "PEAVEY ULTRA plus",
         "title": "PEAVEY ULTRA plus PACK"
     },
@@ -6107,7 +6139,7 @@
         "id": "ab5110fb-3eaf-4b5e-87af-13ea6d69fa50",
         "url": "https://tonehunt.org/Drewhast/ab5110fb-3eaf-4b5e-87af-13ea6d69fa50",
         "favs": 42,
-        "downloads": 197,
+        "downloads": 198,
         "model": "EVH 5150III Stealth, Deadweald Duality DX",
         "title": "EVH 5150III Stealth Red Channel with Duality Blue Boost"
     },
@@ -6203,7 +6235,7 @@
         "id": "19002c0b-cfd4-4248-b7d5-0f78f03092a6",
         "url": "https://tonehunt.org/PetrC/19002c0b-cfd4-4248-b7d5-0f78f03092a6",
         "favs": 133,
-        "downloads": 572,
+        "downloads": 576,
         "model": "Mesa Boogie Dual Rectifier rev. F",
         "title": "Dual Rectifier 2ch Rev. F"
     },
@@ -6219,7 +6251,7 @@
         "id": "a29b5e35-3339-40b9-a66e-4773168858e1",
         "url": "https://tonehunt.org/IJones/a29b5e35-3339-40b9-a66e-4773168858e1",
         "favs": 30,
-        "downloads": 174,
+        "downloads": 175,
         "model": "Randal Satan 50w + power amp",
         "title": "Randall Satan Highgain"
     },
@@ -6259,7 +6291,7 @@
         "id": "feee23ef-662a-4ccc-9c55-d7caebc27192",
         "url": "https://tonehunt.org/emil.rohbe/feee23ef-662a-4ccc-9c55-d7caebc27192",
         "favs": 181,
-        "downloads": 888,
+        "downloads": 892,
         "model": "Bogner Uberschall",
         "title": "Bogner Uberschall UberNAM Pack!"
     },
@@ -6267,7 +6299,7 @@
         "id": "a9ac86e2-e1b3-4635-abe3-84771f3202f4",
         "url": "https://tonehunt.org/Paul.Jacovino/a9ac86e2-e1b3-4635-abe3-84771f3202f4",
         "favs": 82,
-        "downloads": 350,
+        "downloads": 351,
         "model": "Randall Satan 50 watt",
         "title": "Paul Jacovino - Randall Satan 50"
     },
@@ -6338,7 +6370,7 @@
     {
         "id": "fc2f1eee-5d52-4de8-b5ba-9579f5c229e9",
         "url": "https://tonehunt.org/northern_fox/fc2f1eee-5d52-4de8-b5ba-9579f5c229e9",
-        "favs": 13,
+        "favs": 14,
         "downloads": 102,
         "model": "VHT 2/90/2 KT88 Power Amp",
         "title": "VHT 2/90/2 KT88 Power Amp (favorite setting)"
@@ -6347,7 +6379,7 @@
         "id": "c7a065e1-4d7d-4c66-89dc-75da0a6374da",
         "url": "https://tonehunt.org/armunzen/c7a065e1-4d7d-4c66-89dc-75da0a6374da",
         "favs": 42,
-        "downloads": 261,
+        "downloads": 262,
         "model": "Mesa Boogie Triaxis Preamp",
         "title": "Mesa Boogie Triaxis Pack"
     },
@@ -6355,7 +6387,7 @@
         "id": "5420075e-ebe7-4de3-9a0b-4455e8af3f12",
         "url": "https://tonehunt.org/FabDef/5420075e-ebe7-4de3-9a0b-4455e8af3f12",
         "favs": 45,
-        "downloads": 210,
+        "downloads": 211,
         "model": "Marshall JMP-1 ",
         "title": "Marshall JMP-1 PACK"
     },
@@ -6419,7 +6451,7 @@
         "id": "91c7f7d2-fb95-4a6e-b152-3986ba6b951a",
         "url": "https://tonehunt.org/TimR/91c7f7d2-fb95-4a6e-b152-3986ba6b951a",
         "favs": 65,
-        "downloads": 328,
+        "downloads": 330,
         "model": "ENGL E606SE",
         "title": "ENGL E606SE Pack"
     },
@@ -6435,7 +6467,7 @@
         "id": "76db428d-ff71-4e2f-9524-70a80db466cb",
         "url": "https://tonehunt.org/TimR/76db428d-ff71-4e2f-9524-70a80db466cb",
         "favs": 133,
-        "downloads": 592,
+        "downloads": 593,
         "model": "JCM800 2203",
         "title": "JCM800 2203 1985"
     },
@@ -6531,7 +6563,7 @@
         "id": "2fe57776-2d37-48e6-ba35-4e8ea7e3675d",
         "url": "https://tonehunt.org/FatDracula/2fe57776-2d37-48e6-ba35-4e8ea7e3675d",
         "favs": 34,
-        "downloads": 149,
+        "downloads": 150,
         "model": "Orange AD200b MKIII",
         "title": "Orange AD200b"
     },
@@ -6619,7 +6651,7 @@
         "id": "ce4bfec5-03a2-4a6d-a769-8b863ee113bb",
         "url": "https://tonehunt.org/erikgitarristen/ce4bfec5-03a2-4a6d-a769-8b863ee113bb",
         "favs": 37,
-        "downloads": 208,
+        "downloads": 209,
         "model": "amp sim clone Dumble ods #102 ",
         "title": "Dumble Overdrive Special #102 Clone, Rock switch, lower gain"
     },
@@ -6627,7 +6659,7 @@
         "id": "9061fabb-1aab-46d3-95a4-61d4fac4f922",
         "url": "https://tonehunt.org/TimR/9061fabb-1aab-46d3-95a4-61d4fac4f922",
         "favs": 31,
-        "downloads": 170,
+        "downloads": 171,
         "model": "Ceriatone 36W RP",
         "title": "Ceriatone 36W RP"
     },
@@ -6659,7 +6691,7 @@
         "id": "48fbf2c1-49f1-418f-92ca-0a7d79e792e2",
         "url": "https://tonehunt.org/erikgitarristen/48fbf2c1-49f1-418f-92ca-0a7d79e792e2",
         "favs": 37,
-        "downloads": 216,
+        "downloads": 217,
         "model": "amp sim clone Dumble ods #102",
         "title": "Dumble Overdrive Special #102 Clone Rock setting"
     },
@@ -6723,7 +6755,7 @@
         "id": "e33055e3-1db4-407b-9d59-c55e117e89fe",
         "url": "https://tonehunt.org/Matty/e33055e3-1db4-407b-9d59-c55e117e89fe",
         "favs": 112,
-        "downloads": 652,
+        "downloads": 653,
         "model": "AC30 CUSTOM",
         "title": "VOX AC30 V2 CUSTOM- From Clean to Crunch "
     },
@@ -6763,7 +6795,7 @@
         "id": "1fae9a2e-a403-4d95-ba7c-7597251540f8",
         "url": "https://tonehunt.org/OrangePeeled/1fae9a2e-a403-4d95-ba7c-7597251540f8",
         "favs": 59,
-        "downloads": 316,
+        "downloads": 317,
         "model": "Fender 5E3 Tweed Deluxe",
         "title": "Fender Tweed Deluxe 5E3 Captures"
     },
@@ -6787,7 +6819,7 @@
         "id": "a9e83d83-cb39-4457-8af8-83c418a575d0",
         "url": "https://tonehunt.org/mattgoings/a9e83d83-cb39-4457-8af8-83c418a575d0",
         "favs": 195,
-        "downloads": 914,
+        "downloads": 916,
         "model": "Vox AC15CH",
         "title": "Vox AC15"
     },
@@ -6827,7 +6859,7 @@
         "id": "0190802e-4342-4bfb-919e-b84c20674226",
         "url": "https://tonehunt.org/ArthM/0190802e-4342-4bfb-919e-b84c20674226",
         "favs": 291,
-        "downloads": 1497,
+        "downloads": 1502,
         "model": "Marshall JCM 800 2203 (2008)",
         "title": "Marshall JCM 800 2203"
     },
@@ -6843,7 +6875,7 @@
         "id": "cb13118b-8135-45e0-b160-d09657bfb136",
         "url": "https://tonehunt.org/Paul.Jacovino/cb13118b-8135-45e0-b160-d09657bfb136",
         "favs": 140,
-        "downloads": 634,
+        "downloads": 636,
         "model": "Mesa Boogie JP-2C",
         "title": "Paul Jacovino - Mesa/Boogie JP-2C"
     },
@@ -6867,7 +6899,7 @@
         "id": "011f3f73-f7fa-4e14-9a35-144674a663d1",
         "url": "https://tonehunt.org/ChrisM/011f3f73-f7fa-4e14-9a35-144674a663d1",
         "favs": 17,
-        "downloads": 155,
+        "downloads": 156,
         "model": "Marshall JVM410H, TSL100 & DSL15H",
         "title": "Modern Marshall"
     },
@@ -6883,7 +6915,7 @@
         "id": "54a67b43-5886-4487-a7cc-556e9f50666e",
         "url": "https://tonehunt.org/caevizcarra/54a67b43-5886-4487-a7cc-556e9f50666e",
         "favs": 130,
-        "downloads": 770,
+        "downloads": 773,
         "model": "SLO100",
         "title": "Soldano SLO100 Lead"
     },
@@ -7115,7 +7147,7 @@
         "id": "1663ea40-2037-49f4-91f2-4753730f1cf3",
         "url": "https://tonehunt.org/leletronika/1663ea40-2037-49f4-91f2-4753730f1cf3",
         "favs": 37,
-        "downloads": 180,
+        "downloads": 181,
         "model": "Gabriele Coppi Leletronika",
         "title": "VICTORY KRANKEN V4 PREAMP RED"
     },
@@ -7155,7 +7187,7 @@
         "id": "6bdb425b-7bbd-42c5-9922-3c9bf355b4ff",
         "url": "https://tonehunt.org/dsiwek/6bdb425b-7bbd-42c5-9922-3c9bf355b4ff",
         "favs": 32,
-        "downloads": 235,
+        "downloads": 236,
         "model": "Bogner Ecstasy 101B",
         "title": "Bogner Ecstasy 101B Red Channel "
     },
@@ -7171,7 +7203,7 @@
         "id": "cd8e8a08-9aa1-4cac-a48b-758e91313ff7",
         "url": "https://tonehunt.org/Matty/cd8e8a08-9aa1-4cac-a48b-758e91313ff7",
         "favs": 36,
-        "downloads": 246,
+        "downloads": 247,
         "model": "Peavy 5150 + EVH 5150",
         "title": "Peavy 5150 + EVH5150 Modern Metal Rhythm, Lead. "
     },
@@ -7187,7 +7219,7 @@
         "id": "c97ec7fa-8a96-4277-a1a0-6bb5c24e13d3",
         "url": "https://tonehunt.org/Drewhast/c97ec7fa-8a96-4277-a1a0-6bb5c24e13d3",
         "favs": 45,
-        "downloads": 243,
+        "downloads": 244,
         "model": "ENGL Ironball, Ibanez TS9, Pepers Pedals Dirty Tree, Suhr Shiba Drive",
         "title": "ENGL Ironball Hi Gain Pack"
     },
@@ -7243,7 +7275,7 @@
         "id": "be9043c9-74af-4a0c-b500-f972e2800810",
         "url": "https://tonehunt.org/TimR/be9043c9-74af-4a0c-b500-f972e2800810",
         "favs": 192,
-        "downloads": 1010,
+        "downloads": 1014,
         "model": "Roland Jazz Chorus-120",
         "title": "Roland Jazz Chorus"
     },
@@ -7363,7 +7395,7 @@
         "id": "1781ffef-1ed5-4ef8-a3b4-63093cfc89fc",
         "url": "https://tonehunt.org/robertobc47/1781ffef-1ed5-4ef8-a3b4-63093cfc89fc",
         "favs": 95,
-        "downloads": 585,
+        "downloads": 587,
         "model": "EVH 5150 III 6L6",
         "title": "EVH 5150 III 6L6 (Amp Only). Moderate Boost."
     },
@@ -7379,14 +7411,14 @@
         "id": "67f48376-eee2-4d80-b4e9-e4b7e79a4559",
         "url": "https://tonehunt.org/spitfine/67f48376-eee2-4d80-b4e9-e4b7e79a4559",
         "favs": 225,
-        "downloads": 1185,
+        "downloads": 1189,
         "model": "MG Amps - Dumble Overdrive Special",
         "title": "Dumble Overdrive Special"
     },
     {
         "id": "c9dc1945-4c9c-4592-8128-be6572d48fe5",
         "url": "https://tonehunt.org/Dev Crawford/c9dc1945-4c9c-4592-8128-be6572d48fe5",
-        "favs": 45,
+        "favs": 46,
         "downloads": 250,
         "model": "TUBETECH PE1C - AMPEG SVT ",
         "title": "BASS CHAIN - PULTEC - SANAMP - Ampeg SVT - NO CAB - DRIVE!!"
@@ -7411,7 +7443,7 @@
         "id": "02599066-c049-4853-ba9a-a89894f45bcb",
         "url": "https://tonehunt.org/WJHemenway/02599066-c049-4853-ba9a-a89894f45bcb",
         "favs": 188,
-        "downloads": 1072,
+        "downloads": 1077,
         "model": "Fender Deluxe Reverb",
         "title": "Fender Deluxe Reverb"
     },
@@ -7459,7 +7491,7 @@
         "id": "e73719aa-dcc4-4145-8fa1-cad780ecba75",
         "url": "https://tonehunt.org/arsafes/e73719aa-dcc4-4145-8fa1-cad780ecba75",
         "favs": 32,
-        "downloads": 214,
+        "downloads": 215,
         "model": "ENGL Powerball II",
         "title": "ENGL Powerball II"
     },
@@ -7475,7 +7507,7 @@
         "id": "8ccc119e-7631-4a88-961a-baf5e0756702",
         "url": "https://tonehunt.org/arsafes/8ccc119e-7631-4a88-961a-baf5e0756702",
         "favs": 19,
-        "downloads": 138,
+        "downloads": 139,
         "model": "Mesa Boogie Mark IV",
         "title": "Leon Todd's Mesa Mark IV"
     },
@@ -7603,7 +7635,7 @@
         "id": "3799928e-4c32-4eaf-9c6f-a1d4e56fc47d",
         "url": "https://tonehunt.org/TimR/3799928e-4c32-4eaf-9c6f-a1d4e56fc47d",
         "favs": 37,
-        "downloads": 184,
+        "downloads": 186,
         "model": "Splawn Pro Mod",
         "title": "Splawn Pro Mod"
     },
@@ -7619,7 +7651,7 @@
         "id": "99350875-5616-4b96-bb47-f3c161b0f720",
         "url": "https://tonehunt.org/TimR/99350875-5616-4b96-bb47-f3c161b0f720",
         "favs": 18,
-        "downloads": 124,
+        "downloads": 125,
         "model": "Jet City",
         "title": "Jet City"
     },
@@ -7627,7 +7659,7 @@
         "id": "535b2587-4b77-43eb-9360-1aa06fd34a56",
         "url": "https://tonehunt.org/TimR/535b2587-4b77-43eb-9360-1aa06fd34a56",
         "favs": 27,
-        "downloads": 186,
+        "downloads": 188,
         "model": "Marshall JCM900 50W",
         "title": "JCM900 Amp Pack"
     },
@@ -7635,7 +7667,7 @@
         "id": "704ff59d-5da9-40d7-bb3d-bcb1926d98b9",
         "url": "https://tonehunt.org/TimR/704ff59d-5da9-40d7-bb3d-bcb1926d98b9",
         "favs": 28,
-        "downloads": 172,
+        "downloads": 173,
         "model": "Marshall JCM200 DSL",
         "title": "JCM2000 Amp Pack"
     },
@@ -7643,7 +7675,7 @@
         "id": "4cc9406a-505b-44ff-b022-a21c91870ade",
         "url": "https://tonehunt.org/TimR/4cc9406a-505b-44ff-b022-a21c91870ade",
         "favs": 343,
-        "downloads": 1686,
+        "downloads": 1694,
         "model": "Fender Twin Reverb",
         "title": "Fender Twin Pack"
     },
@@ -7651,15 +7683,15 @@
         "id": "fcfd8351-ca67-4517-8ea4-ad8c895ecd0f",
         "url": "https://tonehunt.org/TimR/fcfd8351-ca67-4517-8ea4-ad8c895ecd0f",
         "favs": 39,
-        "downloads": 226,
+        "downloads": 228,
         "model": "5150 ii 1992",
         "title": "5150 ii Pack"
     },
     {
         "id": "23ccc1eb-bf3b-4530-b094-2efb55114a65",
         "url": "https://tonehunt.org/northern_fox/23ccc1eb-bf3b-4530-b094-2efb55114a65",
-        "favs": 17,
-        "downloads": 110,
+        "favs": 18,
+        "downloads": 111,
         "model": "VHT 2/90/2 KT88 Power Amp",
         "title": "VHT 2/90/2 KT88 Power Amp [feather/lite/std]"
     },
@@ -7667,7 +7699,7 @@
         "id": "bdb0ce96-0c9e-4432-8213-1f1e6f84fbf1",
         "url": "https://tonehunt.org/SaschaS/bdb0ce96-0c9e-4432-8213-1f1e6f84fbf1",
         "favs": 134,
-        "downloads": 648,
+        "downloads": 649,
         "model": "Friedman Dirty Shirley Mini",
         "title": "Friedman Dirty Shirley Mini 20W Tube Head"
     },
@@ -7699,7 +7731,7 @@
         "id": "79cf8f4a-9587-49d5-86e5-7152047b508b",
         "url": "https://tonehunt.org/PippPriss/79cf8f4a-9587-49d5-86e5-7152047b508b",
         "favs": 29,
-        "downloads": 194,
+        "downloads": 195,
         "model": "Marshall JVM Vintage Modern",
         "title": "Marshall JVM Pack"
     },
@@ -7787,7 +7819,7 @@
         "id": "00103f7d-e3c0-4f5e-a525-82f0c47ce154",
         "url": "https://tonehunt.org/servusjon/00103f7d-e3c0-4f5e-a525-82f0c47ce154",
         "favs": 28,
-        "downloads": 170,
+        "downloads": 171,
         "model": "Engl Savage 120 MKI",
         "title": "Engl Savage 120 MKI Collection"
     },
