@@ -12,7 +12,7 @@ has_more_pages = True
 detail_links = []
 
 while has_more_pages:
-    url = f"{base_url}/all?sortDirection=desc&filter=amp&page={page}"
+    url = f"{base_url}/models?layout=list&sortDirection=desc&filter=amp&page={page}"
     response = requests.get(url)
     soup = BeautifulSoup(response.content, "html.parser")
     
