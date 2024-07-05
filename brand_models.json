@@ -1,4 +1,27 @@
 {
+    "Palmer": [
+        {
+            "id": "962019ea-1e07-42b4-b04b-aef1c79679b8",
+            "url": "https://tonehunt.org/markswarbrick/962019ea-1e07-42b4-b04b-aef1c79679b8",
+            "favs": 0,
+            "downloads": 0,
+            "model": "GNA Vader 140 & Palmer Macht402",
+            "brands": [
+                "Palmer"
+            ]
+        },
+        {
+            "id": "95fb6a46-f1f6-474e-b9b8-b31aa7a0abd4",
+            "url": "https://tonehunt.org/markswarbrick/95fb6a46-f1f6-474e-b9b8-b31aa7a0abd4",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Pro-FEX2 Preamp & Palmer Macht 402 Power Amp",
+            "brands": [
+                "Palmer",
+                "Peavey"
+            ]
+        }
+    ],
     "Peavey": [
         {
             "id": "27571536-9cd3-4ff3-a628-7c9e4b2df5f8",
@@ -2183,19 +2206,6 @@
             "brands": [
                 "Dirty",
                 "Friedman"
-            ]
-        }
-    ],
-    "Palmer": [
-        {
-            "id": "95fb6a46-f1f6-474e-b9b8-b31aa7a0abd4",
-            "url": "https://tonehunt.org/markswarbrick/95fb6a46-f1f6-474e-b9b8-b31aa7a0abd4",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Pro-FEX2 Preamp & Palmer Macht 402 Power Amp",
-            "brands": [
-                "Palmer",
-                "Peavey"
             ]
         }
     ],
