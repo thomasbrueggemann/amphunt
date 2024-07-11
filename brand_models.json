@@ -1,813 +1,728 @@
 {
-    "Palmer": [
+    "Fender\u00ae": [
         {
-            "id": "962019ea-1e07-42b4-b04b-aef1c79679b8",
-            "url": "https://tonehunt.org/markswarbrick/962019ea-1e07-42b4-b04b-aef1c79679b8",
+            "id": "65bc0b0d-6b3d-4fb4-9979-ac0da8c79266",
+            "url": "https://tonehunt.org/GPSO/65bc0b0d-6b3d-4fb4-9979-ac0da8c79266",
             "favs": 0,
             "downloads": 0,
-            "model": "GNA Vader 140 & Palmer Macht402",
+            "model": "Hybrid - Marshall Mesa Fender Vox",
             "brands": [
-                "Palmer"
-            ]
-        },
-        {
-            "id": "95fb6a46-f1f6-474e-b9b8-b31aa7a0abd4",
-            "url": "https://tonehunt.org/markswarbrick/95fb6a46-f1f6-474e-b9b8-b31aa7a0abd4",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Pro-FEX2 Preamp & Palmer Macht 402 Power Amp",
-            "brands": [
-                "Palmer",
-                "Peavey"
-            ]
-        }
-    ],
-    "Peavey": [
-        {
-            "id": "27571536-9cd3-4ff3-a628-7c9e4b2df5f8",
-            "url": "https://tonehunt.org/kordas/27571536-9cd3-4ff3-a628-7c9e4b2df5f8",
-            "favs": 0,
-            "downloads": 0,
-            "model": "ProCo Rat + Peavey 212 special chorus",
-            "brands": [
-                "Peavey",
-                "Proco"
-            ]
-        },
-        {
-            "id": "95fb6a46-f1f6-474e-b9b8-b31aa7a0abd4",
-            "url": "https://tonehunt.org/markswarbrick/95fb6a46-f1f6-474e-b9b8-b31aa7a0abd4",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Pro-FEX2 Preamp & Palmer Macht 402 Power Amp",
-            "brands": [
-                "Palmer",
-                "Peavey"
-            ]
-        },
-        {
-            "id": "2ed42321-43dd-47da-9d73-01cb0556540a",
-            "url": "https://tonehunt.org/OutmodedElectronics/2ed42321-43dd-47da-9d73-01cb0556540a",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey 6505 1992 Original",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "a06043d3-bd07-4094-a855-7632d53186eb",
-            "url": "https://tonehunt.org/AIDA_DSP/a06043d3-bd07-4094-a855-7632d53186eb",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey 6505+",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "f9b9e427-514c-47ec-8766-c0ea0032c8b7",
-            "url": "https://tonehunt.org/elegancestudi0smetal/f9b9e427-514c-47ec-8766-c0ea0032c8b7",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey, Vypyr",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "23b27ac3-c95b-4b32-8f32-592ac1fbff7c",
-            "url": "https://tonehunt.org/elegancestudi0smetal/23b27ac3-c95b-4b32-8f32-592ac1fbff7c",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey, Vypyr",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "5fefa43d-1741-4df8-b57e-affbfb65b92d",
-            "url": "https://tonehunt.org/scharrface/5fefa43d-1741-4df8-b57e-affbfb65b92d",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey, Ultra Plus 120",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "3ca11512-9ba9-441c-ae9f-1367fc2607a1",
-            "url": "https://tonehunt.org/SlamminMofo/3ca11512-9ba9-441c-ae9f-1367fc2607a1",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Rockmaster",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "ae2a3255-03e9-48df-8912-e4d3a3506842",
-            "url": "https://tonehunt.org/crmoses/ae2a3255-03e9-48df-8912-e4d3a3506842",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Classic 50",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "76ca16d5-f3fc-47db-9c56-de89b591fc7a",
-            "url": "https://tonehunt.org/crmoses/76ca16d5-f3fc-47db-9c56-de89b591fc7a",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Classic 50",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "320e06bb-e9d8-498c-b559-c95be1d8ce7c",
-            "url": "https://tonehunt.org/crmoses/320e06bb-e9d8-498c-b559-c95be1d8ce7c",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Classic 50",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "80c13823-16fb-4ff2-94b3-0564582b5165",
-            "url": "https://tonehunt.org/SlamminMofo/80c13823-16fb-4ff2-94b3-0564582b5165",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Classic Series 120",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "0a3e875a-12c8-48d8-9361-d4018b4714b8",
-            "url": "https://tonehunt.org/silver34324/0a3e875a-12c8-48d8-9361-d4018b4714b8",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey 5150 II ",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "e71a9d80-08fa-4636-9279-11ac0f9ae055",
-            "url": "https://tonehunt.org/helgab/e71a9d80-08fa-4636-9279-11ac0f9ae055",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Ultra 212",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "7ccde6e4-9870-46cf-928d-b3f45b845f99",
-            "url": "https://tonehunt.org/helgab/7ccde6e4-9870-46cf-928d-b3f45b845f99",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey VTM 60",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "22606322-12f0-4d17-856e-370df6ed4ab4",
-            "url": "https://tonehunt.org/helgab/22606322-12f0-4d17-856e-370df6ed4ab4",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey VTM 60",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "6cc9f9e0-422c-44bb-81c8-9455177b9fa0",
-            "url": "https://tonehunt.org/Ratchetstrap.Media/6cc9f9e0-422c-44bb-81c8-9455177b9fa0",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Sansamp Bass Driver, Darkglass B7K, Peavey 6505+",
-            "brands": [
-                "Darkglass",
-                "Peavey"
-            ]
-        },
-        {
-            "id": "2f8c5737-dc2b-414c-8e6f-05d1ddaddceb",
-            "url": "https://tonehunt.org/Ratchetstrap.Media/2f8c5737-dc2b-414c-8e6f-05d1ddaddceb",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey 6505+",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "cab0cc7c-0671-4683-b6b1-101379a03f5e",
-            "url": "https://tonehunt.org/helgab/cab0cc7c-0671-4683-b6b1-101379a03f5e",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey VTM 60, Pro Tone Gary Holt MidBoost, Boss SD-1W, Kuro PhA, MXR M77, Duncan SD805",
-            "brands": [
-                "Boss",
-                "MXR",
-                "Peavey"
-            ]
-        },
-        {
-            "id": "ef8f4d2d-475b-4089-88ef-5fd4ea152236",
-            "url": "https://tonehunt.org/PrimalNerd/ef8f4d2d-475b-4089-88ef-5fd4ea152236",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey 6505 Lichtlaerm Audio The King in Yellow",
-            "brands": [
-                "King",
-                "M-Audio",
-                "Peavey"
-            ]
-        },
-        {
-            "id": "f7dc2678-e741-4e06-bc1c-b9cd8b2198ee",
-            "url": "https://tonehunt.org/TheProducersCaptures/f7dc2678-e741-4e06-bc1c-b9cd8b2198ee",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Cantrell+ based on a own creation of Yuneo /  HBE based on Friedman HBE / Angel based on ENGL Savage SE /  Shiver based on Bogner Shiva / The Judge based on Hot Rodded Plexi / Kartakou Colossus based on Peavey 5150 and 6505",
-            "brands": [
-                "Bogner",
-                "ENGL",
-                "Friedman",
-                "Peavey",
-                "Savage"
-            ]
-        },
-        {
-            "id": "408503e7-37a3-48cd-8691-fa4f61c23c52",
-            "url": "https://tonehunt.org/helgab/408503e7-37a3-48cd-8691-fa4f61c23c52",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey 6505+",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "7307a9ec-544b-4323-b437-efcf1f0eb88b",
-            "url": "https://tonehunt.org/helgab/7307a9ec-544b-4323-b437-efcf1f0eb88b",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey 6505+, Kuro PhA, GCI Pariah, Way Huge Swollen Pickle, GCI Jugendstil, Behringer HM300, Wren and Cuff Tall Font, Pepers ROT, Pepers Humungus, Dolamo RAT. ",
-            "brands": [
-                "Behringer",
-                "Peavey",
-                "Way Huge",
-                "Wren Cuff"
-            ]
-        },
-        {
-            "id": "6509034f-988c-42f6-b984-cf46c8fca67c",
-            "url": "https://tonehunt.org/helgab/6509034f-988c-42f6-b984-cf46c8fca67c",
-            "favs": 0,
-            "downloads": 0,
-            "model": "GCI Pariah and Peavey 6534+",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "987b793f-1a78-465d-b7ab-24389eb6f761",
-            "url": "https://tonehunt.org/helgab/987b793f-1a78-465d-b7ab-24389eb6f761",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey XXX",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "4546ef53-2ed3-4348-87b2-346b24acbc15",
-            "url": "https://tonehunt.org/markswarbrick/4546ef53-2ed3-4348-87b2-346b24acbc15",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Bandit 112 Teal Stripe",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "c65c45a0-168f-491f-8d84-603e172c9fe0",
-            "url": "https://tonehunt.org/helgab/c65c45a0-168f-491f-8d84-603e172c9fe0",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Wren And Cuff Tall Font, Peavey Ultra 60w",
-            "brands": [
-                "Peavey",
-                "Wren Cuff"
-            ]
-        },
-        {
-            "id": "0bf0fcd0-c502-4a5e-badf-9cd1a012e38a",
-            "url": "https://tonehunt.org/helgab/0bf0fcd0-c502-4a5e-badf-9cd1a012e38a",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Ultra 60w",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "33ca4a6d-2701-4f99-8fd6-db6dd677932d",
-            "url": "https://tonehunt.org/markswarbrick/33ca4a6d-2701-4f99-8fd6-db6dd677932d",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey MP4 + Fox Pedal Defector Fuzz",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "009ef7b9-4178-4757-8c96-83dd168877c7",
-            "url": "https://tonehunt.org/markswarbrick/009ef7b9-4178-4757-8c96-83dd168877c7",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Bandit Solo Series",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "311fdd6a-0dbb-4621-9a8c-8dbe09641438",
-            "url": "https://tonehunt.org/kordas/311fdd6a-0dbb-4621-9a8c-8dbe09641438",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey, Nux",
-            "brands": [
-                "Nux",
-                "Peavey"
-            ]
-        },
-        {
-            "id": "c2dfdf96-d5ff-4007-877b-b7cd0c9758ac",
-            "url": "https://tonehunt.org/kordas/c2dfdf96-d5ff-4007-877b-b7cd0c9758ac",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey special chorus 212 combo amp (Lead Channel)",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "8b7cb72f-ee7c-4061-8e57-df1e50859cd5",
-            "url": "https://tonehunt.org/markswarbrick/8b7cb72f-ee7c-4061-8e57-df1e50859cd5",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Bandit 112 Teal Stripe",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "b119b349-ff36-45a9-a92b-90b692049ada",
-            "url": "https://tonehunt.org/markswarbrick/b119b349-ff36-45a9-a92b-90b692049ada",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Series III MP-4 Mixer Amp",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "77086725-3361-41cb-904d-d50293e28513",
-            "url": "https://tonehunt.org/markswarbrick/77086725-3361-41cb-904d-d50293e28513",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Bandit 112 Teal Stripe",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "d4cc40e2-677f-4f50-a989-affc3f3797f4",
-            "url": "https://tonehunt.org/helgab/d4cc40e2-677f-4f50-a989-affc3f3797f4",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey 5150 Block Letter",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "c7b84ca6-a73e-48cd-91ae-54ec2fb9726b",
-            "url": "https://tonehunt.org/helgab/c7b84ca6-a73e-48cd-91ae-54ec2fb9726b",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey 6534+",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "cbe9d3b6-c5fa-40d6-8d09-50c72fe9e2a6",
-            "url": "https://tonehunt.org/IReignManI/cbe9d3b6-c5fa-40d6-8d09-50c72fe9e2a6",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey JSX",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "bae17072-e5f0-4897-b25a-8d7c5aed97af",
-            "url": "https://tonehunt.org/ArlingtonAudio/bae17072-e5f0-4897-b25a-8d7c5aed97af",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey 5150",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "c961e708-9990-4df0-a0bb-fbad7ece754c",
-            "url": "https://tonehunt.org/ArlingtonAudio/c961e708-9990-4df0-a0bb-fbad7ece754c",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Engl, Marshall, Peavey",
-            "brands": [
-                "ENGL",
+                "Fender\u00ae",
                 "Marshall",
-                "Peavey"
+                "Vox"
             ]
         },
         {
-            "id": "eae95c32-a017-415d-a6f0-9b99f6b589f4",
-            "url": "https://tonehunt.org/FabDef/eae95c32-a017-415d-a6f0-9b99f6b589f4",
+            "id": "ec9c9f2a-57ec-433b-8f19-ae4445075ae1",
+            "url": "https://tonehunt.org/DahmanMusic/ec9c9f2a-57ec-433b-8f19-ae4445075ae1",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey 5150",
+            "model": "2015 Fender Hot Rod Deluxe III",
             "brands": [
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "7aef2781-5c7b-4c6a-b5e6-d64621e87cce",
-            "url": "https://tonehunt.org/GrassFed/7aef2781-5c7b-4c6a-b5e6-d64621e87cce",
+            "id": "6a3db32b-15cc-4ea7-a3ab-fd990fae3800",
+            "url": "https://tonehunt.org/DahmanMusic/6a3db32b-15cc-4ea7-a3ab-fd990fae3800",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey Windsor, Ibanez TS-9, Fulltone OCD",
+            "model": "1976 Fender Deluxe Reverb",
             "brands": [
-                "Ibanez",
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "876303e6-6d7f-47db-9b13-1a254e6564e2",
-            "url": "https://tonehunt.org/helgab/876303e6-6d7f-47db-9b13-1a254e6564e2",
+            "id": "20704e59-4c44-4505-9501-981addbae649",
+            "url": "https://tonehunt.org/DahmanMusic/20704e59-4c44-4505-9501-981addbae649",
             "favs": 0,
             "downloads": 0,
-            "model": "Way Huge Swollen Pickle, Peavey 6534+",
+            "model": "1994 Fender Princeton Chorus",
             "brands": [
-                "Peavey",
-                "Way Huge"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "aa51ee90-d528-41dc-b4a6-0ad19eb59bfa",
-            "url": "https://tonehunt.org/unnus/aa51ee90-d528-41dc-b4a6-0ad19eb59bfa",
+            "id": "27196b6c-ae11-4d40-a1c5-e8404320ce77",
+            "url": "https://tonehunt.org/Kosmicaudio/27196b6c-ae11-4d40-a1c5-e8404320ce77",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey 5150",
+            "model": "Fender Hot Rod Deluxe III",
             "brands": [
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "a679154f-d588-4306-aed2-84f1a9acd5a0",
-            "url": "https://tonehunt.org/cosmiccrucible/a679154f-d588-4306-aed2-84f1a9acd5a0",
+            "id": "72780bc7-31c8-44be-b3d4-34dab853fa84",
+            "url": "https://tonehunt.org/domdadom/72780bc7-31c8-44be-b3d4-34dab853fa84",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey 6505",
+            "model": "Fender Hotrod Deluxe",
             "brands": [
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "8f72c721-09f6-410b-a968-19efe667fb4d",
-            "url": "https://tonehunt.org/cosmiccrucible/8f72c721-09f6-410b-a968-19efe667fb4d",
+            "id": "a230f816-1ef5-45f5-961b-c4deaddce503",
+            "url": "https://tonehunt.org/Wawa4379/a230f816-1ef5-45f5-961b-c4deaddce503",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey 6505",
+            "model": "Fender Twin Reverb",
             "brands": [
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "86b7152d-2089-4851-910b-e5053679e4d3",
-            "url": "https://tonehunt.org/Ozzrocks/86b7152d-2089-4851-910b-e5053679e4d3",
+            "id": "7a2e02ec-c68a-4619-93d9-996134fcbb46",
+            "url": "https://tonehunt.org/danielnguyen/7a2e02ec-c68a-4619-93d9-996134fcbb46",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey 6505+ High Gain",
+            "model": "Fender '62 Princeton Chris Stapleton Edition",
             "brands": [
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "cc417d46-d6d0-4a9b-8142-506964981b2c",
-            "url": "https://tonehunt.org/ArlingtonAudio/cc417d46-d6d0-4a9b-8142-506964981b2c",
+            "id": "468a3d85-0bb3-4cdb-ab96-4fb9d899f29b",
+            "url": "https://tonehunt.org/sdatkinson/468a3d85-0bb3-4cdb-ab96-4fb9d899f29b",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey - 6505",
+            "model": "Fender Deluxe Reverb",
             "brands": [
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "6ca3c07d-f94a-4fa5-be85-4fce2cead08c",
-            "url": "https://tonehunt.org/Thumas/6ca3c07d-f94a-4fa5-be85-4fce2cead08c",
+            "id": "ad87cde2-50dc-42dd-9c7d-3a8f7e6f4bde",
+            "url": "https://tonehunt.org/domdadom/ad87cde2-50dc-42dd-9c7d-3a8f7e6f4bde",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey 6505",
+            "model": "Fender Hotrod Deluxe",
             "brands": [
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "234e26bb-f9d1-4180-b409-e2d3747e1d0c",
-            "url": "https://tonehunt.org/FabDef/234e26bb-f9d1-4180-b409-e2d3747e1d0c",
+            "id": "e9fe6461-6fe7-4c4e-a0bc-6938485a5641",
+            "url": "https://tonehunt.org/philvr/e9fe6461-6fe7-4c4e-a0bc-6938485a5641",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey ULTRA plus",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "a2471ff2-066b-4b83-8d11-47bb840309f4",
-            "url": "https://tonehunt.org/ReedDunn/a2471ff2-066b-4b83-8d11-47bb840309f4",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Valve King Vk100",
-            "brands": [
-                "King",
-                "Peavey"
-            ]
-        },
-        {
-            "id": "350b5cd5-591a-456e-b9ac-11ab9382420f",
-            "url": "https://tonehunt.org/ReedDunn/350b5cd5-591a-456e-b9ac-11ab9382420f",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Valve King Vk100",
-            "brands": [
-                "King",
-                "Peavey"
-            ]
-        },
-        {
-            "id": "7298511d-c0b4-49f1-9ec4-430eb8ac3a69",
-            "url": "https://tonehunt.org/helgab/7298511d-c0b4-49f1-9ec4-430eb8ac3a69",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey 5150, Peavey XXX, Peavey 6534+, Peavey 6505+, Peavey JSX, EVH 5150 III 50W 6L6",
-            "brands": [
-                "EVH",
-                "Peavey"
-            ]
-        },
-        {
-            "id": "45a5ef21-5072-4c3c-9d67-befd54c50623",
-            "url": "https://tonehunt.org/ReedDunn/45a5ef21-5072-4c3c-9d67-befd54c50623",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Valve King Vk100",
-            "brands": [
-                "King",
-                "Peavey"
-            ]
-        },
-        {
-            "id": "02984d30-3691-4e95-9084-7d3386e8bb7f",
-            "url": "https://tonehunt.org/ReedDunn/02984d30-3691-4e95-9084-7d3386e8bb7f",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Valve King Vk100",
-            "brands": [
-                "King",
-                "Peavey"
-            ]
-        },
-        {
-            "id": "6b5d99f9-9310-443a-bccb-51eed05b5078",
-            "url": "https://tonehunt.org/ReedDunn/6b5d99f9-9310-443a-bccb-51eed05b5078",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Valve King Vk100",
-            "brands": [
-                "King",
-                "Peavey"
-            ]
-        },
-        {
-            "id": "500a0def-d959-4a90-bb4c-d380a6a273b0",
-            "url": "https://tonehunt.org/ReedDunn/500a0def-d959-4a90-bb4c-d380a6a273b0",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Valve King Vk100",
-            "brands": [
-                "King",
-                "Peavey"
-            ]
-        },
-        {
-            "id": "e27e2ad2-66b3-4ff6-a2ca-9455111d99f3",
-            "url": "https://tonehunt.org/ArlingtonAudio/e27e2ad2-66b3-4ff6-a2ca-9455111d99f3",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Decade",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "fb72a9ba-5c55-4d6b-af48-9d1bd5e0b241",
-            "url": "https://tonehunt.org/FabDef/fb72a9ba-5c55-4d6b-af48-9d1bd5e0b241",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Triple XXX",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "cfde5e8d-2939-4549-81a4-5d6da854de78",
-            "url": "https://tonehunt.org/FabDef/cfde5e8d-2939-4549-81a4-5d6da854de78",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey Triple XXX",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "63bd79ca-ae16-4ee2-afef-66eca7076f9f",
-            "url": "https://tonehunt.org/FabDef/63bd79ca-ae16-4ee2-afef-66eca7076f9f",
-            "favs": 0,
-            "downloads": 0,
-            "model": "PEAVEY SUPREME XL",
-            "brands": [
-                "Peavey",
-                "Supreme"
-            ]
-        },
-        {
-            "id": "937331c6-f149-41bd-808c-398cf8a2407f",
-            "url": "https://tonehunt.org/cosmiccrucible/937331c6-f149-41bd-808c-398cf8a2407f",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey 6505",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "52722ff8-6130-41ed-a2b7-d9b8179953a8",
-            "url": "https://tonehunt.org/cosmiccrucible/52722ff8-6130-41ed-a2b7-d9b8179953a8",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey 6505",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "adf6a5c7-5136-4770-a85a-4ac50c37f1fd",
-            "url": "https://tonehunt.org/Ideofunk/adf6a5c7-5136-4770-a85a-4ac50c37f1fd",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey 5150 Block Logo, Horizon Devices Precision Drive",
-            "brands": [
-                "Peavey"
-            ]
-        },
-        {
-            "id": "efc7d13a-e612-4ff1-a34d-718a3675770a",
-            "url": "https://tonehunt.org/jesterdyne/efc7d13a-e612-4ff1-a34d-718a3675770a",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Peavey 5150/6505, Boss SD-1",
+            "model": "Fender Princeton + Boss DS-2",
             "brands": [
                 "Boss",
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "64a30169-e09d-4626-a000-664d1ec1e603",
-            "url": "https://tonehunt.org/joao/64a30169-e09d-4626-a000-664d1ec1e603",
+            "id": "a756eab7-6970-45aa-a311-35d640bf1f97",
+            "url": "https://tonehunt.org/philvr/a756eab7-6970-45aa-a311-35d640bf1f97",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey XXX",
+            "model": "Fender Princeton",
             "brands": [
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "d746a74b-af17-4e10-9543-17e85826187f",
-            "url": "https://tonehunt.org/FabDef/d746a74b-af17-4e10-9543-17e85826187f",
+            "id": "3989771e-2bb1-44d5-b1c6-f2bfe1105a81",
+            "url": "https://tonehunt.org/danielnguyen/3989771e-2bb1-44d5-b1c6-f2bfe1105a81",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey rockmaster/engl e530",
+            "model": "Fender '62 Princeton Chris Stapleton Edition",
             "brands": [
-                "ENGL",
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "b2c4b514-73f3-4d34-9f59-814c2c92f0c4",
-            "url": "https://tonehunt.org/FabDef/b2c4b514-73f3-4d34-9f59-814c2c92f0c4",
+            "id": "be876db7-51bc-41e9-9ab8-31fea3cbc360",
+            "url": "https://tonehunt.org/Kosmicaudio/be876db7-51bc-41e9-9ab8-31fea3cbc360",
             "favs": 0,
             "downloads": 0,
-            "model": "PEAVEY ULTRA plus",
+            "model": "Fender Hot Rod Deluxe III",
             "brands": [
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "980a12d2-7b1a-47d6-bbf4-50fa1a0f9ba5",
-            "url": "https://tonehunt.org/H3X1D3C1M4L/980a12d2-7b1a-47d6-bbf4-50fa1a0f9ba5",
+            "id": "c4912321-ac7c-4929-8067-d847b717d34c",
+            "url": "https://tonehunt.org/danielnguyen/c4912321-ac7c-4929-8067-d847b717d34c",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey Rockmaster",
+            "model": "Fender '57 Custom Deluxe",
             "brands": [
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "93d7b361-b4ee-4361-80eb-b380273f6665",
-            "url": "https://tonehunt.org/Matty/93d7b361-b4ee-4361-80eb-b380273f6665",
+            "id": "f1a8a96f-cebd-4f8e-858a-c14e195dd76e",
+            "url": "https://tonehunt.org/danielnguyen/f1a8a96f-cebd-4f8e-858a-c14e195dd76e",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey Masterpiece 50",
+            "model": "Fender '62 Princeton Chris Stapleton Edition",
             "brands": [
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "4b9d0a9d-c19a-434e-8122-096dd1cb2c49",
-            "url": "https://tonehunt.org/Stillwork/4b9d0a9d-c19a-434e-8122-096dd1cb2c49",
+            "id": "30a252d8-b822-4647-844b-fcdd843aeace",
+            "url": "https://tonehunt.org/Kosmicaudio/30a252d8-b822-4647-844b-fcdd843aeace",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey Classic 100",
+            "model": "Fender Hot Rod Deluxe III",
             "brands": [
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "c3f0cc9e-aea8-43af-bfc0-acf311cf5174",
-            "url": "https://tonehunt.org/LEH666/c3f0cc9e-aea8-43af-bfc0-acf311cf5174",
+            "id": "c776316e-2837-4f69-9253-0ae3ef66a268",
+            "url": "https://tonehunt.org/oneared/c776316e-2837-4f69-9253-0ae3ef66a268",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey Valveking MK II",
+            "model": "Fender TwinReverb",
             "brands": [
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "dd6b3581-c53a-46ee-9b7b-0a15d7bfe142",
-            "url": "https://tonehunt.org/Dev Crawford/dd6b3581-c53a-46ee-9b7b-0a15d7bfe142",
+            "id": "1283e09e-00e0-4800-9101-514aa140103a",
+            "url": "https://tonehunt.org/oneared/1283e09e-00e0-4800-9101-514aa140103a",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey 6160 - Modded",
+            "model": "Fender HotRod Deluxe v3",
             "brands": [
-                "Peavey"
+                "Fender\u00ae"
             ]
         },
         {
-            "id": "24805d12-ea3c-44f6-b2ce-2cc26093aee7",
-            "url": "https://tonehunt.org/joechugs/24805d12-ea3c-44f6-b2ce-2cc26093aee7",
+            "id": "e6562e2f-0a16-430f-aa8c-a7ad529ec282",
+            "url": "https://tonehunt.org/Kosmicaudio/e6562e2f-0a16-430f-aa8c-a7ad529ec282",
             "favs": 0,
             "downloads": 0,
-            "model": "Peavey 5150 Block Letter",
+            "model": "Fender Hot Rod Deluxe III",
             "brands": [
-                "Peavey"
+                "Fender\u00ae"
             ]
-        }
-    ],
-    "Proco": [
+        },
         {
-            "id": "27571536-9cd3-4ff3-a628-7c9e4b2df5f8",
-            "url": "https://tonehunt.org/kordas/27571536-9cd3-4ff3-a628-7c9e4b2df5f8",
+            "id": "1b8a471f-6012-4f8a-bf7e-2c717dc794fd",
+            "url": "https://tonehunt.org/Kosmicaudio/1b8a471f-6012-4f8a-bf7e-2c717dc794fd",
             "favs": 0,
             "downloads": 0,
-            "model": "ProCo Rat + Peavey 212 special chorus",
+            "model": "Fender Hot Rod Deluxe III",
             "brands": [
-                "Peavey",
-                "Proco"
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "222994d2-48ae-47e6-a9df-cee22d7c9b8c",
+            "url": "https://tonehunt.org/Kosmicaudio/222994d2-48ae-47e6-a9df-cee22d7c9b8c",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Hot Rod Deluxe III",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "129e1f38-d810-4ef4-b775-7d773674b6d5",
+            "url": "https://tonehunt.org/Kosmicaudio/129e1f38-d810-4ef4-b775-7d773674b6d5",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Hot Rod Deluxe III",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "5a03798c-1d25-4c9c-b0bd-5d49d7997502",
+            "url": "https://tonehunt.org/Ideofunk/5a03798c-1d25-4c9c-b0bd-5d49d7997502",
+            "favs": 0,
+            "downloads": 0,
+            "model": "1965 Fender Bassman Head",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "f638691b-8337-459d-9536-9be0b24f5d0c",
+            "url": "https://tonehunt.org/Ideofunk/f638691b-8337-459d-9536-9be0b24f5d0c",
+            "favs": 0,
+            "downloads": 0,
+            "model": "1967 Fender Bassman head",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "38fe8e58-57a2-42df-8461-5a730193cd7e",
+            "url": "https://tonehunt.org/elgringoloco/38fe8e58-57a2-42df-8461-5a730193cd7e",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Super-Sonic 60W Head mk.1 - Flat EQ - Complete Pack",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "8465cc40-21ba-42e4-9a2e-538f9a14961b",
+            "url": "https://tonehunt.org/MaxGerardBeech/8465cc40-21ba-42e4-9a2e-538f9a14961b",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Sidekick 30",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "7ddb69ab-c1fd-46e9-9614-12cc17d28d30",
+            "url": "https://tonehunt.org/Raksha/7ddb69ab-c1fd-46e9-9614-12cc17d28d30",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Princeton Recording Amp",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "60ed5122-1ac5-4ef7-8238-7b8b5c8c88a6",
+            "url": "https://tonehunt.org/Gigmaster/60ed5122-1ac5-4ef7-8238-7b8b5c8c88a6",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Brownface Deluxe",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "93bf86d0-d391-47b5-a146-3012474e66ee",
+            "url": "https://tonehunt.org/PetruXX/93bf86d0-d391-47b5-a146-3012474e66ee",
+            "favs": 0,
+            "downloads": 0,
+            "model": "fender princeton",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "569755de-6aa6-44c2-98a5-e415e54c5feb",
+            "url": "https://tonehunt.org/Raksha/569755de-6aa6-44c2-98a5-e415e54c5feb",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Princeton Recording Amp",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "eed4cab8-6e3c-4abe-9907-2e9236c7c066",
+            "url": "https://tonehunt.org/Gigmaster/eed4cab8-6e3c-4abe-9907-2e9236c7c066",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Princeton Reverb",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "5a31eb97-65b4-48db-b20a-c67f33a028e7",
+            "url": "https://tonehunt.org/hendrix/5a31eb97-65b4-48db-b20a-c67f33a028e7",
+            "favs": 0,
+            "downloads": 0,
+            "model": "1965  fender twin reverb  fender blackface",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "a5e942d2-2ea1-45c8-a919-34f1ac45cd13",
+            "url": "https://tonehunt.org/OutmodedElectronics/a5e942d2-2ea1-45c8-a919-34f1ac45cd13",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Pro Junior IV LTD",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "b0533161-2032-4661-86cd-64a75cd80b2e",
+            "url": "https://tonehunt.org/Ideofunk/b0533161-2032-4661-86cd-64a75cd80b2e",
+            "favs": 0,
+            "downloads": 0,
+            "model": "1965 Fender Bassman head",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "ebc8dc56-93b2-4e89-959c-298ba3c6148d",
+            "url": "https://tonehunt.org/domdadom/ebc8dc56-93b2-4e89-959c-298ba3c6148d",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Hotrod Deluxe",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "73127b2b-4437-4459-86ff-979c836793b3",
+            "url": "https://tonehunt.org/amalgamaudio/73127b2b-4437-4459-86ff-979c836793b3",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Tweed Deluxe 5E3 1957",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "9a68b3f9-16df-421b-ba19-faff8359afa0",
+            "url": "https://tonehunt.org/domdadom/9a68b3f9-16df-421b-ba19-faff8359afa0",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Hotrod Deluxe Boss Blues Driver",
+            "brands": [
+                "Boss",
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "12432595-765f-46e8-bca6-bb14fd8e91fb",
+            "url": "https://tonehunt.org/d_Vincent_b/12432595-765f-46e8-bca6-bb14fd8e91fb",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Twin Reverb",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "0cdbe2df-7b6a-4117-98ef-84ce62c0a004",
+            "url": "https://tonehunt.org/SoothsayerAudio/0cdbe2df-7b6a-4117-98ef-84ce62c0a004",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Bassman",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "438c2d16-e0b3-426d-939f-11a03df23d0e",
+            "url": "https://tonehunt.org/rockwad/438c2d16-e0b3-426d-939f-11a03df23d0e",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Prosonic Model CSR13",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "6b4a22d8-c60e-41a2-820b-156ca4c9c256",
+            "url": "https://tonehunt.org/rockwad/6b4a22d8-c60e-41a2-820b-156ca4c9c256",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Prosonic Model CSR13",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "d02daf24-5334-4563-941e-7107337c5e2a",
+            "url": "https://tonehunt.org/rockwad/d02daf24-5334-4563-941e-7107337c5e2a",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Prosonic Model CSR13 v2",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "117c9590-96c0-4a02-aa5b-16573723f0e5",
+            "url": "https://tonehunt.org/MODFather/117c9590-96c0-4a02-aa5b-16573723f0e5",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Blues Deluxe Re-issue PR246",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "dcd31954-1704-469d-aa9c-a7541e3545d8",
+            "url": "https://tonehunt.org/MODFather/dcd31954-1704-469d-aa9c-a7541e3545d8",
+            "favs": 0,
+            "downloads": 0,
+            "model": " Fender Twin Reverb 68 Custom PR 186",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "73e5d7c4-e2ba-4d76-a656-bf98da62512f",
+            "url": "https://tonehunt.org/d_Vincent_b/73e5d7c4-e2ba-4d76-a656-bf98da62512f",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Champ 5F1 ",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "ee2fae27-6726-4afe-96fb-23cff119a30e",
+            "url": "https://tonehunt.org/MODFather/ee2fae27-6726-4afe-96fb-23cff119a30e",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Twin Reverb",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "f98c29db-52b4-472f-91e2-682cb335e4ce",
+            "url": "https://tonehunt.org/MODFather/f98c29db-52b4-472f-91e2-682cb335e4ce",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Blues Deluxe",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "eda08b18-a8f5-4411-8504-5304de08545a",
+            "url": "https://tonehunt.org/jhall/eda08b18-a8f5-4411-8504-5304de08545a",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Bassman Head",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "2a899fa9-2960-403b-b440-e366403c095f",
+            "url": "https://tonehunt.org/domdadom/2a899fa9-2960-403b-b440-e366403c095f",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Hotrod Deluxe III Red Nova",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "324f3a40-23ff-4904-a77f-edaed0ddcfcd",
+            "url": "https://tonehunt.org/domdadom/324f3a40-23ff-4904-a77f-edaed0ddcfcd",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Fender Hot Rod Deluxe III Red Nova",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "1319d28a-82fb-4486-bbdc-f373e035c403",
+            "url": "https://tonehunt.org/ArlingtonAudio/1319d28a-82fb-4486-bbdc-f373e035c403",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Bassman 50",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "bf8e0745-2393-4f65-92f3-c6242d1ae13b",
+            "url": "https://tonehunt.org/GPSO/bf8e0745-2393-4f65-92f3-c6242d1ae13b",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Hybrid - Marshall Mesa Fender Friedman Vox and more",
+            "brands": [
+                "Fender\u00ae",
+                "Friedman",
+                "Marshall",
+                "Vox"
+            ]
+        },
+        {
+            "id": "b2d63ba2-b4b9-450a-a4f9-a6b1180c45ec",
+            "url": "https://tonehunt.org/amalgamaudio/b2d63ba2-b4b9-450a-a4f9-a6b1180c45ec",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Blonde Bassman 1964",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "a0ed131a-d8f6-4aee-a809-942b8cb46752",
+            "url": "https://tonehunt.org/Simonbaughen/a0ed131a-d8f6-4aee-a809-942b8cb46752",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender",
+            "brands": [
+                "Fender Shop",
+                "Fender Shop Series",
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "816adb07-6beb-4325-9273-1047afd47b9e",
+            "url": "https://tonehunt.org/amalgamaudio/816adb07-6beb-4325-9273-1047afd47b9e",
+            "favs": 0,
+            "downloads": 0,
+            "model": "1965 Fender Super Reverb Black Face",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "2962695c-a996-478b-8250-10be4c3a15e7",
+            "url": "https://tonehunt.org/greenguitarguy/2962695c-a996-478b-8250-10be4c3a15e7",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Princeton",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "d2e1b05e-68fc-4a53-8a59-2c3459325d36",
+            "url": "https://tonehunt.org/aviavi123/d2e1b05e-68fc-4a53-8a59-2c3459325d36",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Deluxe Reverb II",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "fb939487-2d64-49ec-be8b-3983f3893a16",
+            "url": "https://tonehunt.org/TimR/fb939487-2d64-49ec-be8b-3983f3893a16",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Twin Reverb",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "3cf81a6a-51e3-4ab8-871c-15ee465cb646",
+            "url": "https://tonehunt.org/Fandermill/3cf81a6a-51e3-4ab8-871c-15ee465cb646",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Champ Silverface 1975",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "c67c82fd-3c0c-4151-aa34-07525dc6b913",
+            "url": "https://tonehunt.org/poingg/c67c82fd-3c0c-4151-aa34-07525dc6b913",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Tweed Champ clone",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "81b255ca-36b2-4a92-9cf3-5480c800db66",
+            "url": "https://tonehunt.org/poingg/81b255ca-36b2-4a92-9cf3-5480c800db66",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender 57 Custom Deluxe",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "88f4dddd-8776-40f9-b094-d4b453a5da34",
+            "url": "https://tonehunt.org/WJHemenway/88f4dddd-8776-40f9-b094-d4b453a5da34",
+            "favs": 0,
+            "downloads": 0,
+            "model": "MZERO & FENDER DELUXE REVERB",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "705d7d39-05b9-4222-8fe6-00dfc61952d8",
+            "url": "https://tonehunt.org/Simonbaughen/705d7d39-05b9-4222-8fe6-00dfc61952d8",
+            "favs": 0,
+            "downloads": 0,
+            "model": "5E3 Fender 1958",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "0d3b8808-525d-4a29-8a6d-ff48cf812db1",
+            "url": "https://tonehunt.org/Dev Crawford/0d3b8808-525d-4a29-8a6d-ff48cf812db1",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Bassman - Blackface",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "deb098ea-54da-44fc-9702-d9ad161cb121",
+            "url": "https://tonehunt.org/Dev Crawford/deb098ea-54da-44fc-9702-d9ad161cb121",
+            "favs": 0,
+            "downloads": 0,
+            "model": "FENDER BASSMAN",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "1fae9a2e-a403-4d95-ba7c-7597251540f8",
+            "url": "https://tonehunt.org/OrangePeeled/1fae9a2e-a403-4d95-ba7c-7597251540f8",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender 5E3 Tweed Deluxe",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "02599066-c049-4853-ba9a-a89894f45bcb",
+            "url": "https://tonehunt.org/WJHemenway/02599066-c049-4853-ba9a-a89894f45bcb",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Deluxe Reverb",
+            "brands": [
+                "Fender\u00ae"
+            ]
+        },
+        {
+            "id": "4cc9406a-505b-44ff-b022-a21c91870ade",
+            "url": "https://tonehunt.org/TimR/4cc9406a-505b-44ff-b022-a21c91870ade",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Fender Twin Reverb",
+            "brands": [
+                "Fender\u00ae"
             ]
         }
     ],
     "Marshall": [
+        {
+            "id": "65bc0b0d-6b3d-4fb4-9979-ac0da8c79266",
+            "url": "https://tonehunt.org/GPSO/65bc0b0d-6b3d-4fb4-9979-ac0da8c79266",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Hybrid - Marshall Mesa Fender Vox",
+            "brands": [
+                "Fender\u00ae",
+                "Marshall",
+                "Vox"
+            ]
+        },
+        {
+            "id": "49f3446f-403c-4532-8176-b7e47ed75dcd",
+            "url": "https://tonehunt.org/SlamminMofo/49f3446f-403c-4532-8176-b7e47ed75dcd",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Marshall JMP 2203",
+            "brands": [
+                "Marshall"
+            ]
+        },
         {
             "id": "e6600f7e-c1be-433c-ad9e-22247f5c4612",
             "url": "https://tonehunt.org/daniel.bernhardsson/e6600f7e-c1be-433c-ad9e-22247f5c4612",
@@ -1965,6 +1880,1144 @@
             ]
         }
     ],
+    "Vox": [
+        {
+            "id": "65bc0b0d-6b3d-4fb4-9979-ac0da8c79266",
+            "url": "https://tonehunt.org/GPSO/65bc0b0d-6b3d-4fb4-9979-ac0da8c79266",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Hybrid - Marshall Mesa Fender Vox",
+            "brands": [
+                "Fender\u00ae",
+                "Marshall",
+                "Vox"
+            ]
+        },
+        {
+            "id": "4e216642-f358-47b1-a895-a4a8402368bf",
+            "url": "https://tonehunt.org/Raksha/4e216642-f358-47b1-a895-a4a8402368bf",
+            "favs": 0,
+            "downloads": 0,
+            "model": "VOX AC30 CCH",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "2d1b0e87-3355-4abd-88ba-a56b34bd7069",
+            "url": "https://tonehunt.org/rbustos89/2d1b0e87-3355-4abd-88ba-a56b34bd7069",
+            "favs": 0,
+            "downloads": 0,
+            "model": "VOX AC30 '96 by Jon Arnold",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "fdab2cb7-a929-4d7d-a766-0af9649ddea6",
+            "url": "https://tonehunt.org/rbustos89/fdab2cb7-a929-4d7d-a766-0af9649ddea6",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Vox Ac30 62'  by Jonathan Arnold",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "d5889b4d-f607-4c7d-8173-f6f41ad8261f",
+            "url": "https://tonehunt.org/TheCheapCleaner/d5889b4d-f607-4c7d-8173-f6f41ad8261f",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Vox Pathfinder 15R",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "b533c9c4-adc5-4307-991d-a1c50ddd012c",
+            "url": "https://tonehunt.org/philvr/b533c9c4-adc5-4307-991d-a1c50ddd012c",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Vox VT50 Boutique OD",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "82d9b3b6-a990-4656-aa92-855e14b9a116",
+            "url": "https://tonehunt.org/philvr/82d9b3b6-a990-4656-aa92-855e14b9a116",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Vox VT50 AC15TB",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "0f695ebf-62fa-40ca-b485-0779c1771137",
+            "url": "https://tonehunt.org/philvr/0f695ebf-62fa-40ca-b485-0779c1771137",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Vox VT50 AC15",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "1252ad61-888b-4acd-8933-3f922f3144ef",
+            "url": "https://tonehunt.org/philvr/1252ad61-888b-4acd-8933-3f922f3144ef",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Vox VT50 Super",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "966d4aab-1116-4097-a597-07d89a0dff55",
+            "url": "https://tonehunt.org/philvr/966d4aab-1116-4097-a597-07d89a0dff55",
+            "favs": 0,
+            "downloads": 0,
+            "model": "VOX VT50 Tweed 4x12",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "30a10004-a5fd-4f0e-9900-d7e146bf93e1",
+            "url": "https://tonehunt.org/philvr/30a10004-a5fd-4f0e-9900-d7e146bf93e1",
+            "favs": 0,
+            "downloads": 0,
+            "model": "VOX VT50 Tweed 2x12",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "8a69018e-3a1e-4251-a607-ecc12aaf533f",
+            "url": "https://tonehunt.org/philvr/8a69018e-3a1e-4251-a607-ecc12aaf533f",
+            "favs": 0,
+            "downloads": 0,
+            "model": "VOX VT50 Deluxe Tweed",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "dc187811-3bd4-4009-9540-e48b4b9532d6",
+            "url": "https://tonehunt.org/philvr/dc187811-3bd4-4009-9540-e48b4b9532d6",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Vox VT50 Boutique CL",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "6fdea2f8-5fbc-4cb6-b20a-964c6790fae6",
+            "url": "https://tonehunt.org/SoothsayerAudio/6fdea2f8-5fbc-4cb6-b20a-964c6790fae6",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Vox AC 30 CCH",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "be8fde60-f824-413b-987a-4c3e19f09878",
+            "url": "https://tonehunt.org/jazzyClean/be8fde60-f824-413b-987a-4c3e19f09878",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Vox AC30 C2",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "ba118ad2-693e-4cb3-a967-9dfebc0d1b3a",
+            "url": "https://tonehunt.org/philvr/ba118ad2-693e-4cb3-a967-9dfebc0d1b3a",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Vox VT50 Modded CL",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "24dea1a8-b3cc-4028-8a5b-b9bf68606a72",
+            "url": "https://tonehunt.org/philvr/24dea1a8-b3cc-4028-8a5b-b9bf68606a72",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Vox VT50",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "5eae1654-a900-4aff-934b-b1fd88f4e040",
+            "url": "https://tonehunt.org/emil.rohbe/5eae1654-a900-4aff-934b-b1fd88f4e040",
+            "favs": 0,
+            "downloads": 0,
+            "model": "VOX AC50",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "86360153-407a-4f30-aab1-c580944f1d4c",
+            "url": "https://tonehunt.org/emil.rohbe/86360153-407a-4f30-aab1-c580944f1d4c",
+            "favs": 0,
+            "downloads": 0,
+            "model": "VOX AC15",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "a64e0abd-c23f-45df-b34b-693421c886ac",
+            "url": "https://tonehunt.org/amalgamaudio/a64e0abd-c23f-45df-b34b-693421c886ac",
+            "favs": 0,
+            "downloads": 0,
+            "model": "VOX AC50 1965",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "5ef7c984-4c12-4a72-94d3-910a340a2d19",
+            "url": "https://tonehunt.org/SatsukiKuvift/5ef7c984-4c12-4a72-94d3-910a340a2d19",
+            "favs": 0,
+            "downloads": 0,
+            "model": "a VOX AC30 6TBX",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "e3b72ec8-9576-4fc9-b7f0-5ac77a213669",
+            "url": "https://tonehunt.org/SatsukiKuvift/e3b72ec8-9576-4fc9-b7f0-5ac77a213669",
+            "favs": 0,
+            "downloads": 0,
+            "model": "a VOX AC30 6TBX, Dave Petersen mod. by Shere Sound",
+            "brands": [
+                "MOD",
+                "Vox"
+            ]
+        },
+        {
+            "id": "bf8e0745-2393-4f65-92f3-c6242d1ae13b",
+            "url": "https://tonehunt.org/GPSO/bf8e0745-2393-4f65-92f3-c6242d1ae13b",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Hybrid - Marshall Mesa Fender Friedman Vox and more",
+            "brands": [
+                "Fender\u00ae",
+                "Friedman",
+                "Marshall",
+                "Vox"
+            ]
+        },
+        {
+            "id": "2991bf4b-4c4c-4c12-b6ae-8c6e3b891aeb",
+            "url": "https://tonehunt.org/amalgamaudio/2991bf4b-4c4c-4c12-b6ae-8c6e3b891aeb",
+            "favs": 0,
+            "downloads": 0,
+            "model": "VOX AC30 Top Boost 1964",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "10702aef-b3bc-4260-b1dc-50093ea126eb",
+            "url": "https://tonehunt.org/poingg/10702aef-b3bc-4260-b1dc-50093ea126eb",
+            "favs": 0,
+            "downloads": 0,
+            "model": "VOX AC-15",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "24d27013-e4d3-4795-ba75-7123edb5d0e9",
+            "url": "https://tonehunt.org/poingg/24d27013-e4d3-4795-ba75-7123edb5d0e9",
+            "favs": 0,
+            "downloads": 0,
+            "model": "VOX AC-10",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "68ca32df-51d3-4ec5-b2ca-305dae7bd775",
+            "url": "https://tonehunt.org/poingg/68ca32df-51d3-4ec5-b2ca-305dae7bd775",
+            "favs": 0,
+            "downloads": 0,
+            "model": "VOX AC-10",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "6fdb4808-5186-4621-8e47-ab3706897e2f",
+            "url": "https://tonehunt.org/poingg/6fdb4808-5186-4621-8e47-ab3706897e2f",
+            "favs": 0,
+            "downloads": 0,
+            "model": "VOX AC-15",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "ed27cd1c-e732-4822-824e-5e56aae161b9",
+            "url": "https://tonehunt.org/toalston/ed27cd1c-e732-4822-824e-5e56aae161b9",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Walrus Audio ACS1 VOX AC30",
+            "brands": [
+                "M-Audio",
+                "Vox",
+                "Walrus"
+            ]
+        },
+        {
+            "id": "a9e83d83-cb39-4457-8af8-83c418a575d0",
+            "url": "https://tonehunt.org/mattgoings/a9e83d83-cb39-4457-8af8-83c418a575d0",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Vox AC15CH",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "d40e4c41-ba33-48b9-b9a7-f7662ffae22a",
+            "url": "https://tonehunt.org/dickjonesify/d40e4c41-ba33-48b9-b9a7-f7662ffae22a",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Vox AC10C1",
+            "brands": [
+                "Vox"
+            ]
+        },
+        {
+            "id": "93ef0a4f-d0f9-4e09-a1e0-dd77bd1e90ca",
+            "url": "https://tonehunt.org/PippPriss/93ef0a4f-d0f9-4e09-a1e0-dd77bd1e90ca",
+            "favs": 0,
+            "downloads": 0,
+            "model": "VOX AC15",
+            "brands": [
+                "Vox"
+            ]
+        }
+    ],
+    "Palmer": [
+        {
+            "id": "962019ea-1e07-42b4-b04b-aef1c79679b8",
+            "url": "https://tonehunt.org/markswarbrick/962019ea-1e07-42b4-b04b-aef1c79679b8",
+            "favs": 0,
+            "downloads": 0,
+            "model": "GNA Vader 140 & Palmer Macht402",
+            "brands": [
+                "Palmer"
+            ]
+        },
+        {
+            "id": "95fb6a46-f1f6-474e-b9b8-b31aa7a0abd4",
+            "url": "https://tonehunt.org/markswarbrick/95fb6a46-f1f6-474e-b9b8-b31aa7a0abd4",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Pro-FEX2 Preamp & Palmer Macht 402 Power Amp",
+            "brands": [
+                "Palmer",
+                "Peavey"
+            ]
+        }
+    ],
+    "Peavey": [
+        {
+            "id": "27571536-9cd3-4ff3-a628-7c9e4b2df5f8",
+            "url": "https://tonehunt.org/kordas/27571536-9cd3-4ff3-a628-7c9e4b2df5f8",
+            "favs": 0,
+            "downloads": 0,
+            "model": "ProCo Rat + Peavey 212 special chorus",
+            "brands": [
+                "Peavey",
+                "Proco"
+            ]
+        },
+        {
+            "id": "95fb6a46-f1f6-474e-b9b8-b31aa7a0abd4",
+            "url": "https://tonehunt.org/markswarbrick/95fb6a46-f1f6-474e-b9b8-b31aa7a0abd4",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Pro-FEX2 Preamp & Palmer Macht 402 Power Amp",
+            "brands": [
+                "Palmer",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "2ed42321-43dd-47da-9d73-01cb0556540a",
+            "url": "https://tonehunt.org/OutmodedElectronics/2ed42321-43dd-47da-9d73-01cb0556540a",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 6505 1992 Original",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "a06043d3-bd07-4094-a855-7632d53186eb",
+            "url": "https://tonehunt.org/AIDA_DSP/a06043d3-bd07-4094-a855-7632d53186eb",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 6505+",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "f9b9e427-514c-47ec-8766-c0ea0032c8b7",
+            "url": "https://tonehunt.org/elegancestudi0smetal/f9b9e427-514c-47ec-8766-c0ea0032c8b7",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey, Vypyr",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "23b27ac3-c95b-4b32-8f32-592ac1fbff7c",
+            "url": "https://tonehunt.org/elegancestudi0smetal/23b27ac3-c95b-4b32-8f32-592ac1fbff7c",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey, Vypyr",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "5fefa43d-1741-4df8-b57e-affbfb65b92d",
+            "url": "https://tonehunt.org/scharrface/5fefa43d-1741-4df8-b57e-affbfb65b92d",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey, Ultra Plus 120",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "3ca11512-9ba9-441c-ae9f-1367fc2607a1",
+            "url": "https://tonehunt.org/SlamminMofo/3ca11512-9ba9-441c-ae9f-1367fc2607a1",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Rockmaster",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "ae2a3255-03e9-48df-8912-e4d3a3506842",
+            "url": "https://tonehunt.org/crmoses/ae2a3255-03e9-48df-8912-e4d3a3506842",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Classic 50",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "76ca16d5-f3fc-47db-9c56-de89b591fc7a",
+            "url": "https://tonehunt.org/crmoses/76ca16d5-f3fc-47db-9c56-de89b591fc7a",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Classic 50",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "320e06bb-e9d8-498c-b559-c95be1d8ce7c",
+            "url": "https://tonehunt.org/crmoses/320e06bb-e9d8-498c-b559-c95be1d8ce7c",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Classic 50",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "80c13823-16fb-4ff2-94b3-0564582b5165",
+            "url": "https://tonehunt.org/SlamminMofo/80c13823-16fb-4ff2-94b3-0564582b5165",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Classic Series 120",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "0a3e875a-12c8-48d8-9361-d4018b4714b8",
+            "url": "https://tonehunt.org/silver34324/0a3e875a-12c8-48d8-9361-d4018b4714b8",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 5150 II ",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "e71a9d80-08fa-4636-9279-11ac0f9ae055",
+            "url": "https://tonehunt.org/helgab/e71a9d80-08fa-4636-9279-11ac0f9ae055",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Ultra 212",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "7ccde6e4-9870-46cf-928d-b3f45b845f99",
+            "url": "https://tonehunt.org/helgab/7ccde6e4-9870-46cf-928d-b3f45b845f99",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey VTM 60",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "22606322-12f0-4d17-856e-370df6ed4ab4",
+            "url": "https://tonehunt.org/helgab/22606322-12f0-4d17-856e-370df6ed4ab4",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey VTM 60",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "6cc9f9e0-422c-44bb-81c8-9455177b9fa0",
+            "url": "https://tonehunt.org/Ratchetstrap.Media/6cc9f9e0-422c-44bb-81c8-9455177b9fa0",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Sansamp Bass Driver, Darkglass B7K, Peavey 6505+",
+            "brands": [
+                "Darkglass",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "2f8c5737-dc2b-414c-8e6f-05d1ddaddceb",
+            "url": "https://tonehunt.org/Ratchetstrap.Media/2f8c5737-dc2b-414c-8e6f-05d1ddaddceb",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 6505+",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "cab0cc7c-0671-4683-b6b1-101379a03f5e",
+            "url": "https://tonehunt.org/helgab/cab0cc7c-0671-4683-b6b1-101379a03f5e",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey VTM 60, Pro Tone Gary Holt MidBoost, Boss SD-1W, Kuro PhA, MXR M77, Duncan SD805",
+            "brands": [
+                "Boss",
+                "MXR",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "ef8f4d2d-475b-4089-88ef-5fd4ea152236",
+            "url": "https://tonehunt.org/PrimalNerd/ef8f4d2d-475b-4089-88ef-5fd4ea152236",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 6505 Lichtlaerm Audio The King in Yellow",
+            "brands": [
+                "King",
+                "M-Audio",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "f7dc2678-e741-4e06-bc1c-b9cd8b2198ee",
+            "url": "https://tonehunt.org/TheProducersCaptures/f7dc2678-e741-4e06-bc1c-b9cd8b2198ee",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Cantrell+ based on a own creation of Yuneo /  HBE based on Friedman HBE / Angel based on ENGL Savage SE /  Shiver based on Bogner Shiva / The Judge based on Hot Rodded Plexi / Kartakou Colossus based on Peavey 5150 and 6505",
+            "brands": [
+                "Bogner",
+                "ENGL",
+                "Friedman",
+                "Peavey",
+                "Savage"
+            ]
+        },
+        {
+            "id": "408503e7-37a3-48cd-8691-fa4f61c23c52",
+            "url": "https://tonehunt.org/helgab/408503e7-37a3-48cd-8691-fa4f61c23c52",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 6505+",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "7307a9ec-544b-4323-b437-efcf1f0eb88b",
+            "url": "https://tonehunt.org/helgab/7307a9ec-544b-4323-b437-efcf1f0eb88b",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 6505+, Kuro PhA, GCI Pariah, Way Huge Swollen Pickle, GCI Jugendstil, Behringer HM300, Wren and Cuff Tall Font, Pepers ROT, Pepers Humungus, Dolamo RAT. ",
+            "brands": [
+                "Behringer",
+                "Peavey",
+                "Way Huge",
+                "Wren Cuff"
+            ]
+        },
+        {
+            "id": "6509034f-988c-42f6-b984-cf46c8fca67c",
+            "url": "https://tonehunt.org/helgab/6509034f-988c-42f6-b984-cf46c8fca67c",
+            "favs": 0,
+            "downloads": 0,
+            "model": "GCI Pariah and Peavey 6534+",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "987b793f-1a78-465d-b7ab-24389eb6f761",
+            "url": "https://tonehunt.org/helgab/987b793f-1a78-465d-b7ab-24389eb6f761",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey XXX",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "4546ef53-2ed3-4348-87b2-346b24acbc15",
+            "url": "https://tonehunt.org/markswarbrick/4546ef53-2ed3-4348-87b2-346b24acbc15",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Bandit 112 Teal Stripe",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "c65c45a0-168f-491f-8d84-603e172c9fe0",
+            "url": "https://tonehunt.org/helgab/c65c45a0-168f-491f-8d84-603e172c9fe0",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Wren And Cuff Tall Font, Peavey Ultra 60w",
+            "brands": [
+                "Peavey",
+                "Wren Cuff"
+            ]
+        },
+        {
+            "id": "0bf0fcd0-c502-4a5e-badf-9cd1a012e38a",
+            "url": "https://tonehunt.org/helgab/0bf0fcd0-c502-4a5e-badf-9cd1a012e38a",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Ultra 60w",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "33ca4a6d-2701-4f99-8fd6-db6dd677932d",
+            "url": "https://tonehunt.org/markswarbrick/33ca4a6d-2701-4f99-8fd6-db6dd677932d",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey MP4 + Fox Pedal Defector Fuzz",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "009ef7b9-4178-4757-8c96-83dd168877c7",
+            "url": "https://tonehunt.org/markswarbrick/009ef7b9-4178-4757-8c96-83dd168877c7",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Bandit Solo Series",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "311fdd6a-0dbb-4621-9a8c-8dbe09641438",
+            "url": "https://tonehunt.org/kordas/311fdd6a-0dbb-4621-9a8c-8dbe09641438",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey, Nux",
+            "brands": [
+                "Nux",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "c2dfdf96-d5ff-4007-877b-b7cd0c9758ac",
+            "url": "https://tonehunt.org/kordas/c2dfdf96-d5ff-4007-877b-b7cd0c9758ac",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey special chorus 212 combo amp (Lead Channel)",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "8b7cb72f-ee7c-4061-8e57-df1e50859cd5",
+            "url": "https://tonehunt.org/markswarbrick/8b7cb72f-ee7c-4061-8e57-df1e50859cd5",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Bandit 112 Teal Stripe",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "b119b349-ff36-45a9-a92b-90b692049ada",
+            "url": "https://tonehunt.org/markswarbrick/b119b349-ff36-45a9-a92b-90b692049ada",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Series III MP-4 Mixer Amp",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "77086725-3361-41cb-904d-d50293e28513",
+            "url": "https://tonehunt.org/markswarbrick/77086725-3361-41cb-904d-d50293e28513",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Bandit 112 Teal Stripe",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "d4cc40e2-677f-4f50-a989-affc3f3797f4",
+            "url": "https://tonehunt.org/helgab/d4cc40e2-677f-4f50-a989-affc3f3797f4",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 5150 Block Letter",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "c7b84ca6-a73e-48cd-91ae-54ec2fb9726b",
+            "url": "https://tonehunt.org/helgab/c7b84ca6-a73e-48cd-91ae-54ec2fb9726b",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 6534+",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "cbe9d3b6-c5fa-40d6-8d09-50c72fe9e2a6",
+            "url": "https://tonehunt.org/IReignManI/cbe9d3b6-c5fa-40d6-8d09-50c72fe9e2a6",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey JSX",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "bae17072-e5f0-4897-b25a-8d7c5aed97af",
+            "url": "https://tonehunt.org/ArlingtonAudio/bae17072-e5f0-4897-b25a-8d7c5aed97af",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 5150",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "c961e708-9990-4df0-a0bb-fbad7ece754c",
+            "url": "https://tonehunt.org/ArlingtonAudio/c961e708-9990-4df0-a0bb-fbad7ece754c",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Engl, Marshall, Peavey",
+            "brands": [
+                "ENGL",
+                "Marshall",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "eae95c32-a017-415d-a6f0-9b99f6b589f4",
+            "url": "https://tonehunt.org/FabDef/eae95c32-a017-415d-a6f0-9b99f6b589f4",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 5150",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "7aef2781-5c7b-4c6a-b5e6-d64621e87cce",
+            "url": "https://tonehunt.org/GrassFed/7aef2781-5c7b-4c6a-b5e6-d64621e87cce",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Windsor, Ibanez TS-9, Fulltone OCD",
+            "brands": [
+                "Ibanez",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "876303e6-6d7f-47db-9b13-1a254e6564e2",
+            "url": "https://tonehunt.org/helgab/876303e6-6d7f-47db-9b13-1a254e6564e2",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Way Huge Swollen Pickle, Peavey 6534+",
+            "brands": [
+                "Peavey",
+                "Way Huge"
+            ]
+        },
+        {
+            "id": "aa51ee90-d528-41dc-b4a6-0ad19eb59bfa",
+            "url": "https://tonehunt.org/unnus/aa51ee90-d528-41dc-b4a6-0ad19eb59bfa",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 5150",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "a679154f-d588-4306-aed2-84f1a9acd5a0",
+            "url": "https://tonehunt.org/cosmiccrucible/a679154f-d588-4306-aed2-84f1a9acd5a0",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 6505",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "8f72c721-09f6-410b-a968-19efe667fb4d",
+            "url": "https://tonehunt.org/cosmiccrucible/8f72c721-09f6-410b-a968-19efe667fb4d",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 6505",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "86b7152d-2089-4851-910b-e5053679e4d3",
+            "url": "https://tonehunt.org/Ozzrocks/86b7152d-2089-4851-910b-e5053679e4d3",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 6505+ High Gain",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "cc417d46-d6d0-4a9b-8142-506964981b2c",
+            "url": "https://tonehunt.org/ArlingtonAudio/cc417d46-d6d0-4a9b-8142-506964981b2c",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey - 6505",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "6ca3c07d-f94a-4fa5-be85-4fce2cead08c",
+            "url": "https://tonehunt.org/Thumas/6ca3c07d-f94a-4fa5-be85-4fce2cead08c",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 6505",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "234e26bb-f9d1-4180-b409-e2d3747e1d0c",
+            "url": "https://tonehunt.org/FabDef/234e26bb-f9d1-4180-b409-e2d3747e1d0c",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey ULTRA plus",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "a2471ff2-066b-4b83-8d11-47bb840309f4",
+            "url": "https://tonehunt.org/ReedDunn/a2471ff2-066b-4b83-8d11-47bb840309f4",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Valve King Vk100",
+            "brands": [
+                "King",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "350b5cd5-591a-456e-b9ac-11ab9382420f",
+            "url": "https://tonehunt.org/ReedDunn/350b5cd5-591a-456e-b9ac-11ab9382420f",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Valve King Vk100",
+            "brands": [
+                "King",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "7298511d-c0b4-49f1-9ec4-430eb8ac3a69",
+            "url": "https://tonehunt.org/helgab/7298511d-c0b4-49f1-9ec4-430eb8ac3a69",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 5150, Peavey XXX, Peavey 6534+, Peavey 6505+, Peavey JSX, EVH 5150 III 50W 6L6",
+            "brands": [
+                "EVH",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "45a5ef21-5072-4c3c-9d67-befd54c50623",
+            "url": "https://tonehunt.org/ReedDunn/45a5ef21-5072-4c3c-9d67-befd54c50623",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Valve King Vk100",
+            "brands": [
+                "King",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "02984d30-3691-4e95-9084-7d3386e8bb7f",
+            "url": "https://tonehunt.org/ReedDunn/02984d30-3691-4e95-9084-7d3386e8bb7f",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Valve King Vk100",
+            "brands": [
+                "King",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "6b5d99f9-9310-443a-bccb-51eed05b5078",
+            "url": "https://tonehunt.org/ReedDunn/6b5d99f9-9310-443a-bccb-51eed05b5078",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Valve King Vk100",
+            "brands": [
+                "King",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "500a0def-d959-4a90-bb4c-d380a6a273b0",
+            "url": "https://tonehunt.org/ReedDunn/500a0def-d959-4a90-bb4c-d380a6a273b0",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Valve King Vk100",
+            "brands": [
+                "King",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "e27e2ad2-66b3-4ff6-a2ca-9455111d99f3",
+            "url": "https://tonehunt.org/ArlingtonAudio/e27e2ad2-66b3-4ff6-a2ca-9455111d99f3",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Decade",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "fb72a9ba-5c55-4d6b-af48-9d1bd5e0b241",
+            "url": "https://tonehunt.org/FabDef/fb72a9ba-5c55-4d6b-af48-9d1bd5e0b241",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Triple XXX",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "cfde5e8d-2939-4549-81a4-5d6da854de78",
+            "url": "https://tonehunt.org/FabDef/cfde5e8d-2939-4549-81a4-5d6da854de78",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Triple XXX",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "63bd79ca-ae16-4ee2-afef-66eca7076f9f",
+            "url": "https://tonehunt.org/FabDef/63bd79ca-ae16-4ee2-afef-66eca7076f9f",
+            "favs": 0,
+            "downloads": 0,
+            "model": "PEAVEY SUPREME XL",
+            "brands": [
+                "Peavey",
+                "Supreme"
+            ]
+        },
+        {
+            "id": "937331c6-f149-41bd-808c-398cf8a2407f",
+            "url": "https://tonehunt.org/cosmiccrucible/937331c6-f149-41bd-808c-398cf8a2407f",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 6505",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "52722ff8-6130-41ed-a2b7-d9b8179953a8",
+            "url": "https://tonehunt.org/cosmiccrucible/52722ff8-6130-41ed-a2b7-d9b8179953a8",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 6505",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "adf6a5c7-5136-4770-a85a-4ac50c37f1fd",
+            "url": "https://tonehunt.org/Ideofunk/adf6a5c7-5136-4770-a85a-4ac50c37f1fd",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 5150 Block Logo, Horizon Devices Precision Drive",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "efc7d13a-e612-4ff1-a34d-718a3675770a",
+            "url": "https://tonehunt.org/jesterdyne/efc7d13a-e612-4ff1-a34d-718a3675770a",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 5150/6505, Boss SD-1",
+            "brands": [
+                "Boss",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "64a30169-e09d-4626-a000-664d1ec1e603",
+            "url": "https://tonehunt.org/joao/64a30169-e09d-4626-a000-664d1ec1e603",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey XXX",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "d746a74b-af17-4e10-9543-17e85826187f",
+            "url": "https://tonehunt.org/FabDef/d746a74b-af17-4e10-9543-17e85826187f",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey rockmaster/engl e530",
+            "brands": [
+                "ENGL",
+                "Peavey"
+            ]
+        },
+        {
+            "id": "b2c4b514-73f3-4d34-9f59-814c2c92f0c4",
+            "url": "https://tonehunt.org/FabDef/b2c4b514-73f3-4d34-9f59-814c2c92f0c4",
+            "favs": 0,
+            "downloads": 0,
+            "model": "PEAVEY ULTRA plus",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "980a12d2-7b1a-47d6-bbf4-50fa1a0f9ba5",
+            "url": "https://tonehunt.org/H3X1D3C1M4L/980a12d2-7b1a-47d6-bbf4-50fa1a0f9ba5",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Rockmaster",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "93d7b361-b4ee-4361-80eb-b380273f6665",
+            "url": "https://tonehunt.org/Matty/93d7b361-b4ee-4361-80eb-b380273f6665",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Masterpiece 50",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "4b9d0a9d-c19a-434e-8122-096dd1cb2c49",
+            "url": "https://tonehunt.org/Stillwork/4b9d0a9d-c19a-434e-8122-096dd1cb2c49",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Classic 100",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "c3f0cc9e-aea8-43af-bfc0-acf311cf5174",
+            "url": "https://tonehunt.org/LEH666/c3f0cc9e-aea8-43af-bfc0-acf311cf5174",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey Valveking MK II",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "dd6b3581-c53a-46ee-9b7b-0a15d7bfe142",
+            "url": "https://tonehunt.org/Dev Crawford/dd6b3581-c53a-46ee-9b7b-0a15d7bfe142",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 6160 - Modded",
+            "brands": [
+                "Peavey"
+            ]
+        },
+        {
+            "id": "24805d12-ea3c-44f6-b2ce-2cc26093aee7",
+            "url": "https://tonehunt.org/joechugs/24805d12-ea3c-44f6-b2ce-2cc26093aee7",
+            "favs": 0,
+            "downloads": 0,
+            "model": "Peavey 5150 Block Letter",
+            "brands": [
+                "Peavey"
+            ]
+        }
+    ],
+    "Proco": [
+        {
+            "id": "27571536-9cd3-4ff3-a628-7c9e4b2df5f8",
+            "url": "https://tonehunt.org/kordas/27571536-9cd3-4ff3-a628-7c9e4b2df5f8",
+            "favs": 0,
+            "downloads": 0,
+            "model": "ProCo Rat + Peavey 212 special chorus",
+            "brands": [
+                "Peavey",
+                "Proco"
+            ]
+        }
+    ],
     "Friedman": [
         {
             "id": "6ac668e4-d3c4-4af0-a558-3827d464dfe2",
@@ -2603,695 +3656,6 @@
                 "M-Audio",
                 "Vox",
                 "Walrus"
-            ]
-        }
-    ],
-    "Fender\u00ae": [
-        {
-            "id": "ec9c9f2a-57ec-433b-8f19-ae4445075ae1",
-            "url": "https://tonehunt.org/DahmanMusic/ec9c9f2a-57ec-433b-8f19-ae4445075ae1",
-            "favs": 0,
-            "downloads": 0,
-            "model": "2015 Fender Hot Rod Deluxe III",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "6a3db32b-15cc-4ea7-a3ab-fd990fae3800",
-            "url": "https://tonehunt.org/DahmanMusic/6a3db32b-15cc-4ea7-a3ab-fd990fae3800",
-            "favs": 0,
-            "downloads": 0,
-            "model": "1976 Fender Deluxe Reverb",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "20704e59-4c44-4505-9501-981addbae649",
-            "url": "https://tonehunt.org/DahmanMusic/20704e59-4c44-4505-9501-981addbae649",
-            "favs": 0,
-            "downloads": 0,
-            "model": "1994 Fender Princeton Chorus",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "27196b6c-ae11-4d40-a1c5-e8404320ce77",
-            "url": "https://tonehunt.org/Kosmicaudio/27196b6c-ae11-4d40-a1c5-e8404320ce77",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Hot Rod Deluxe III",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "72780bc7-31c8-44be-b3d4-34dab853fa84",
-            "url": "https://tonehunt.org/domdadom/72780bc7-31c8-44be-b3d4-34dab853fa84",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Hotrod Deluxe",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "a230f816-1ef5-45f5-961b-c4deaddce503",
-            "url": "https://tonehunt.org/Wawa4379/a230f816-1ef5-45f5-961b-c4deaddce503",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Twin Reverb",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "7a2e02ec-c68a-4619-93d9-996134fcbb46",
-            "url": "https://tonehunt.org/danielnguyen/7a2e02ec-c68a-4619-93d9-996134fcbb46",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender '62 Princeton Chris Stapleton Edition",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "468a3d85-0bb3-4cdb-ab96-4fb9d899f29b",
-            "url": "https://tonehunt.org/sdatkinson/468a3d85-0bb3-4cdb-ab96-4fb9d899f29b",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Deluxe Reverb",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "ad87cde2-50dc-42dd-9c7d-3a8f7e6f4bde",
-            "url": "https://tonehunt.org/domdadom/ad87cde2-50dc-42dd-9c7d-3a8f7e6f4bde",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Hotrod Deluxe",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "e9fe6461-6fe7-4c4e-a0bc-6938485a5641",
-            "url": "https://tonehunt.org/philvr/e9fe6461-6fe7-4c4e-a0bc-6938485a5641",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Princeton + Boss DS-2",
-            "brands": [
-                "Boss",
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "a756eab7-6970-45aa-a311-35d640bf1f97",
-            "url": "https://tonehunt.org/philvr/a756eab7-6970-45aa-a311-35d640bf1f97",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Princeton",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "3989771e-2bb1-44d5-b1c6-f2bfe1105a81",
-            "url": "https://tonehunt.org/danielnguyen/3989771e-2bb1-44d5-b1c6-f2bfe1105a81",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender '62 Princeton Chris Stapleton Edition",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "be876db7-51bc-41e9-9ab8-31fea3cbc360",
-            "url": "https://tonehunt.org/Kosmicaudio/be876db7-51bc-41e9-9ab8-31fea3cbc360",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Hot Rod Deluxe III",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "c4912321-ac7c-4929-8067-d847b717d34c",
-            "url": "https://tonehunt.org/danielnguyen/c4912321-ac7c-4929-8067-d847b717d34c",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender '57 Custom Deluxe",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "f1a8a96f-cebd-4f8e-858a-c14e195dd76e",
-            "url": "https://tonehunt.org/danielnguyen/f1a8a96f-cebd-4f8e-858a-c14e195dd76e",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender '62 Princeton Chris Stapleton Edition",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "30a252d8-b822-4647-844b-fcdd843aeace",
-            "url": "https://tonehunt.org/Kosmicaudio/30a252d8-b822-4647-844b-fcdd843aeace",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Hot Rod Deluxe III",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "c776316e-2837-4f69-9253-0ae3ef66a268",
-            "url": "https://tonehunt.org/oneared/c776316e-2837-4f69-9253-0ae3ef66a268",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender TwinReverb",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "1283e09e-00e0-4800-9101-514aa140103a",
-            "url": "https://tonehunt.org/oneared/1283e09e-00e0-4800-9101-514aa140103a",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender HotRod Deluxe v3",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "e6562e2f-0a16-430f-aa8c-a7ad529ec282",
-            "url": "https://tonehunt.org/Kosmicaudio/e6562e2f-0a16-430f-aa8c-a7ad529ec282",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Hot Rod Deluxe III",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "1b8a471f-6012-4f8a-bf7e-2c717dc794fd",
-            "url": "https://tonehunt.org/Kosmicaudio/1b8a471f-6012-4f8a-bf7e-2c717dc794fd",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Hot Rod Deluxe III",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "222994d2-48ae-47e6-a9df-cee22d7c9b8c",
-            "url": "https://tonehunt.org/Kosmicaudio/222994d2-48ae-47e6-a9df-cee22d7c9b8c",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Hot Rod Deluxe III",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "129e1f38-d810-4ef4-b775-7d773674b6d5",
-            "url": "https://tonehunt.org/Kosmicaudio/129e1f38-d810-4ef4-b775-7d773674b6d5",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Hot Rod Deluxe III",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "5a03798c-1d25-4c9c-b0bd-5d49d7997502",
-            "url": "https://tonehunt.org/Ideofunk/5a03798c-1d25-4c9c-b0bd-5d49d7997502",
-            "favs": 0,
-            "downloads": 0,
-            "model": "1965 Fender Bassman Head",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "f638691b-8337-459d-9536-9be0b24f5d0c",
-            "url": "https://tonehunt.org/Ideofunk/f638691b-8337-459d-9536-9be0b24f5d0c",
-            "favs": 0,
-            "downloads": 0,
-            "model": "1967 Fender Bassman head",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "38fe8e58-57a2-42df-8461-5a730193cd7e",
-            "url": "https://tonehunt.org/elgringoloco/38fe8e58-57a2-42df-8461-5a730193cd7e",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Super-Sonic 60W Head mk.1 - Flat EQ - Complete Pack",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "8465cc40-21ba-42e4-9a2e-538f9a14961b",
-            "url": "https://tonehunt.org/MaxGerardBeech/8465cc40-21ba-42e4-9a2e-538f9a14961b",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Sidekick 30",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "7ddb69ab-c1fd-46e9-9614-12cc17d28d30",
-            "url": "https://tonehunt.org/Raksha/7ddb69ab-c1fd-46e9-9614-12cc17d28d30",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Princeton Recording Amp",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "60ed5122-1ac5-4ef7-8238-7b8b5c8c88a6",
-            "url": "https://tonehunt.org/Gigmaster/60ed5122-1ac5-4ef7-8238-7b8b5c8c88a6",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Brownface Deluxe",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "93bf86d0-d391-47b5-a146-3012474e66ee",
-            "url": "https://tonehunt.org/PetruXX/93bf86d0-d391-47b5-a146-3012474e66ee",
-            "favs": 0,
-            "downloads": 0,
-            "model": "fender princeton",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "569755de-6aa6-44c2-98a5-e415e54c5feb",
-            "url": "https://tonehunt.org/Raksha/569755de-6aa6-44c2-98a5-e415e54c5feb",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Princeton Recording Amp",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "eed4cab8-6e3c-4abe-9907-2e9236c7c066",
-            "url": "https://tonehunt.org/Gigmaster/eed4cab8-6e3c-4abe-9907-2e9236c7c066",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Princeton Reverb",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "5a31eb97-65b4-48db-b20a-c67f33a028e7",
-            "url": "https://tonehunt.org/hendrix/5a31eb97-65b4-48db-b20a-c67f33a028e7",
-            "favs": 0,
-            "downloads": 0,
-            "model": "1965  fender twin reverb  fender blackface",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "a5e942d2-2ea1-45c8-a919-34f1ac45cd13",
-            "url": "https://tonehunt.org/OutmodedElectronics/a5e942d2-2ea1-45c8-a919-34f1ac45cd13",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Pro Junior IV LTD",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "b0533161-2032-4661-86cd-64a75cd80b2e",
-            "url": "https://tonehunt.org/Ideofunk/b0533161-2032-4661-86cd-64a75cd80b2e",
-            "favs": 0,
-            "downloads": 0,
-            "model": "1965 Fender Bassman head",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "ebc8dc56-93b2-4e89-959c-298ba3c6148d",
-            "url": "https://tonehunt.org/domdadom/ebc8dc56-93b2-4e89-959c-298ba3c6148d",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Hotrod Deluxe",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "73127b2b-4437-4459-86ff-979c836793b3",
-            "url": "https://tonehunt.org/amalgamaudio/73127b2b-4437-4459-86ff-979c836793b3",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Tweed Deluxe 5E3 1957",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "9a68b3f9-16df-421b-ba19-faff8359afa0",
-            "url": "https://tonehunt.org/domdadom/9a68b3f9-16df-421b-ba19-faff8359afa0",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Hotrod Deluxe Boss Blues Driver",
-            "brands": [
-                "Boss",
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "12432595-765f-46e8-bca6-bb14fd8e91fb",
-            "url": "https://tonehunt.org/d_Vincent_b/12432595-765f-46e8-bca6-bb14fd8e91fb",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Twin Reverb",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "0cdbe2df-7b6a-4117-98ef-84ce62c0a004",
-            "url": "https://tonehunt.org/SoothsayerAudio/0cdbe2df-7b6a-4117-98ef-84ce62c0a004",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Bassman",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "438c2d16-e0b3-426d-939f-11a03df23d0e",
-            "url": "https://tonehunt.org/rockwad/438c2d16-e0b3-426d-939f-11a03df23d0e",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Prosonic Model CSR13",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "6b4a22d8-c60e-41a2-820b-156ca4c9c256",
-            "url": "https://tonehunt.org/rockwad/6b4a22d8-c60e-41a2-820b-156ca4c9c256",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Prosonic Model CSR13",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "d02daf24-5334-4563-941e-7107337c5e2a",
-            "url": "https://tonehunt.org/rockwad/d02daf24-5334-4563-941e-7107337c5e2a",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Prosonic Model CSR13 v2",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "117c9590-96c0-4a02-aa5b-16573723f0e5",
-            "url": "https://tonehunt.org/MODFather/117c9590-96c0-4a02-aa5b-16573723f0e5",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Blues Deluxe Re-issue PR246",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "dcd31954-1704-469d-aa9c-a7541e3545d8",
-            "url": "https://tonehunt.org/MODFather/dcd31954-1704-469d-aa9c-a7541e3545d8",
-            "favs": 0,
-            "downloads": 0,
-            "model": " Fender Twin Reverb 68 Custom PR 186",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "73e5d7c4-e2ba-4d76-a656-bf98da62512f",
-            "url": "https://tonehunt.org/d_Vincent_b/73e5d7c4-e2ba-4d76-a656-bf98da62512f",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Champ 5F1 ",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "ee2fae27-6726-4afe-96fb-23cff119a30e",
-            "url": "https://tonehunt.org/MODFather/ee2fae27-6726-4afe-96fb-23cff119a30e",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Twin Reverb",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "f98c29db-52b4-472f-91e2-682cb335e4ce",
-            "url": "https://tonehunt.org/MODFather/f98c29db-52b4-472f-91e2-682cb335e4ce",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Blues Deluxe",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "eda08b18-a8f5-4411-8504-5304de08545a",
-            "url": "https://tonehunt.org/jhall/eda08b18-a8f5-4411-8504-5304de08545a",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Bassman Head",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "2a899fa9-2960-403b-b440-e366403c095f",
-            "url": "https://tonehunt.org/domdadom/2a899fa9-2960-403b-b440-e366403c095f",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Hotrod Deluxe III Red Nova",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "324f3a40-23ff-4904-a77f-edaed0ddcfcd",
-            "url": "https://tonehunt.org/domdadom/324f3a40-23ff-4904-a77f-edaed0ddcfcd",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Fender Hot Rod Deluxe III Red Nova",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "1319d28a-82fb-4486-bbdc-f373e035c403",
-            "url": "https://tonehunt.org/ArlingtonAudio/1319d28a-82fb-4486-bbdc-f373e035c403",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Bassman 50",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "bf8e0745-2393-4f65-92f3-c6242d1ae13b",
-            "url": "https://tonehunt.org/GPSO/bf8e0745-2393-4f65-92f3-c6242d1ae13b",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Hybrid - Marshall Mesa Fender Friedman Vox and more",
-            "brands": [
-                "Fender\u00ae",
-                "Friedman",
-                "Marshall",
-                "Vox"
-            ]
-        },
-        {
-            "id": "b2d63ba2-b4b9-450a-a4f9-a6b1180c45ec",
-            "url": "https://tonehunt.org/amalgamaudio/b2d63ba2-b4b9-450a-a4f9-a6b1180c45ec",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Blonde Bassman 1964",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "a0ed131a-d8f6-4aee-a809-942b8cb46752",
-            "url": "https://tonehunt.org/Simonbaughen/a0ed131a-d8f6-4aee-a809-942b8cb46752",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender",
-            "brands": [
-                "Fender Shop",
-                "Fender Shop Series",
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "816adb07-6beb-4325-9273-1047afd47b9e",
-            "url": "https://tonehunt.org/amalgamaudio/816adb07-6beb-4325-9273-1047afd47b9e",
-            "favs": 0,
-            "downloads": 0,
-            "model": "1965 Fender Super Reverb Black Face",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "2962695c-a996-478b-8250-10be4c3a15e7",
-            "url": "https://tonehunt.org/greenguitarguy/2962695c-a996-478b-8250-10be4c3a15e7",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Princeton",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "d2e1b05e-68fc-4a53-8a59-2c3459325d36",
-            "url": "https://tonehunt.org/aviavi123/d2e1b05e-68fc-4a53-8a59-2c3459325d36",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Deluxe Reverb II",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "fb939487-2d64-49ec-be8b-3983f3893a16",
-            "url": "https://tonehunt.org/TimR/fb939487-2d64-49ec-be8b-3983f3893a16",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Twin Reverb",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "3cf81a6a-51e3-4ab8-871c-15ee465cb646",
-            "url": "https://tonehunt.org/Fandermill/3cf81a6a-51e3-4ab8-871c-15ee465cb646",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Champ Silverface 1975",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "c67c82fd-3c0c-4151-aa34-07525dc6b913",
-            "url": "https://tonehunt.org/poingg/c67c82fd-3c0c-4151-aa34-07525dc6b913",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Tweed Champ clone",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "81b255ca-36b2-4a92-9cf3-5480c800db66",
-            "url": "https://tonehunt.org/poingg/81b255ca-36b2-4a92-9cf3-5480c800db66",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender 57 Custom Deluxe",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "88f4dddd-8776-40f9-b094-d4b453a5da34",
-            "url": "https://tonehunt.org/WJHemenway/88f4dddd-8776-40f9-b094-d4b453a5da34",
-            "favs": 0,
-            "downloads": 0,
-            "model": "MZERO & FENDER DELUXE REVERB",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "705d7d39-05b9-4222-8fe6-00dfc61952d8",
-            "url": "https://tonehunt.org/Simonbaughen/705d7d39-05b9-4222-8fe6-00dfc61952d8",
-            "favs": 0,
-            "downloads": 0,
-            "model": "5E3 Fender 1958",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "0d3b8808-525d-4a29-8a6d-ff48cf812db1",
-            "url": "https://tonehunt.org/Dev Crawford/0d3b8808-525d-4a29-8a6d-ff48cf812db1",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Bassman - Blackface",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "deb098ea-54da-44fc-9702-d9ad161cb121",
-            "url": "https://tonehunt.org/Dev Crawford/deb098ea-54da-44fc-9702-d9ad161cb121",
-            "favs": 0,
-            "downloads": 0,
-            "model": "FENDER BASSMAN",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "1fae9a2e-a403-4d95-ba7c-7597251540f8",
-            "url": "https://tonehunt.org/OrangePeeled/1fae9a2e-a403-4d95-ba7c-7597251540f8",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender 5E3 Tweed Deluxe",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "02599066-c049-4853-ba9a-a89894f45bcb",
-            "url": "https://tonehunt.org/WJHemenway/02599066-c049-4853-ba9a-a89894f45bcb",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Deluxe Reverb",
-            "brands": [
-                "Fender\u00ae"
-            ]
-        },
-        {
-            "id": "4cc9406a-505b-44ff-b022-a21c91870ade",
-            "url": "https://tonehunt.org/TimR/4cc9406a-505b-44ff-b022-a21c91870ade",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Fender Twin Reverb",
-            "brands": [
-                "Fender\u00ae"
             ]
         }
     ],
@@ -7107,324 +7471,6 @@
                 "Ibanez",
                 "Soldano",
                 "Synergy"
-            ]
-        }
-    ],
-    "Vox": [
-        {
-            "id": "4e216642-f358-47b1-a895-a4a8402368bf",
-            "url": "https://tonehunt.org/Raksha/4e216642-f358-47b1-a895-a4a8402368bf",
-            "favs": 0,
-            "downloads": 0,
-            "model": "VOX AC30 CCH",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "2d1b0e87-3355-4abd-88ba-a56b34bd7069",
-            "url": "https://tonehunt.org/rbustos89/2d1b0e87-3355-4abd-88ba-a56b34bd7069",
-            "favs": 0,
-            "downloads": 0,
-            "model": "VOX AC30 '96 by Jon Arnold",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "fdab2cb7-a929-4d7d-a766-0af9649ddea6",
-            "url": "https://tonehunt.org/rbustos89/fdab2cb7-a929-4d7d-a766-0af9649ddea6",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Vox Ac30 62'  by Jonathan Arnold",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "d5889b4d-f607-4c7d-8173-f6f41ad8261f",
-            "url": "https://tonehunt.org/TheCheapCleaner/d5889b4d-f607-4c7d-8173-f6f41ad8261f",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Vox Pathfinder 15R",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "b533c9c4-adc5-4307-991d-a1c50ddd012c",
-            "url": "https://tonehunt.org/philvr/b533c9c4-adc5-4307-991d-a1c50ddd012c",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Vox VT50 Boutique OD",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "82d9b3b6-a990-4656-aa92-855e14b9a116",
-            "url": "https://tonehunt.org/philvr/82d9b3b6-a990-4656-aa92-855e14b9a116",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Vox VT50 AC15TB",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "0f695ebf-62fa-40ca-b485-0779c1771137",
-            "url": "https://tonehunt.org/philvr/0f695ebf-62fa-40ca-b485-0779c1771137",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Vox VT50 AC15",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "1252ad61-888b-4acd-8933-3f922f3144ef",
-            "url": "https://tonehunt.org/philvr/1252ad61-888b-4acd-8933-3f922f3144ef",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Vox VT50 Super",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "966d4aab-1116-4097-a597-07d89a0dff55",
-            "url": "https://tonehunt.org/philvr/966d4aab-1116-4097-a597-07d89a0dff55",
-            "favs": 0,
-            "downloads": 0,
-            "model": "VOX VT50 Tweed 4x12",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "30a10004-a5fd-4f0e-9900-d7e146bf93e1",
-            "url": "https://tonehunt.org/philvr/30a10004-a5fd-4f0e-9900-d7e146bf93e1",
-            "favs": 0,
-            "downloads": 0,
-            "model": "VOX VT50 Tweed 2x12",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "8a69018e-3a1e-4251-a607-ecc12aaf533f",
-            "url": "https://tonehunt.org/philvr/8a69018e-3a1e-4251-a607-ecc12aaf533f",
-            "favs": 0,
-            "downloads": 0,
-            "model": "VOX VT50 Deluxe Tweed",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "dc187811-3bd4-4009-9540-e48b4b9532d6",
-            "url": "https://tonehunt.org/philvr/dc187811-3bd4-4009-9540-e48b4b9532d6",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Vox VT50 Boutique CL",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "6fdea2f8-5fbc-4cb6-b20a-964c6790fae6",
-            "url": "https://tonehunt.org/SoothsayerAudio/6fdea2f8-5fbc-4cb6-b20a-964c6790fae6",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Vox AC 30 CCH",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "be8fde60-f824-413b-987a-4c3e19f09878",
-            "url": "https://tonehunt.org/jazzyClean/be8fde60-f824-413b-987a-4c3e19f09878",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Vox AC30 C2",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "ba118ad2-693e-4cb3-a967-9dfebc0d1b3a",
-            "url": "https://tonehunt.org/philvr/ba118ad2-693e-4cb3-a967-9dfebc0d1b3a",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Vox VT50 Modded CL",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "24dea1a8-b3cc-4028-8a5b-b9bf68606a72",
-            "url": "https://tonehunt.org/philvr/24dea1a8-b3cc-4028-8a5b-b9bf68606a72",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Vox VT50",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "5eae1654-a900-4aff-934b-b1fd88f4e040",
-            "url": "https://tonehunt.org/emil.rohbe/5eae1654-a900-4aff-934b-b1fd88f4e040",
-            "favs": 0,
-            "downloads": 0,
-            "model": "VOX AC50",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "86360153-407a-4f30-aab1-c580944f1d4c",
-            "url": "https://tonehunt.org/emil.rohbe/86360153-407a-4f30-aab1-c580944f1d4c",
-            "favs": 0,
-            "downloads": 0,
-            "model": "VOX AC15",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "a64e0abd-c23f-45df-b34b-693421c886ac",
-            "url": "https://tonehunt.org/amalgamaudio/a64e0abd-c23f-45df-b34b-693421c886ac",
-            "favs": 0,
-            "downloads": 0,
-            "model": "VOX AC50 1965",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "5ef7c984-4c12-4a72-94d3-910a340a2d19",
-            "url": "https://tonehunt.org/SatsukiKuvift/5ef7c984-4c12-4a72-94d3-910a340a2d19",
-            "favs": 0,
-            "downloads": 0,
-            "model": "a VOX AC30 6TBX",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "e3b72ec8-9576-4fc9-b7f0-5ac77a213669",
-            "url": "https://tonehunt.org/SatsukiKuvift/e3b72ec8-9576-4fc9-b7f0-5ac77a213669",
-            "favs": 0,
-            "downloads": 0,
-            "model": "a VOX AC30 6TBX, Dave Petersen mod. by Shere Sound",
-            "brands": [
-                "MOD",
-                "Vox"
-            ]
-        },
-        {
-            "id": "bf8e0745-2393-4f65-92f3-c6242d1ae13b",
-            "url": "https://tonehunt.org/GPSO/bf8e0745-2393-4f65-92f3-c6242d1ae13b",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Hybrid - Marshall Mesa Fender Friedman Vox and more",
-            "brands": [
-                "Fender\u00ae",
-                "Friedman",
-                "Marshall",
-                "Vox"
-            ]
-        },
-        {
-            "id": "2991bf4b-4c4c-4c12-b6ae-8c6e3b891aeb",
-            "url": "https://tonehunt.org/amalgamaudio/2991bf4b-4c4c-4c12-b6ae-8c6e3b891aeb",
-            "favs": 0,
-            "downloads": 0,
-            "model": "VOX AC30 Top Boost 1964",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "10702aef-b3bc-4260-b1dc-50093ea126eb",
-            "url": "https://tonehunt.org/poingg/10702aef-b3bc-4260-b1dc-50093ea126eb",
-            "favs": 0,
-            "downloads": 0,
-            "model": "VOX AC-15",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "24d27013-e4d3-4795-ba75-7123edb5d0e9",
-            "url": "https://tonehunt.org/poingg/24d27013-e4d3-4795-ba75-7123edb5d0e9",
-            "favs": 0,
-            "downloads": 0,
-            "model": "VOX AC-10",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "68ca32df-51d3-4ec5-b2ca-305dae7bd775",
-            "url": "https://tonehunt.org/poingg/68ca32df-51d3-4ec5-b2ca-305dae7bd775",
-            "favs": 0,
-            "downloads": 0,
-            "model": "VOX AC-10",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "6fdb4808-5186-4621-8e47-ab3706897e2f",
-            "url": "https://tonehunt.org/poingg/6fdb4808-5186-4621-8e47-ab3706897e2f",
-            "favs": 0,
-            "downloads": 0,
-            "model": "VOX AC-15",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "ed27cd1c-e732-4822-824e-5e56aae161b9",
-            "url": "https://tonehunt.org/toalston/ed27cd1c-e732-4822-824e-5e56aae161b9",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Walrus Audio ACS1 VOX AC30",
-            "brands": [
-                "M-Audio",
-                "Vox",
-                "Walrus"
-            ]
-        },
-        {
-            "id": "a9e83d83-cb39-4457-8af8-83c418a575d0",
-            "url": "https://tonehunt.org/mattgoings/a9e83d83-cb39-4457-8af8-83c418a575d0",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Vox AC15CH",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "d40e4c41-ba33-48b9-b9a7-f7662ffae22a",
-            "url": "https://tonehunt.org/dickjonesify/d40e4c41-ba33-48b9-b9a7-f7662ffae22a",
-            "favs": 0,
-            "downloads": 0,
-            "model": "Vox AC10C1",
-            "brands": [
-                "Vox"
-            ]
-        },
-        {
-            "id": "93ef0a4f-d0f9-4e09-a1e0-dd77bd1e90ca",
-            "url": "https://tonehunt.org/PippPriss/93ef0a4f-d0f9-4e09-a1e0-dd77bd1e90ca",
-            "favs": 0,
-            "downloads": 0,
-            "model": "VOX AC15",
-            "brands": [
-                "Vox"
             ]
         }
     ],
